@@ -1,0 +1,37 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+  </head>
+
+<body>
+	<div class="container">
+
+
+	<!-- This form sends data to a file called "upload.php"-->
+	<form action="upload.php" method="post" enctype="multipart/form-data">
+	    <div class="row">
+	    <p> Select image to upload: </p>
+	    </div>
+
+	    <div class="row">
+	    <input type="file" name="fileToUpload" id="fileToUpload">
+		</div>
+	    <div class="row">
+	    	<br>
+	    </div>
+		<div class="row">
+	    <input type="submit" value="Upload Image" name="submit">
+		</div>
+	</form>
+
+	</div>
+</body>
+</html>
