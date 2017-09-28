@@ -38,7 +38,7 @@ $arr = array( "Miracles" => "mp3Files/Miracles.mp3",
 	         Your browser does not support the audio element.
 	        </audio>
 	        </div>
-	      </div>
+	    </div>
 	<?php 
 	};
 	?>

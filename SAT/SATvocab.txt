@@ -1,0 +1,970 @@
+{"definition": "(v.) to humiliate, degrade (After being overthrown and abased, the deposed leader offered to bow down to his conqueror.)", "word": "abase"}
+{"definition": "(v.) to reduce, lessen (The rain poured down for a while, then abated.)", "word": "abate"}
+{"definition": "(v.) to give up a position, usually one of leadership (When he realized that the revolutionaries would surely win, the king abdicated his throne.)", "word": "abdicate"}
+{"definition": "(v.) to kidnap, take by force (The evildoers abducted the fairy princess from her happy home.)", "word": "abduct"}
+{"definition": "(n.) something that differs from the norm (In 1918, the Boston Red Sox won the World Series, but the success turned out to be an aberration, and the Red Sox have not won a World Series since.)", "word": "aberration"}
+{"definition": "(v.) to aid, help, encourage (The spy succeeded only because he had a friend on the inside to abet him.)", "word": "abet"}
+{"definition": "(v.) to hate, detest (Because he always wound up kicking himself in the head when he tried to play soccer, Oswald began to abhor the sport.)", "word": "abhor"}
+{"definition": "1. (v.) to put up with (Though he did not agree with the decision, Chuck decided to abide by it.) 2. (v.) to remain (Despite the beating they\u2019ve taken from the weather throughout the millennia, the mountains abide.)", "word": "abide"}
+{"definition": "(adj.) wretched, pitiful (After losing all her money, falling into a puddle, and breaking her ankle, Eloise was abject.)", "word": "abject"}
+{"definition": "(v.) to reject, renounce (To prove his honesty, the President abjured the evil policies of his wicked predecessor.)", "word": "abjure"}
+{"definition": "(n.) denial of comfort to oneself (The holy man slept on the floor, took only cold showers, and generally followed other practices of abnegation.)", "word": "abnegation"}
+{"definition": "(v.) to give up on a half-finished project or effort (After they ran out of food, the men, attempting to jump rope around the world, had to abort and go home.)", "word": "abort"}
+{"definition": "1. (v.) to cut down, shorten (The publisher thought the dictionary was too long and abridged it.) 2. (adj.) shortened (Moby-Dick is such a long book that even the abridged version is longer than most normal books.)", "word": "abridge"}
+{"definition": "(v.) to abolish, usually by authority (The Bill of Rights assures that the government cannot abrogate our right to a free press.)", "word": "abrogate"}
+{"definition": "(v.) to sneak away and hide (In the confusion, the super-spy absconded into the night with the secret plans.)", "word": "abscond"}
+{"definition": "(n.) freedom from blame, guilt, sin (Once all the facts were known, the jury gave Angela absolution by giving a verdict of not guilty.)", "word": "absolution"}
+{"definition": "(v.) to freely choose not to commit an action (Everyone demanded that Angus put on the kilt, but he did not want to do it and abstained.)", "word": "abstain"}
+{"definition": "(adj.) hard to comprehend (Everyone else in the class understood geometry easily, but John found the subject abstruse.)", "word": "abstruse"}
+{"definition": "(v.) to agree (When the class asked the teacher whether they could play baseball instead of learn grammar they expected him to refuse, but instead he acceded to their request.)", "word": "accede"}
+{"definition": "(v.) to stress, highlight (Psychologists agree that those people who are happiest accentuate the positive in life.)", "word": "accentuate"}
+{"definition": "(adj.) obtainable, reachable (After studying with SparkNotes and getting a great score on the SAT, Marlena happily realized that her goal of getting into an Ivy-League college was accessible.)", "word": "accessible"}
+{"definition": "(n.) high praise (Greg\u2019s excellent poem won the acclaim of his friends.) accolade (n.) high praise, special distinction (Everyone offered accolades to Sam after he won the Noble Prize.)", "word": "acclaim"}
+{"definition": "(adj.) helpful, obliging, polite (Though the apartment was not big enough for three people, Arnold, Mark, and Zebulon were all friends and were accommodating to each other.)", "word": "accommodating"}
+{"definition": "(n.) an agreement (After much negotiating, England and Iceland finally came to a mutually beneficial accord about fishing rights off the cost of Greenland.)", "word": "accord"}
+{"definition": "(v.) to confront verbally (Though Antoinette was normally quite calm, when the waiter spilled soup on her for the fourth time in 15 minutes she stood up and accosted the man.)", "word": "accost"}
+{"definition": "(n.) slow growth in size or amount (Stalactites are formed by the accretion of minerals from the roofs of caves.)", "word": "accretion"}
+{"definition": "(adj.) biting, bitter in tone or taste (Jill became extremely acerbic and began to cruelly make fun of all her friends.)", "word": "acerbic"}
+{"definition": "(v.) to agree without protesting (Though Mr. Correlli wanted to stay outside and work in his garage, when his wife told him that he had better come in to dinner, he acquiesced to her demands.)", "word": "acquiesce"}
+{"definition": "(n.) bitterness, discord (Though they vowed that no girl would ever come between them, Biff and Trevor could not keep acrimony from overwhelming their friendship after they both fell in love with the lovely Teresa.)", "word": "acrimony"}
+{"definition": "(n.) keen insight (Because of his mathematical acumen, Larry was able to figure out in minutes problems that took other students hours.)", "word": "acumen"}
+{"definition": "1. (adj.) sharp, severe (Arnold could not walk because the pain in his foot was so acute.) 2. (adj.) having keen insight (Because she was so acute, Libby instantly figured out how the magician pulled off his \u201cmagic.\u201d)", "word": "acute"}
+{"definition": "(adj.) impervious, immovable, unyielding (Though public pressure was intense, the President remained adamant about his proposal.)", "word": "adamant"}
+{"definition": "(adj.) extremely skilled (Tarzan was adept at jumping from tree to tree like a monkey.)", "word": "adept"}
+{"definition": "1. (n.) to stick to something (We adhered the poster to the wall with tape.) 2. (n.) to follow devoutly (He adhered to the dictates of his religion without question.)", "word": "adhere"}
+{"definition": "(v.) to caution, criticize, reprove (Joe\u2019s mother admonished him not to ruin his appetite by eating cookies before dinner.)", "word": "admonish"}
+{"definition": "(v.) to decorate (We adorned the tree with ornaments.)", "word": "adorn"}
+{"definition": "(adj.) skillful, dexterous (The adroit thief could pick someone\u2019s pocket without attracting notice.)", "word": "adroit"}
+{"definition": "(n.) extreme praise (Though the book was pretty good, Marcy did not believe it deserved the adulation it received.)", "word": "adulation"}
+{"definition": "(v.) to sketch out in a vague way (The coach adumbrated a game plan, but none of the players knew precisely what to do.)", "word": "adumbrate"}
+{"definition": "(adj.) antagonistic, unfavorable, dangerous (Because of adverse conditions, the hikers decided to give up trying to climb the mountain.)", "word": "adverse"}
+{"definition": "1. (v.) to argue in favor of something (Arnold advocated turning left at the stop sign, even though everyone else thought we should turn right.) 2. (n.) a person who argues in favor of something (In addition to wanting to turn left at every stop sign, Arnold was also a great advocate of increasing national defense spending.)", "word": "advocate"}
+{"definition": "(adj.) somehow related to the air (We watched as the fighter planes conducted aerial maneuvers.)", "word": "aerial"}
+{"definition": "(adj.) artistic, related to the appreciation of beauty (We hired Susan as our interior decorator because she has such a fine aesthetic sense.)", "word": "aesthetic"}
+{"definition": "(adj.) friendly, amiable (People like to be around George because he is so affable and good-natured.)", "word": "affable"}
+{"definition": "(n.)a spontaneous feeling of closeness (Jerry didn\u2019t know why, but he felt an incredible affinity for Kramer the first time they met.)", "word": "affinity"}
+{"definition": "(adj.) rich, wealthy (Mrs. Grebelski was affluent, owning a huge house, three cars, and an island near Maine.)", "word": "affluent"}
+{"definition": "(n.) an insult (Bernardo was very touchy, and took any slight as an affront to his honor.)", "word": "affront"}
+{"definition": "(v.) to increase or make greater (Joseph always dropped the names of the famous people his father knew as a way to aggrandize his personal stature.)", "word": "aggrandize"}
+{"definition": "1. (n.) a whole or total (The three branches of the U.S. Government form an aggregate much more powerful than its individual parts.) 2. (v.) to gather into a mass (The dictator tried to aggregate as many people into his army as he possibly could.)", "word": "aggregate"}
+{"definition": "(adj.) distressed, wronged, injured (The foreman mercilessly overworked his aggrieved employees.)", "word": "aggrieved"}
+{"definition": "(adj.) quick, nimble (The dogs were too slow to catch the agile rabbit.) agnostic (adj.) believing that the existence of God cannot be proven or disproven (Joey\u2019s parents are very religious, but he is agnostic.)", "word": "agile"}
+{"definition": "(n.) farming (It was a huge step in the progress of civilization when tribes left hunting and gathering and began to develop more sustainable methods of obtaining food, such as agriculture.)", "word": "agriculture"}
+{"definition": "(n.) a passageway between rows of seats (Once we got inside the stadium we walked down the aisle to our seats.)", "word": "aisle"}
+{"definition": "(n.) eagerness, speed (For some reason, Chuck loved to help his mother whenever he could, so when his mother asked him to set the table he did so with alacrity.)", "word": "alacrity"}
+{"definition": "(n.) a false name or identity (He snuck past the guards by using an alias and fake ID.)", "word": "alias"}
+{"definition": "(v.) to soothe, ease (The chairman of the Federal Reserve gave a speech to try to allay investors\u2019 fears about an economic downturn.)", "word": "allay"}
+{"definition": "(v.) to assert, usually without proof (The policeman had alleged that Marshall committed the crime, but after the investigation turned up no evidence, Marshall was set free.)", "word": "allege"}
+{"definition": "(v.) to relieve, make more bearable (This drug will alleviate the symptoms of the terrible disease, but only for a while.)", "word": "alleviate"}
+{"definition": "(v.) to distribute, set aside (The Mayor allocated 30 percent of the funds for improving the town\u2019s schools.)", "word": "allocate"}
+{"definition": "(adj.) reserved, distant (The scientist could sometimes seem aloof, as if he didn\u2019t care about his friends or family, but really he was just thinking about quantum mechanics.)", "word": "aloof"}
+{"definition": "(n.) a dispute, fight (Jason and Lionel blamed one another for the car accident, leading to an altercation.)", "word": "altercation"}
+{"definition": "(v.) to bring together, unite (Because of his great charisma, the presidential candidate was able to amalgamate all democrats and republicans under his banner.)", "word": "amalgamate"}
+{"definition": "(adj.) uncertain, variably interpretable (Some people think Caesar married Cleopatra for her power, others believe he was charmed by her beauty. His actual reasons are ambiguous.)", "word": "ambiguous"}
+{"definition": "(adj.) having opposing feelings (My feelings about Calvin are ambivalent because on one hand he is a loyal friend, but on the other, he is a cruel and vicious thief.)", "word": "ambivalent"}
+{"definition": "(v.) to improve (The tense situation was ameliorated when Sam proposed a solution everyone could agree upon.)", "word": "ameliorate"}
+{"definition": "(adj.) willing, compliant (Our father was amenable when we asked him to drive us to the farm so we could go apple picking.)", "word": "amenable"}
+{"definition": "(n.) an item that increases comfort (Bill Gates\u2019s house is stocked with so many amenities, he never has to do anything for himself.)", "word": "amenity"}
+{"definition": "(adj.) friendly (An amiable fellow, Harry got along with just about everyone.) amicable (adj.) friendly (Claudia and Jimmy got divorced, but amicably and without hard feelings.)", "word": "amiable"}
+{"definition": "(adj.) showing love, particularly sexual (Whenever Albert saw Mariah wear her slinky red dress, he began to feel quite amorous.)", "word": "amorous"}
+{"definition": "(adj.) without definite shape or type (The effort was doomed from the start, because the reasons behind it were so amorphous and hard to pin down.)", "word": "amorphous"}
+{"definition": "(adj.) being out of correct chronological order (In this book you\u2019re writing, you say that the Pyramids were built after the Titanic sank, which is anachronistic.)", "word": "anachronistic"}
+{"definition": "(n.) something that reduces pain (Put this analgesic on the wound so that the poor man at least feels a little better.)", "word": "analgesic"}
+{"definition": "(adj.) similar to, so that an analogy can be drawn (Though they are unrelated genetically, the bone structure of whales and fish is quite analogous.)", "word": "analogous"}
+{"definition": "(n.) one who wants to eliminate all government (An anarchist, Carmine wanted to dissolve every government everywhere.)", "word": "anarchist"}
+{"definition": "(n.) a cursed, detested person (I never want to see that murderer. He is an anathema to me.)", "word": "anathema"}
+{"definition": "(n.) a short, humorous account (After dinner, Marlon told an anecdote about the time he got his nose stuck in a toaster.)", "word": "anecdote"}
+{"definition": "(n.) loss of sensation (When the nerves in his spine were damaged, Mr. Hollins suffered anesthesia in his legs.)", "word": "anesthesia"}
+{"definition": "(n.) extreme sadness, torment (Angelos suffered terrible anguish when he learned that Buffy had died while combating a strange mystical force of evil.)", "word": "anguish"}
+{"definition": "(adj.) lively (When he begins to talk about drama, which is his true passion, he becomes very animated.)", "word": "animated"}
+{"definition": "1. (v.) to incorporate territory or space (After defeating them in battle, the Russians annexed Poland.) 2. (n.) a room attached to a larger room or space (He likes to do his studying in a little annex attached to the main reading room in the library.)", "word": "annex"}
+{"definition": "(v.) to make void or invalid (After seeing its unforeseen and catastrophic effects, Congress sought to annul the law.)", "word": "annul"}
+{"definition": "(n.) something that does not fit into the normal order (\u201cThat rip in the space- time continuum is certainly a spatial anomaly,\u201d said Spock to Captain Kirk.)", "word": "anomaly"}
+{"definition": "(adj.) being unknown, unrecognized (Mary received a love poem from an anonymous admirer.)", "word": "anonymous"}
+{"definition": "(n.) hostility (Superman and Bizarro Superman shared a mutual antagonism, and often fought.)", "word": "antagonism"}
+{"definition": "(n.) something that came before (The great tradition of Western culture had its antecedent in the culture of Ancient Greece.)", "word": "antecedent"}
+{"definition": "(adj.) ancient (The antediluvian man still believed that Eisenhower was president of the United States and that hot dogs cost a nickel.)", "word": "antediluvian"}
+{"definition": "(n.) a selected collection of writings, songs, etc. (The new anthology of Bob Dylan songs contains all his greatest hits and a few songs that you might never have heard before.)", "word": "anthology"}
+{"definition": "(n.) a strong dislike, repugnance (I know you love me, but because you are a liar and a thief, I feel nothing but antipathy for you.)", "word": "antipathy"}
+{"definition": "(adj.) old, out of date (That antiquated car has none of the features, like power windows and steering, that make modern cars so great.)", "word": "antiquated"}
+{"definition": "(adj.) clean, sterile (The antiseptic hospital was very bare, but its cleanliness helped to keep patients healthy.)", "word": "antiseptic"}
+{"definition": "(n.) the absolute opposite (Your values, which hold war and violence in the highest esteem, are the antithesis of my pacifist beliefs.)", "word": "antithesis"}
+{"definition": "(n.) intense uneasiness (When he heard about the car crash, he felt anxiety because he knew that his girlfriend had been driving on the road where the accident occurred.)", "word": "anxiety"}
+{"definition": "(adj.) lacking concern, emotion (Uninterested in politics, Bruno was apathetic about whether he lived under a capitalist or communist regime.)", "word": "apathetic"}
+{"definition": "(adj.) fictitious, false, wrong (Because I am standing before you, it seems obvious that the stories circulating about my demise were apocryphal.)", "word": "apocryphal"}
+{"definition": "(adj.) inspiring shock, horror, disgust (The judge found the murderer\u2019s crimes and lack of remorse appalling.)", "word": "appalling"}
+{"definition": "(v.) to calm, satisfy (When the child cries, the mother gives him candy to appease him.)", "word": "appease"}
+{"definition": "(v.) to assess the worth or value of (A realtor will come over tonight to appraise our house.)", "word": "appraise"}
+{"definition": "1. (v.) to seize, arrest (The criminal was apprehended at the scene.) 2. (v.) to perceive, understand, grasp (The student has trouble apprehending concepts in math and science.)", "word": "apprehend"}
+{"definition": "(n.) praise (The crowd welcomed the heroes with approbation.) appropriate (v.) to take, make use of (The government appropriated the farmer\u2019s land without justification.)", "word": "approbation"}
+{"definition": "(adj.) relating to water (The marine biologist studies starfish and other aquatic creatures.)", "word": "aquatic"}
+{"definition": "(adj.) suitable for growing crops (The farmer purchased a plot of arable land on which he will grow corn and sprouts.)", "word": "arable"}
+{"definition": "(n.) one who can resolve a dispute, make a decision (The divorce court judge will serve as the arbiter between the estranged husband and wife.)", "word": "arbiter"}
+{"definition": "(adj.) based on factors that appear random (The boy\u2019s decision to choose one college over another seems arbitrary.)", "word": "arbitrary"}
+{"definition": "(n.) the process or act of resolving a dispute (The employee sought official arbitration when he could not resolve a disagreement with his supervisor.)", "word": "arbitration"}
+{"definition": "(adj.) of or relating to trees (Leaves, roots, and bark are a few arboreal traits.)", "word": "arboreal"}
+{"definition": "(adj.) obscure, secret, known only by a few (The professor is an expert in arcane Lithuanian literature.)", "word": "arcane"}
+{"definition": "(adj.) of or relating to an earlier period in time, outdated (In a few select regions of Western Mongolian, an archaic Chinese dialect is still spoken.)", "word": "archaic"}
+{"definition": "(adj.) the most representative or typical example of something (Some believe George Washington, with his flowing white hair and commanding stature, was the archetypal politician.)", "word": "archetypal"}
+{"definition": "(n.) extreme vigor, energy, enthusiasm (The soldiers conveyed their ardor with impassioned battle cries.)", "word": "ardor"}
+{"definition": "(adj.) excessively dry (Little other than palm trees and cacti grow successfully in arid environments.)", "word": "arid"}
+{"definition": "(v.) to take without justification (The king arrogated the right to order executions to himself exclusively.)", "word": "arrogate"}
+{"definition": "(n.) a remaining piece from an extinct culture or place (The scientists spent all day searching the cave for artifacts from the ancient Mayan civilization.)", "word": "artifact"}
+{"definition": "(n.) a craftsman (The artisan uses wood to make walking sticks.)", "word": "artisan"}
+{"definition": "(v.) to perceive, learn (With a bit of research, the student ascertained that some plants can live for weeks without water.)", "word": "ascertain"}
+{"definition": "(adj.) practicing restraint as a means of self-discipline, usually religious (The priest lives an ascetic life devoid of television, savory foods, and other pleasures.)", "word": "ascetic"}
+{"definition": "(v.) to assign, credit, attribute to (Some ascribe the invention of fireworks and dynamite to the Chinese.)", "word": "ascribe"}
+{"definition": "(n.) a curse, expression of ill-will (The rival politicians repeatedly cast aspersions on each others\u2019 integrity.)", "word": "aspersion"}
+{"definition": "(v.) to long for, aim toward (The young poet aspires to publish a book of verse someday.)", "word": "aspire"}
+{"definition": "(v.) to attack (At dawn, the war planes assailed the boats in the harbor.)", "word": "assail"}
+{"definition": "(v.) to evaluate (A crew arrived to assess the damage after the crash.)", "word": "assess"}
+{"definition": "(adj.) hard-working, diligent (The construction workers erected the skyscraper during two years of assiduous labor.)", "word": "assiduous"}
+{"definition": "(v.) to ease, pacify (The mother held the baby to assuage its fears.)", "word": "assuage"}
+{"definition": "(adj.) very clever, crafty (Much of Roger\u2019s success in politics results from his ability to provide astute answers to reporters\u2019 questions.)", "word": "astute"}
+{"definition": "1. (n.) a place of refuge, protection, a sanctuary (For Thoreau, the forest served as an asylum from the pressures of urban life.) 2. (n.) an institution in which the insane are kept (Once diagnosed by a certified psychiatrist, the man was put in an asylum.)", "word": "asylum"}
+{"definition": "(v.) to repent, make amends (The man atoned for forgetting his wife\u2019s birthday by buying her five dozen roses.)", "word": "atone"}
+{"definition": "(v.) to wither away, decay (If muscles do not receive enough blood, they will soon atrophy and die.)", "word": "atrophy"}
+{"definition": "(v.) to achieve, arrive at (The athletes strived to attain their best times in competition.)", "word": "attain"}
+{"definition": "1. (v.) to credit, assign (He attributes all of his success to his mother\u2019s undying encouragement.) 2. (n.) a facet or trait (Among the beetle\u2019s most peculiar attributes is its thorny protruding eyes.)", "word": "attribute"}
+{"definition": "(adj.) not typical, unusual (Screaming and crying is atypical adult behavior.) audacious (adj.) excessively bold (The security guard was shocked by the fan\u2019s audacious attempt to offer him a bribe.)", "word": "atypical"}
+{"definition": "(adj.) able to be heard (The missing person\u2019s shouts were unfortunately not audible.)", "word": "audible"}
+{"definition": "(v.) to add to, expand (The eager student seeks to augment his knowledge of French vocabulary by reading French literature.)", "word": "augment"}
+{"definition": "(adj.) favorable, indicative of good things (The tennis player considered the sunny forecast an auspicious sign that she would win her match.)", "word": "auspicious"}
+{"definition": "(adj.) very bare, bleak (The austere furniture inside the abandoned house made the place feel haunted.)", "word": "austere"}
+{"definition": "(n.) excessive greed (The banker\u2019s avarice led him to amass a tremendous personal fortune.)", "word": "avarice"}
+{"definition": "(v.) to seek revenge (The victims will take justice into their own hands and strive to avenge themselves against the men who robbed them.)", "word": "avenge"}
+{"definition": "(n.) a particular dislike for something (Because he\u2019s from Hawaii, Ben has an aversion to autumn, winter, and cold climates in general.)", "word": "aversion"}
+{"definition": "(v.) to stop, block abruptly (Edna\u2019s boss balked at her request for another raise.) ballad (n.) a love song (Greta\u2019s boyfriend played her a ballad on the guitar during their walk through the dark woods.)", "word": "balk"}
+{"definition": "(adj.) dull, commonplace (The client rejected our proposal because they found our presentation banal and unimpressive.)", "word": "banal"}
+{"definition": "(n.) a burden (Advanced physics is the bane of many students\u2019 academic lives.) bard (n.) a poet, often a singer as well (Shakespeare is often considered the greatest bard in the history of the English language.)", "word": "bane"}
+{"definition": "(adj.) shy, excessively timid (Frankie\u2019s mother told him not to be bashful when he refused to attend the birthday party.)", "word": "bashful"}
+{"definition": "1.(n.) a device that supplies power (Most cars run on a combination of power from a battery and gasoline.) 2. (n.)assault, beating (Her husband was accused of assault and battery after he attacked a man on the sidewalk.)", "word": "battery"}
+{"definition": "(v.) to trick, deceive (The thief beguiled his partners into surrendering all of their money to him.)", "word": "beguile"}
+{"definition": "(n.) something of tremendous power or size (The new aircraft carrier is among several behemoths that the Air Force has added to its fleet.)", "word": "behemoth"}
+{"definition": "(adj.) marked by goodness or doing good (Police officers should be commended for their benevolent service to the community.)", "word": "benevolent"}
+{"definition": "(adj.) favorable, not threatening, mild (We were all relieved to hear that the medical tests determined her tumor to be benign.)", "word": "benign"}
+{"definition": "(v.) to pass on, give (Jon\u2019s father bequeathed his entire estate to his mother.) berate (v.) to scold vehemently (The angry boss berated his employees for failing to meet their deadline.)", "word": "bequeath"}
+{"definition": "(adj.) devoid of, without (His family was bereft of food and shelter following the tornado.)", "word": "bereft"}
+{"definition": "(v.) to beg, plead, implore (The servant beseeched the king for food to feed his starving family.)", "word": "beseech"}
+{"definition": "(n.) a tendency, inclination, prejudice (The judge\u2019s hidden bias against smokers led him to make an unfair decision.)", "word": "bias"}
+{"definition": "(v.) cheat, defraud (The lawyer discovered that this firm had bilked several clients out of thousands of dollars.)", "word": "bilk"}
+{"definition": "(v.) to coax by using flattery (Rachel\u2019s assistant tried to blandish her into accepting the deal.)", "word": "blandish"}
+{"definition": "(n.) an imperfection, flaw (The dealer agreed to lower the price because of the many blemishes on the surface of the wooden furniture.)", "word": "blemish"}
+{"definition": "1. (n.) a plague, disease (The potato blight destroyed the harvest and bankrupted many families.) 2. (n.) something that destroys hope (His bad morale is a blight upon this entire operation.)", "word": "blight"}
+{"definition": "(adj.) loud and full of energy (The candidate won the vote after giving several boisterous speeches on television.)", "word": "boisterous"}
+{"definition": "(adj.) excessively confident, pompous (The singer\u2019s bombastic performance disgusted the crowd.)", "word": "bombastic"}
+{"definition": "(n.) a gift or blessing (The good weather has been a boon for many businesses located near the beach.)", "word": "boon"}
+{"definition": "(n.) a middle-class person, capitalist (Many businessmen receive criticism for their bourgeois approach to life.)", "word": "bourgeois"}
+{"definition": "(adj.) excessively bold, brash (Critics condemned the novelist\u2019s brazen attempt to plagiarize Hemingway\u2019s story.)", "word": "brazen"}
+{"definition": "(adj.) short, abrupt, dismissive (The captain\u2019s brusque manner offended the passengers.)", "word": "brusque"}
+{"definition": "1. (v.) to strike with force (The strong winds buffeted the ships, threatening to capsize them.) 2. (n.) an arrangement of food set out on a table (Rather than sitting around a table, the guests took food from our buffet and ate standing up.)", "word": "buffet"}
+{"definition": "(v.) to polish, shine (His mother asked him to burnish the silverware before setting the table.)", "word": "burnish"}
+{"definition": "1. (v.) to support, hold up (The column buttresses the roof above the statue.) 2. (n.) something that offers support (The buttress supports the roof above the statues.)", "word": "buttress"}
+{"definition": "(n.) tremendous noise, disharmonious sound (The elementary school orchestra created a cacophony at the recital.)", "word": "cacophony"}
+{"definition": "(n.) a rhythm, progression of sound (The pianist used the foot pedal to emphasize the cadence of the sonata.)", "word": "cadence"}
+{"definition": "(v.) to urge, coax (Fred\u2019s buddies cajoled him into attending the bachelor party.) calamity (n.) an event with disastrous consequences (The earthquake in San Francisco was a calamity worse than any other natural disaster in history.)", "word": "cajole"}
+{"definition": "(v.) to set, standardize (The mechanic calibrated the car\u2019s transmission to make the motor run most efficiently.)", "word": "calibrate"}
+{"definition": "(adj.) harsh, cold, unfeeling (The murderer\u2019s callous lack of remorse shocked the jury.)", "word": "callous"}
+{"definition": "(n.) an attempt to spoil someone else\u2019s reputation by spreading lies (The local official\u2019s calumny ended up ruining his opponent\u2019s prospect of winning the election.)", "word": "calumny"}
+{"definition": "(n.) brotherhood, jovial unity (Camaraderie among employees usually leads to success in business.)", "word": "camaraderie"}
+{"definition": "(n.) honesty, frankness (We were surprised by the candor of the mayor\u2019s speech because he is usually rather evasive.)", "word": "candor"}
+{"definition": "(adj.) shrewd, careful (The canny runner hung at the back of the pack through much of the race to watch the other runners, and then sprinted past them at the end.)", "word": "canny"}
+{"definition": "1. (n.) a piece of cloth on which an artist paints (Picasso liked to work on canvas rather than on bare cement.) 2. (v.) to cover, inspect (We canvassed the neighborhood looking for clues.)", "word": "canvas"}
+{"definition": "(adj.) very spacious (The workers delighted in their new capacious office space.)", "word": "capacious"}
+{"definition": "(v.) to surrender (The army finally capitulated after fighting a long costly battle.)", "word": "capitulate"}
+{"definition": "(adj.) subject to whim, fickle (The young girl\u2019s capricious tendencies made it difficult for her to focus on achieving her goals.)", "word": "capricious"}
+{"definition": "(v.) to get the attention of, hold (The fireworks captivated the young boy, who had never seen such things before.)", "word": "captivate"}
+{"definition": "(v.) to party, celebrate (We caroused all night after getting married.)", "word": "carouse"}
+{"definition": "(v.) to annoy, pester (The husband divorced his wife after listening to her carping voice for decades.)", "word": "carp"}
+{"definition": "1. (v.) to list, enter into a list (The judge cataloged the victim\u2019s injuries before calculating how much money he would award.) 2. (n.) a list or collection (We received a catalog from J. Crew that displayed all of their new items.)", "word": "catalog"}
+{"definition": "(v.) to charge, inspire (The president\u2019s speech catalyzed the nation and resuscitated the economy.)", "word": "catalyze"}
+{"definition": "(n.) a meeting usually held by people working toward the same goal (The ironworkers held a caucus to determine how much of a pay increase they would request.)", "word": "caucus"}
+{"definition": "(adj.) bitter, biting, acidic (The politicians exchanged caustic insults for over an hour during the debate.)", "word": "caustic"}
+{"definition": "(v.) to leap about, behave boisterously (The adults ate their dinners on the patio, while the children cavorted around the pool.)", "word": "cavort"}
+{"definition": "1. (n.) harsh criticism (The frustrated teenager could not put up with anymore of her critical mother\u2019s censure.) 2. (v.) to rebuke formally (The principal censured the head of the English Department for forcing students to learn esoteric vocabulary.)", "word": "censure"}
+{"definition": "(adj.) related to the intellect (The books we read in this class are too cerebral\u2014 they don\u2019t engage my emotions at all.)", "word": "cerebral"}
+{"definition": "(n.) absolute disorder (Mr. Thornton\u2019s sudden departure for the lavatory plunged his classroom into chaos.)", "word": "chaos"}
+{"definition": "(v.) to criticize severely (After being chastised by her peers for mimicking Britney Spears, Miranda dyed her hair black and affected a Gothic style.)", "word": "chastise"}
+{"definition": "(v.) to feel or show affection toward something (She continued to cherish her red plaid trousers, even though they had gone out of style and no longer fit her.)", "word": "cherish"}
+{"definition": "(v.) to voice disapproval (Lucy chided Russell for his vulgar habits and sloppy appearance.)", "word": "chide"}
+{"definition": "(n.) the arrangement of dances (The plot of the musical was banal, but the choreography was stunning.)", "word": "choreography"}
+{"definition": "1. (n.) a written history (The library featured the newly updated chronicle of World War II.) 2. (v.) to write a history (Albert\u2019s diary chronicled the day-to-day growth of his obsession with Cynthia.)", "word": "chronicle"}
+{"definition": "(adj.) arranged in order of time (Lionel carefully arranged the snapshots of his former girlfriends in chronological order, and then set fire to them.)", "word": "chronological"}
+{"definition": "(adj.) roundabout (The bus\u2019s circuitous route took us through numerous outlying suburbs.)", "word": "circuitous"}
+{"definition": "(n.) indirect and wordy language (The professor\u2019s habit of speaking in circumlocutions made it difficult to follow his lectures.)", "word": "circumlocution"}
+{"definition": "(adj.) marked off, bounded (The children were permitted to play tag only within a carefully circumscribed area of the lawn.)", "word": "circumscribed"}
+{"definition": "(adj.) cautious (Though I promised Rachel\u2019s father I would bring her home promptly by midnight, it would have been more circumspect not to have specified a time.)", "word": "circumspect"}
+{"definition": "(v.) to get around (The school\u2019s dress code forbidding navel-baring jeans was circumvented by the determined students, who were careful to cover up with long coats when administrators were nearby.)", "word": "circumvent"}
+{"definition": "(adj.) able to perceive things that normal people cannot (Zelda\u2019s uncanny ability to detect my lies was nothing short of clairvoyant.)", "word": "clairvoyant"}
+{"definition": "1. (n.) loud noise (Each morning the birds outside my window make such a clamor that they wake me up.) 2. (v.)to loudly insist (Neville\u2019s fans clamored for him to appear on stage, but he had passed out on the floor of his dressing room.)", "word": "clamor"}
+{"definition": "(adj.) secret (Announcing to her boyfriend that she was going to the gym, Sophie actually went to meet Joseph for a clandestine liaison.)", "word": "clandestine"}
+{"definition": "1. (v.) to divide into parts (Following the scandalous disgrace of their leader, the entire political party cleaved into warring factions.) 2. (v.) to stick together firmly (After resolving their marital problems, Junior and Rosa cleaved to one another all the more tightly.)", "word": "cleave"}
+{"definition": "(n.) mercy (After he forgot their anniversary, Martin could only beg Maria for clemency.)", "word": "clemency"}
+{"definition": "(n.) members of Christian holy orders (Though the villagers viewed the church rectory as quaint and charming, the clergy who lived there regarded it as a mildewy and dusty place that aggravated their allergies.)", "word": "clergy"}
+{"definition": "(adj.) sickeningly sweet (Though Ronald was physically attractive, Maud found his constant compliments and solicitous remarks cloying.)", "word": "cloying"}
+{"definition": "(v.) to thicken, clot (The top layer of the pudding had coagulated into a thick skin.)", "word": "coagulate"}
+{"definition": "(v.) to fuse into a whole (Gordon\u2019s ensemble of thrift-shop garments coalesced into a surprisingly handsome outfit.)", "word": "coalesce"}
+{"definition": "(n.) a person who makes or repairs shoes (I had my neighborhood cobbler replace my worn-out leather soles with new ones.)", "word": "cobbler"}
+{"definition": "(v.) to make somebody do something by force or threat (The court decided that Vanilla Ice did not have to honor the contract because he had been coerced into signing it.)", "word": "coerce"}
+{"definition": "(adj.) intellectually convincing (Irene\u2019s arguments in favor of abstinence were so cogent that I could not resist them.)", "word": "cogent"}
+{"definition": "(adj.) aware, mindful (Jake avoided speaking to women in bars because he was cognizant of the fact that drinking impairs his judgment.)", "word": "cognizant"}
+{"definition": "(adj.) logically consistent, intelligible (Renee could not figure out what Monroe had seen because he was too distraught to deliver a coherent statement.)", "word": "coherent"}
+{"definition": "1. (adj.) secondary (Divorcing my wife had the collateral effect of making me poor, as she was the only one of us with a job or money.) 2. (n.) security for a debt (Jacob left his watch as collateral for the $500 loan.)", "word": "collateral"}
+{"definition": "(adj.) characteristic of informal conversation (Adam\u2019s essay on sexual response in primates was marked down because it contained too many colloquial expressions.)", "word": "colloquial"}
+{"definition": "(n.) secret agreement, conspiracy (The three law students worked in collusion to steal the final exam.)", "word": "collusion"}
+{"definition": "(n.) a gigantic statue or thing (For 56 years, the ancient city of Rhodes featured a colossus standing astride its harbor.)", "word": "colossus"}
+{"definition": "(n.) the act or process of burning (The unexpected combustion of the prosecution\u2019s evidence forced the judge to dismiss the case against Ramirez.)", "word": "combustion"}
+{"definition": "(n.) a notice of approval or recognition (Jared received a commendation from Linda, his supervisor, for his stellar performance.)", "word": "commendation"}
+{"definition": "(adj.) corresponding in size or amount (Ahab selected a very long roll and proceeded to prepare a tuna salad sandwich commensurate with his enormous appetite.)", "word": "commensurate"}
+{"definition": "(adj.) roomy (Holden invited the three women to join him in the back seat of the taxicab, assuring them that the car was quite commodious.)", "word": "commodious"}
+{"definition": "(adj.) forceful, demanding attention (Eliot\u2019s speech was so compelling that Lenore accepted his proposal on the spot.)", "word": "compelling"}
+{"definition": "(v.) to make an appropriate payment for something (Reginald bought Sharona a new dress to compensate her for the one he\u2019d spilled his ice cream on.)", "word": "compensate"}
+{"definition": "(n.) self-satisfied ignorance of danger (Colin tried to shock his friends out of their complacency by painting a frightening picture of what might happen to them.)", "word": "complacency"}
+{"definition": "(v.) to complete, make perfect (Ann\u2019s scarf complements her blouse beautifully, making her seem fully dressed even though she isn\u2019t wearing a coat.)", "word": "complement"}
+{"definition": "(adj.) ready to adapt oneself to another\u2019s wishes (Sue had very strong opinions about what to do on a first date, and Ted was absolutely compliant.)", "word": "compliant"}
+{"definition": "(adj.) being an accomplice in a wrongful act (By keeping her daughter\u2019s affair a secret, Maddie became complicit in it.)", "word": "complicit"}
+{"definition": "(n.) an expression of esteem or approval (I blushed crimson when Emma gave me a compliment on my new haircut.)", "word": "compliment"}
+{"definition": "1. (v.) to combine parts (The difficulty of finding a fire escape amid the smoke was compounded with the dangers posed by the panicking crowds.) 2. (n.) a combination of different parts (My attraction to Donna was a compound of curiosity about the unknown, physical desire, and intellectual admiration.) 3. (n.) a walled area containing a group of buildings (When the fighting started, Joseph rushed into the family compound because it was safe and well defended.)", "word": "compound"}
+{"definition": "(adj.) including everything (She sent me a comprehensive list of the ingredients needed to cook rabbit souffle\u0301.)", "word": "comprehensive"}
+{"definition": "(v.) to apply pressure, squeeze together (Lynn compressed her lips into a frown.)", "word": "compress"}
+{"definition": "(n.) distress caused by feeling guilty (He felt compunction for the shabby way he\u2019d treated her.)", "word": "compunction"}
+{"definition": "(v.) to accept as valid (Andrew had to concede that what his mother said about Diana made sense.)", "word": "concede"}
+{"definition": "(adj.) friendly, agreeable (I took Amanda\u2019s invitation to dinner as a very conciliatory gesture.)", "word": "conciliatory"}
+{"definition": "(adj.) brief and direct in expression (Gordon did not like to waste time, and his instructions to Brenda were nothing if not concise.)", "word": "concise"}
+{"definition": "(v.) to fabricate, make up (She concocted the most ridiculous story to explain her absence.)", "word": "concoct"}
+{"definition": "(adj.) accompanying in a subordinate fashion (His dislike of hard work carried with it a concomitant lack of funds.)", "word": "concomitant"}
+{"definition": "(n.) harmonious agreement (Julie and Harold began the evening with a disagreement, but ended it in a state of perfect concord.)", "word": "concord"}
+{"definition": "(n.) an expression of sympathy in sorrow (Brian lamely offered his condolences on the loss of his sister\u2019s roommate\u2019s cat.)", "word": "condolence"}
+{"definition": "(v.) to pardon, deliberately overlook (He refused to condone his brother\u2019s crime.)", "word": "condone"}
+{"definition": "(n.) a pipe or channel through which something passes (The water flowed through the conduit into the container.)", "word": "conduit"}
+{"definition": "(n.) a sweet, fancy food (We went to the mall food court and purchased a delicious confection.)", "word": "confection"}
+{"definition": "(n.) a person entrusted with secrets (Shortly after we met, she became my chief confidant.)", "word": "confidant"}
+{"definition": "(n.) great fire (The conflagration consumed the entire building.) confluence (n.) a gathering together (A confluence of different factors made tonight the perfect night.)", "word": "conflagration"}
+{"definition": "(n.) one who behaves the same as others (Julian was such a conformist that he had to wait and see if his friends would do something before he would commit.)", "word": "conformist"}
+{"definition": "(v.) to frustrate, confuse (MacGuyver confounded the policemen pursuing him by covering his tracks.)", "word": "confound"}
+{"definition": "(v.) to thicken into a solid (The sauce had congealed into a thick paste.)", "word": "congeal"}
+{"definition": "(adj.)pleasantly agreeable (His congenial manner made him popular wherever he went.)", "word": "congenial"}
+{"definition": "(n.) a gathering of people, especially for religious services (The priest told the congregation that he would be retiring.)", "word": "congregation"}
+{"definition": "(n.) the quality of being in agreement (Bill and Veronica achieved a perfect congruity of opinion.)", "word": "congruity"}
+{"definition": "(v.) to plot, scheme (She connived to get me to give up my vacation plans.) consecrate (v.) to dedicate something to a holy purpose (Arvin consecrated his spare bedroom as a shrine to Christina.)", "word": "connive"}
+{"definition": "(n.) an agreement of opinion (The jury was able to reach a consensus only after days of deliberation.)", "word": "consensus"}
+{"definition": "(v.) to give something over to another\u2019s care (Unwillingly, he consigned his mother to a nursing home.)", "word": "consign"}
+{"definition": "(n.) an act of comforting (Darren found Alexandra\u2019s presence to be a consolation for his suffering.)", "word": "consolation"}
+{"definition": "(adj.) in harmony (The singers\u2019 consonant voices were beautiful.) constituent (n.) an essential part (The most important constituent of her perfume is something called ambergris.)", "word": "consonant"}
+{"definition": "(v.)to forcibly restrict (His belief in nonviolence constrained him from taking revenge on his attackers.)", "word": "constrain"}
+{"definition": "(v.) to interpret (He construed her throwing his clothes out the window as a signal that she wanted him to leave.)", "word": "construe"}
+{"definition": "(v.) to complete a deal; to complete a marriage ceremony through sexual intercourse (Erica and Donald consummated their agreement in the executive boardroom.)", "word": "consummate"}
+{"definition": "(n.) the act of consuming (Consumption of intoxicating beverages is not permitted on these premises.)", "word": "consumption"}
+{"definition": "(adj.) existing during the same time (Though her novels do not feature the themes of Romanticism, Jane Austen\u2019s work was contemporaneous with that of Wordsworth and Byron.)", "word": "contemporaneous"}
+{"definition": "(adj.) having a tendency to quarrel or dispute (George\u2019s contentious personality made him unpopular with his classmates.)", "word": "contentious"}
+{"definition": "(v.) to contradict, oppose, violate (Edwidge contravened his landlady\u2019s rule against overnight guests.)", "word": "contravene"}
+{"definition": "(adj.) penitent, eager to be forgiven (Blake\u2019s contrite behavior made it impossible to stay angry at him.)", "word": "contrite"}
+{"definition": "(n.) bruise, injury (The contusions on his face suggested he\u2019d been in a fight.)", "word": "contusion"}
+{"definition": "(n.) puzzle, problem (Interpreting Jane\u2019s behavior was a constant conundrum.)", "word": "conundrum"}
+{"definition": "(v.) to call together (Jason convened his entire extended family for a discussion.)", "word": "convene"}
+{"definition": "1. (n.) an assembly of people (The hotel was full because of the cattle- ranchers\u2019 convention.) 2. (n.) a rule, custom (The cattle-ranchers have a convention that you take off your boots before entering their houses.)", "word": "convention"}
+{"definition": "(adj.) characterized by feasting, drinking, merriment (The restaurant\u2019s convivial atmosphere put me immediately at ease.)", "word": "convivial"}
+{"definition": "(adj.) intricate, complicated (Grace\u2019s story was so convoluted that I couldn\u2019t follow it.)", "word": "convoluted"}
+{"definition": "(adj.) profuse, abundant (Copious amounts of Snapple were imbibed in the cafeteria.)", "word": "copious"}
+{"definition": "(adj.) warm, affectionate (His cordial greeting melted my anger at once.) coronation (n.) the act of crowning (The new king\u2019s coronation occurred the day after", "word": "cordial"}
+{"definition": "father\u2019s death.)", "word": "his"}
+{"definition": "(adj.)extreme fatness (Henry\u2019s corpulence did not make him any less attractive to his charming, svelte wife.)", "word": "corpulence"}
+{"definition": "(v.) to support with evidence (Luke\u2019s seemingly outrageous claim was corroborated by witnesses.)", "word": "corroborate"}
+{"definition": "(adj.) having the tendency to erode or eat away (The effect of the chemical was highly corrosive.)", "word": "corrosive"}
+{"definition": "(adj.) sophisticated, worldly (Lloyd\u2019s education and upbringing were cosmopolitan, so he felt right at home among the powerful and learned.)", "word": "cosmopolitan"}
+{"definition": "(v.) to neutralize, make ineffective (The antidote counteracted the effect of the poison.)", "word": "counteract"}
+{"definition": "1. (n.) a brilliant, unexpected act (Alexander pulled off an amazing coup when he got a date with Cynthia by purposely getting hit by her car.) 2. (n.) the overthrow of a government and assumption of authority (In their coup attempt, the army officers stormed the Parliament and took all the legislators hostage.)", "word": "coup"}
+{"definition": "(v.) to desire enviously (I coveted Moses\u2019s house, wife, and car.)", "word": "covet"}
+{"definition": "(adj.) secretly engaged in (Nerwin waged a covert campaign against his enemies, while outwardly appearing to remain friendly.)", "word": "covert"}
+{"definition": "(n.) readiness to believe (His credulity made him an easy target for con men.) crescendo (n.) a steady increase in intensity or volume (The crescendo of the brass instruments gave the piece a patriotic feel.)", "word": "credulity"}
+{"definition": "(n.) standards by which something is judged (Among Mrs. Fields\u2019s criteria for good cookies are that they be moist and chewy.)", "word": "criteria"}
+{"definition": "(n.) the climax toward which something progresses (The culmination of the couple\u2019s argument was the decision to divorce.)", "word": "culmination"}
+{"definition": "(adj.) deserving blame (He was culpable of the crime, and was sentenced to perform community service for 75 years.)", "word": "culpable"}
+{"definition": "(v.) to nurture, improve, refine (At the library, she cultivated her interest in spy novels.)", "word": "cultivate"}
+{"definition": "(adj.) increasing, building upon itself (The cumulative effect of hours spent in the sun was a deep tan.)", "word": "cumulative"}
+{"definition": "(adj.) sly, clever at being deceitful (The general devised a cunning plan to surprise the enemy.)", "word": "cunning"}
+{"definition": "(n.) greed, strong desire (His cupidity made him enter the abandoned gold mine despite the obvious dangers.)", "word": "cupidity"}
+{"definition": "(adj.) brief to the point of being superficial (Late for the meeting, she cast a cursory glance at the agenda.)", "word": "cursory"}
+{"definition": "(adj.) abruptly and rudely short (Her curt reply to my question made me realize that she was upset at me.)", "word": "curt"}
+{"definition": "(v.) to lessen, reduce (Since losing his job, he had to curtail his spending.) D", "word": "curtail"}
+{"definition": "(adj.) intimidating, causing one to lose courage (He kept delaying the daunting act of asking for a promotion.)", "word": "daunting"}
+{"definition": "(n.) a lack, scarcity (An eager reader, she was dismayed by the dearth of classic books at the library.)", "word": "dearth"}
+{"definition": "(n.) a disastrous failure, disruption (The elaborately designed fireworks show turned into a debacle when the fireworks started firing in random directions.)", "word": "debacle"}
+{"definition": "(v.) to lower the quality or esteem of something (The large raise that he gave himself debased his motives for running the charity.)", "word": "debase"}
+{"definition": "(v.) to corrupt by means of sensual pleasures (An endless amount of good wine and cheese debauched the traveler.)", "word": "debauch"}
+{"definition": "(v.) to expose the falseness of something (He debunked her claim to be the world\u2019s greatest chess player by defeating her in 18 consecutive matches.)", "word": "debunk"}
+{"definition": "(adj.) socially proper, appropriate (The appreciative guest displayed decorous behavior toward his host.)", "word": "decorous"}
+{"definition": "(v.) to criticize openly (The kind video rental clerk decried the policy of charging customers late fees.)", "word": "decry"}
+{"definition": "(v.) to ruin or injure something\u2019s appearance (The brothers used eggs and shaving cream to deface their neighbor\u2019s mailbox.)", "word": "deface"}
+{"definition": "(adj.) harmful toward another\u2019s reputation (The defamatory gossip spreading about the actor made the public less willing to see the actor\u2019s new movie.)", "word": "defamatory"}
+{"definition": "(v.) to postpone something; to yield to another\u2019s wisdom (Ron deferred to Diane, the expert on musical instruments, when he was asked about buying a piano.)", "word": "defer"}
+{"definition": "(adj.) showing respect for another\u2019s authority (His deferential attitude toward her made her more confident in her ability to run the company.)", "word": "deferential"}
+{"definition": "(v.) to make unclean, impure (She defiled the calm of the religious building by playing her banjo.)", "word": "defile"}
+{"definition": "(adj.) skillful, capable (Having worked in a bakery for many years, Marcus was a deft bread maker.)", "word": "deft"}
+{"definition": "(adj.) no longer used or existing (They planned to turn the defunct schoolhouse into a community center.)", "word": "defunct"}
+{"definition": "(v.) to hand over responsibility for something (The dean delegated the task of finding a new professor to a special hiring committee.)", "word": "delegate"}
+{"definition": "(adj.) harmful (She experienced the deleterious effects of running a marathon without stretching her muscles enough beforehand.)", "word": "deleterious"}
+{"definition": "(adj.) intentional, reflecting careful consideration (Though Mary was quite upset, her actions to resolve the dispute were deliberate.)", "word": "deliberate"}
+{"definition": "(v.) to describe, outline, shed light on (She neatly delineated her reasons for canceling the project\u2019s funding.)", "word": "delineate"}
+{"definition": "(n.) a leader who appeals to a people\u2019s prejudices (The demagogue strengthened his hold over his people by blaming immigrants for the lack of jobs.)", "word": "demagogue"}
+{"definition": "(n.) the marking of boundaries or categories (Different cultures have different demarcations of good and evil.)", "word": "demarcation"}
+{"definition": "(v.) to lower the status or stature of something (She refused to demean her secretary by making him order her lunch.)", "word": "demean"}
+{"definition": "(adj.) quiet, modest, reserved (Though everyone else at the party was dancing and going crazy, she remained demure.)", "word": "demure"}
+{"definition": "(v.) to belittle, diminish the opinion of (The company decided that its advertisements would no longer denigrate the company\u2019s competitors.)", "word": "denigrate"}
+{"definition": "(v.) to criticize publicly (The senator denounced her opponent as a greedy politician.)", "word": "denounce"}
+{"definition": "(v.) to feel or express sorrow, disapproval (We all deplored the miserable working conditions in the factory.)", "word": "deplore"}
+{"definition": "(n.) wickedness (Rumors of the ogre\u2019s depravity made the children afraid to enter the forest.)", "word": "depravity"}
+{"definition": "(v.) to belittle, depreciate (Always over-modest, he deprecated his contribution to the local charity.)", "word": "deprecate"}
+{"definition": "(adj.) abandoned, run-down (Even though it was dangerous, the children enjoyed going to the deserted lot and playing in the derelict house.)", "word": "derelict"}
+{"definition": "(v.) to laugh at mockingly, scorn (The bullies derided the foreign student\u2019s accent.)", "word": "deride"}
+{"definition": "(adj.) taken directly from a source, unoriginal (She was bored by his music because she felt that it was derivative and that she had heard it before.)", "word": "derivative"}
+{"definition": "(v.) to violate the sacredness of a thing or place (They feared that the construction of a golf course would desecrate the preserved wilderness.)", "word": "desecrate"}
+{"definition": "(adj.) dried up, dehydrated (The skin of the desiccated mummy looked like old paper.)", "word": "desiccated"}
+{"definition": "(adj.) deserted, dreary, lifeless (She found the desolate landscape quite a contrast to the hustle and bustle of the overcrowded city.)", "word": "desolate"}
+{"definition": "(adj.) feeling depressed, discouraged, hopeless (Having failed the first math test, the despondent child saw no use in studying for the next and failed that one too.)", "word": "despondent"}
+{"definition": "(n.) one who has total power and rules brutally (The despot issued a death sentence for anyone who disobeyed his laws.)", "word": "despot"}
+{"definition": "(adj.) impoverished, utterly lacking (The hurricane destroyed many homes and left many families destitute.)", "word": "destitute"}
+{"definition": "(v.) to discourage, prevent from doing (Bob\u2019s description of scary snakes couldn\u2019t deter Marcia from traveling in the rainforests.)", "word": "deter"}
+{"definition": "(adj.) not straightforward, deceitful (Not wanting to be punished, the devious girl blamed the broken vase on the cat.)", "word": "devious"}
+{"definition": "(n.) a variation of a language (In the country\u2019s remote, mountainous regions, the inhabitants spoke a dialect that the country\u2019s other inhabitants had difficulty understanding.)", "word": "dialect"}
+{"definition": "(adj.) light, airy, transparent (Sunlight poured in through the diaphanous curtains, brightening the room.)", "word": "diaphanous"}
+{"definition": "1. (adj.) intended to instruct (She wrote up a didactic document showing new employees how to handle the company\u2019s customers.) 2. (adj.) overly moralistic (His didactic style of teaching made it seem like he wanted to persuade his students not to understand history fully, but to understand it from only one point of view.)", "word": "didactic"}
+{"definition": "(adj.) shy, quiet, modest (While eating dinner with the adults, the diffident youth did not speak for fear of seeming presumptuous.)", "word": "diffident"}
+{"definition": "1. (v.) to scatter, thin out, break up (He diffused the tension in the room by making in a joke.) 2. (adj.) not concentrated, scattered, disorganized (In her writings, she tried unsuccessfully to make others understand her diffuse thoughts.)", "word": "diffuse"}
+{"definition": "(adj.) tending to delay, causing delay (The general\u2019s dilatory strategy enabled the enemy to regroup.)", "word": "dilatory"}
+{"definition": "(adj.) showing care in doing one\u2019s work (The diligent researcher made sure to check her measurements multiple times.)", "word": "diligent"}
+{"definition": "(adj.) small or miniature (The bullies, tall and strong, picked on the diminutive child.)", "word": "diminutive"}
+{"definition": "(n.) a mournful song, especially for a funeral (The bagpipers played a dirge as the casket was carried to the cemetery.)", "word": "dirge"}
+{"definition": "(adj.) rebellious, resentful of authority (Dismayed by Bobby\u2019s poor behavior, the parents sent their disaffected son to a military academy to be disciplined.)", "word": "disaffected"}
+{"definition": "(v.) to deny knowledge of or responsibility for (Not wanting others to criticize her, she disavowed any involvement in the company\u2019s hiring scandal.)", "word": "disavow"}
+{"definition": "(v.) to perceive, detect (Though he hid his emotions, she discerned from his body language that he was angry.)", "word": "discern"}
+{"definition": "(v.) to reveal, make public (The CEO disclosed to the press that the company would have to fire several employees.)", "word": "disclose"}
+{"definition": "(v.) to thwart, baffle (The normally cheery and playful children\u2019s sudden misery discomfited the teacher.)", "word": "discomfit"}
+{"definition": "(adj.) not agreeing, not in harmony with (The girls\u2019 sobs were a discordant sound amid the general laughter that filled the restaurant.)", "word": "discordant"}
+{"definition": "(n.) difference, failure of things to correspond (He was troubled by the discrepancy between what he remembered paying for the appliance and what his receipt showed he paid for it.)", "word": "discrepancy"}
+{"definition": "(n.) the quality of being reserved in speech or action; good judgment (Not wanting her patient to get overly anxious, the doctor used discretion in deciding how much to tell the patient about his condition.)", "word": "discretion"}
+{"definition": "(adj.) rambling, lacking order (The professor\u2019s discursive lectures seemed to be about every subject except the one initially described.)", "word": "discursive"}
+{"definition": "1. (v.) to scorn, hold in low esteem (Insecure about their jobs, the older employees disdained the recently hired ones, who were young and capable.) 2. (n.) scorn, low esteem (After learning of his immoral actions, Justine held Lawrence in disdain.)", "word": "disdain"}
+{"definition": "(adj.) upset, not content (The child believed that his parents had unjustly grounded him, and remained disgruntled for a week.)", "word": "disgruntled"}
+{"definition": "(adj.) feeling a loss of spirit or morale (The team was disheartened after losing in the finals of the tournament.)", "word": "disheartened"}
+{"definition": "(v.) to criticize or speak ill of (The saleswoman disparaged the competitor\u2019s products to persuade her customers to buy what she was selling.)", "word": "disparage"}
+{"definition": "(adj.) sharply differing, containing sharply contrasting elements (Having widely varying interests, the students had disparate responses toward the novel.)", "word": "disparate"}
+{"definition": "(v.) to send off to accomplish a duty (The carpenter dispatched his assistant to fetch wood.)", "word": "dispatch"}
+{"definition": "(v.) to drive away, scatter (She entered the office as usual on Monday, dispelling the rumor that she had been fired.)", "word": "dispel"}
+{"definition": "(v.) to scatter, cause to scatter (When the rain began to pour, the crowd at the baseball game quickly dispersed.)", "word": "disperse"}
+{"definition": "(n.) a state of being held in low regard (The officer fell into disrepute after it was learned that he had disobeyed the orders he had given to his own soldiers.)", "word": "disrepute"}
+{"definition": "(v.) to conceal, fake (Not wanting to appear heartlessly greedy, she dissembled and hid her intention to sell her ailing father\u2019s stamp collection.)", "word": "dissemble"}
+{"definition": "(v.) to spread widely (The politician disseminated his ideas across the town before the election.)", "word": "disseminate"}
+{"definition": "1. (v.) to disagree (The principal argued that the child should repeat the fourth grade, but the unhappy parents dissented.) 2. (n.) the act of disagreeing (Unconvinced that the defendant was guilty, the last juror voiced his dissent with the rest of the jury.)", "word": "dissent"}
+{"definition": "1. (v.) to disappear, cause to disappear (The sun finally came out and dissipated the haze.) 2. (v.) to waste (She dissipated her fortune on a series of bad investments.)", "word": "dissipate"}
+{"definition": "(n.) lack of harmony or consistency (Though the president of the company often spoke of the company as reliant solely upon its workers, her decision to increase her own salary rather than reward her employees revealed a striking dissonance between her alleged beliefs and her actions.)", "word": "dissonance"}
+{"definition": "(v.) to persuade someone not to do something (Worried that he would catch a cold, she tried to dissuade him from going out on winter nights.)", "word": "dissuade"}
+{"definition": "(v.) to swell out (Years of drinking beer caused his stomach to distend.) dither (v.) to be indecisive (Not wanting to offend either friend, he dithered about which of the two birthday parties he should attend.)", "word": "distend"}
+{"definition": "(adj.) godly, exceedingly wonderful (Terribly fond of desserts, she found the rich chocolate cake to be divine.)", "word": "divine"}
+{"definition": "(adj.) causing dissent, discord (Her divisive tactics turned her two friends against each other.)", "word": "divisive"}
+{"definition": "(v.) to reveal something secret (Pressured by the press, the government finally divulged the previously unknown information.)", "word": "divulge"}
+{"definition": "(adj.) easily taught or trained (She successfully taught the docile puppy several tricks.)", "word": "docile"}
+{"definition": "(adj.) aggressively and arrogantly certain about unproved principles (His dogmatic claim that men were better than women at fixing appliances angered everyone.)", "word": "dogmatic"}
+{"definition": "(adj.) sleeping, temporarily inactive (Though she pretended everything was fine, her anger lay dormant throughout the dinner party and exploded in screams of rage after everyone had left.)", "word": "dormant"}
+{"definition": "(adj.)stern, joyless (The children feared their dour neighbor because the old man would take their toys if he believed they were being too loud.)", "word": "dour"}
+{"definition": "(adj.) doubtful, of uncertain quality (Suspicious that he was only trying to get a raise, she found his praise dubious.)", "word": "dubious"}
+{"definition": "(n.) crafty dishonesty (His duplicity involved convincing his employees to let him lower their salaries and increase their stock options, and then to steal the money he saved and run the company into the ground.)", "word": "duplicity"}
+{"definition": "(n.) hardship, threat (It was only under intense duress that he, who was normally against killing, fired his gun.)", "word": "duress"}
+{"definition": "(adj.) actively changing (The parents found it hard to keep up with the dynamic music scene with which their children had become very familiar.)", "word": "dynamic"}
+{"definition": "(adj.) extremely lively, enthusiastic (She became ebullient upon receiving an acceptance letter from her first-choice college.)", "word": "ebullient"}
+{"definition": "(adj.) consisting of a diverse variety of elements (That bar attracts an eclectic crowd: lawyers, artists, circus clowns, and investment bankers.)", "word": "eclectic"}
+{"definition": "(adj.) intensely and overpoweringly happy (The couple was ecstatic when they learned that they had won the lottery.)", "word": "ecstatic"}
+{"definition": "(n.) an order, decree (The ruler issued an edict requiring all of his subjects to bow down before him.)", "word": "edict"}
+{"definition": "(v.) to wipe out, obliterate, rub away (The husband was so angry at his wife for leaving him that he effaced all evidence of her presence; he threw out pictures of her and gave away all her belongings.)", "word": "efface"}
+{"definition": "(adj.) bubbly, lively (My friend is so effervescent that she makes everyone smile.)", "word": "effervescent"}
+{"definition": "(adj.) effective (My doctor promised me that the cold medicine was efficacious, but I\u2019m still sniffling.)", "word": "efficacious"}
+{"definition": "(n.) impudence, nerve, insolence (When I told my aunt that she was boring, my mother scolded me for my effrontery.)", "word": "effrontery"}
+{"definition": "(adj.) radiant, splendorous (The golden palace was effulgent.)", "word": "effulgent"}
+{"definition": "(adj.) extremely bad (The student who threw sloppy joes across the cafeteria was punished for his egregious behavior.)", "word": "egregious"}
+{"definition": "(adj.) complex, detailed, intricate (Dan always beats me at chess because he develops such an elaborate game plan that I can never predict his next move.)", "word": "elaborate"}
+{"definition": "(adj.) overjoyed, thrilled (When she found out she had won the lottery, the writer was elated.)", "word": "elated"}
+{"definition": "(n.) a speech given in honor of a dead person (At the funeral, the widow gave a moving elegy describing her love for her husband.)", "word": "elegy"}
+{"definition": "(v.) to bring forth, draw out, evoke (Although I asked several times where the exit was, I elicited no response from the stone-faced policeman.)", "word": "elicit"}
+{"definition": "(adj.) expressive, articulate, moving (The priest gave such an eloquent sermon that most churchgoers were crying.)", "word": "eloquent"}
+{"definition": "(v.) to clarify, explain (I didn\u2019t understand why my friend was so angry with me, so I asked Janine to elucidate her feelings.)", "word": "elucidate"}
+{"definition": "(v.) to evade, escape (Despite an intense search, the robber continues to elude the police.)", "word": "elude"}
+{"definition": "(adj.) very thin, enfeebled looking (My sister eats a lot of pastries and chocolate but still looks emaciated.)", "word": "emaciated"}
+{"definition": "1. (v.) to decorate, adorn (My mom embellished the living room by adding lace curtains.) 2. (v.)to add details to, enhance (When Harry told me that he had \u201cdone stuff\u201d on his vacation, I asked him to embellish upon his account.)", "word": "embellish"}
+{"definition": "(v.) to steal money by falsifying records (The accountant was fired for embezzling $10,000 of the company\u2019s funds.)", "word": "embezzle"}
+{"definition": "(v.) to correct or revise a written text (If my sentence is incorrect, the editor will emend what I have written.)", "word": "emend"}
+{"definition": "1. (adj.) distinguished, prominent, famous (Mr. Phillips is such an eminent scholar that every professor on campus has come to hear him lecture.) 2. (adj.) conspicuous (There is an eminent stain on that shirt.)", "word": "eminent"}
+{"definition": "(adj.) soothing (This emollient cream makes my skin very smooth.)", "word": "emollient"}
+{"definition": "(v.) to express emotion (The director told the actor he had to emote, or else the audience would have no idea what his character was going through.)", "word": "emote"}
+{"definition": "(n.) sensitivity to another\u2019s feelings as if they were one\u2019s own (I feel such empathy for my sister when she\u2019s in pain that I cry too.)", "word": "empathy"}
+{"definition": "1. (adj.) based on observation or experience (The scientist gathered empirical data on the growth rate of dandelions by studying the dandelions behind his house.) 2. (adj.) capable of being proved or disproved by experiment (That all cats hate getting wet is an empirical statement: I can test it by bathing my cat, Trinket.)", "word": "empirical"}
+{"definition": "(v.) to imitate (I idolize Britney Spears so much that I emulate everything she does: I wear her outfits, sing along to her songs, and date a boy named Justin.)", "word": "emulate"}
+{"definition": "(v.) to fill with love, fascinate, usually used in passive form followed by \u201cof\u201d or \u201cwith\u201d (I grew enamored of that boy when he quoted my favorite love poem.)", "word": "enamor"}
+{"definition": "(n.) the audience\u2019s demand for a repeat performance; also the artist\u2019s performance in response to that demand (At the end of the concert, all the fans yelled, \u201cEncore! Encore!\u201d but the band did not come out to play again.)", "word": "encore"}
+{"definition": "(v.) to weigh down, burden (At the airport, my friend was encumbered by her luggage, so I offered to carry two of her bags.)", "word": "encumber"}
+{"definition": "(v.) to weaken, exhaust (Writing these sentences enervates me so much that I will have to take a nap after I finish.)", "word": "enervate"}
+{"definition": "(v.) to grant the vote to (The Nineteenth Amendment enfranchised women.)", "word": "enfranchise"}
+{"definition": "(v.) to bring about, create, generate (During the Olympics, the victories of U.S. athletes engender a patriotic spirit among Americans.)", "word": "engender"}
+{"definition": "(adj.) mystifying, cryptic (That man wearing the dark suit and dark glasses is so enigmatic that no one even knows his name.)", "word": "enigmatic"}
+{"definition": "(n.) ill will, hatred, hostility (Mark and Andy have clearly not forgiven each other, because the enmity between them is obvious to anyone in their presence.)", "word": "enmity"}
+{"definition": "(n.) boredom, weariness (I feel such ennui that I don\u2019t look forward to anything, not even my birthday party.)", "word": "ennui"}
+{"definition": "(v.) to include as a necessary step (Building a new fence entails tearing down the old one.)", "word": "entail"}
+{"definition": "(v.) to charm, hold spellbound (The sailor\u2019s stories of fighting off sharks and finding ancient treasures enthralled his young son.)", "word": "enthrall"}
+{"definition": "(adj.) short-lived, fleeting (She promised she\u2019d love me forever, but her \u201cforever\u201d was only ephemeral: she left me after one week.)", "word": "ephemeral"}
+{"definition": "(adj.) relating to or contained in letters (Some people call me \u201cAuntie\u2019s boy,\u201d because my aunt and I have such a close epistolary relationship that we write each other every day.)", "word": "epistolary"}
+{"definition": "(n.) a perfect example, embodiment (My mother, the epitome of good taste, always dresses more elegantly than I do.)", "word": "epitome"}
+{"definition": "(n.) composure (Even though he had just been fired, Mr. Simms showed great equanimity by neatly packing up his desk and wishing everyone in the office well.)", "word": "equanimity"}
+{"definition": "(adj.) ambiguous, uncertain, undecided (His intentions were so equivocal that I didn\u2019t know whether he was being chivalrous or sleazy.)", "word": "equivocal"}
+{"definition": "(adj.) learned (My Latin teacher is such an erudite scholar that he has translated some of the most difficult and abstruse ancient poetry.)", "word": "erudite"}
+{"definition": "(v.) to shun, avoid (George hates the color green so much that he eschews all green food.)", "word": "eschew"}
+{"definition": "(adj.) understood by only a select few (Even the most advanced students cannot understand the physicist\u2019s esoteric theories.)", "word": "esoteric"}
+{"definition": "(v.) to take up as a cause, support (I love animals so much that I espouse animal rights.)", "word": "espouse"}
+{"definition": "(adj.) heavenly, exceptionally delicate or refined (In her flowing silk gown and lace veil, the bride looked ethereal.)", "word": "ethereal"}
+{"definition": "(n.) the history of words, their origin and development (From the study of etymology, I know that the word \u201cquixotic\u201d derives from Don Quixote and the word \u201cgaudy\u201d refers to the Spanish architect Gaudi\u0301.)", "word": "etymology"}
+{"definition": "(adj.) elated, uplifted (I was euphoric when I found out that my sister had given birth to twins.)", "word": "euphoric"}
+{"definition": "(adj.) fleeting, momentary (My joy at getting promoted was evanescent because I discovered that I would have to work much longer hours in a less friendly office.)", "word": "evanescent"}
+{"definition": "(v.) to show, reveal (Christopher\u2019s hand-wringing and nail-biting evince how nervous he is about the upcoming English test.)", "word": "evince"}
+{"definition": "(v.) to make more violent, intense (The gruesome and scary movie I saw last night exacerbated my fears of the dark.)", "word": "exacerbate"}
+{"definition": "(v.) to glorify, praise (Michael Jordan is the figure in basketball we exalt the most.)", "word": "exalt"}
+{"definition": "(v.) to irritate, irk (George\u2019s endless complaints exasperated his roomate.)", "word": "exasperate"}
+{"definition": "(v.) to dig out of the ground and remove (The pharaoh\u2019s treasures were excavated by archeologists in Egypt.)", "word": "excavate"}
+{"definition": "(v.) to free from guilt or blame, exonerate (My discovery of the ring behind the dresser exculpated me from the charge of having stolen it.)", "word": "exculpate"}
+{"definition": "(n.) a trip or outing (After taking an excursion to the Bronx Zoo, I dreamed about pandas and monkeys.)", "word": "excursion"}
+{"definition": "(adj.) loathsome, detestable (Her pudding is so execrable that it makes me sick.)", "word": "execrable"}
+{"definition": "(v.) to urge, prod, spur (Henry exhorted his colleagues to join him in protesting against the university\u2019s hiring policies.)", "word": "exhort"}
+{"definition": "(adj.) urgent, critical (The patient has an exigent need for medication, or else he will lose his sight.)", "word": "exigent"}
+{"definition": "(v.) to free from guilt or blame, exculpate (The true thief\u2019s confession exonerated the man who had been held in custody for the crime.)", "word": "exonerate"}
+{"definition": "(adj.) excessive (Her exorbitant praise made me blush and squirm in my seat.)", "word": "exorbitant"}
+{"definition": "(adj.) advisable, advantageous, serving one\u2019s self-interest (In his bid for reelection, the governor made an expedient move by tabling all controversial legislation.)", "word": "expedient"}
+{"definition": "(v.) to make amends for, atone (To expiate my selfishness, I gave all my profits to charity.)", "word": "expiate"}
+{"definition": "(v.) to obliterate, eradicate (Fearful of an IRS investigation, Paul tried to expunge all incriminating evidence from his tax files.)", "word": "expunge"}
+{"definition": "(v.) to remove offensive or incorrect parts, usually of a book (The history editors expurgated from the text all disparaging and inflammatory comments about the Republican Party.)", "word": "expurgate"}
+{"definition": "(adj.) existing, not destroyed or lost (My mother\u2019s extant love letters to my father are in the attic trunk.)", "word": "extant"}
+{"definition": "(v.) to praise, revere (Violet extolled the virtues of a vegetarian diet to her meat- loving brother.)", "word": "extol"}
+{"definition": "(adj.) irrelevant, extra, not necessary (Personal political ambitions should always remain extraneous to legislative policy, but, unfortunately, they rarely are.)", "word": "extraneous"}
+{"definition": "(v.) to disentangle (Instead of trying to mediate between my brother and sister, I extricated myself from the family tension entirely and left the house for the day.)", "word": "extricate"}
+{"definition": "(v.) to rejoice (When she found out she won the literature prize, Mary exulted by dancing and singing through the school\u2019s halls.)", "word": "exult"}
+{"definition": "(v.) to make up, invent (When I arrived an hour late to class, I fabricated some excuse about my car breaking down on the way to school.)", "word": "fabricate"}
+{"definition": "1. (n.) the wall of a building (Meet me in front of the museum\u2019s main fac\u0327ade.) 2. (n.) a deceptive appearance or attitude (Despite my smiling fac\u0327ade, I am feeling melancholy.)", "word": "fac\u0327ade"}
+{"definition": "1. (adj.) easy, requiring little effort (This game is so facile that even a four-year- old can master it.) 2. (adj.) superficial, achieved with minimal thought or care, insincere (The business was in such shambles that any solution seemed facile at best; nothing could really helpit in the long-run.)", "word": "facile"}
+{"definition": "(adj.) incorrect, misleading (Emily offered me cigarettes on the fallacious assumption that I smoked.)", "word": "fallacious"}
+{"definition": "(adj.) meticulous, demanding, having high and often unattainable standards (Mark is so fastidious that he is never able to finish a project because it always seems imperfect to him.)", "word": "fastidious"}
+{"definition": "(v.) to understand, comprehend (I cannot fathom why you like that crabby and mean-spirited neighbor of ours.)", "word": "fathom"}
+{"definition": "(adj.) silly, foolish (He considers himself a serious poet, but in truth, he only writes fatuous limericks.)", "word": "fatuous"}
+{"definition": "(adj.) fruitful, fertile (The fecund tree bore enough apples to last us through the entire season.)", "word": "fecund"}
+{"definition": "1. (adj.) well suited, apt (While his comments were idiotic and rambling, mine were felicitous and helpful.) 2. (adj.) delightful, pleasing (I spent a felicitous afternoon visiting old friends.)", "word": "felicitous"}
+{"definition": "(adj.) wild, savage (That beast looks so feral that I would fear being alone with it.) fervent (adj.) ardent, passionate (The fervent protestors chained themselves to the building and shouted all night long.)", "word": "feral"}
+{"definition": "(adj.) having a foul odor (I can tell from the fetid smell in your refrigerator that your milk has spoiled.)", "word": "fetid"}
+{"definition": "(v.) to chain, restrain (The dog was fettered to the parking meter.)", "word": "fetter"}
+{"definition": "(adj.) shifting in character, inconstant (In Greek dramas, the fickle gods help Achilles one day, and then harm him the next.)", "word": "fickle"}
+{"definition": "(n.) loyalty, devotion (Guard dogs are known for the great fidelity they show toward their masters.)", "word": "fidelity"}
+{"definition": "(adj.) symbolic (Using figurative language, Jane likened the storm to an angry bull.)", "word": "figurative"}
+{"definition": "(adj.) astounded (Whenever I read an Agatha Christie mystery novel, I am always flabbergasted when I learn the identity of the murderer.)", "word": "flabbergasted"}
+{"definition": "(adj.) limp, not firm or strong (If a plant is not watered enough, its leaves become droopy and flaccid.)", "word": "flaccid"}
+{"definition": "(adj.) offensive, egregious (The judge\u2019s decision to set the man free simply because that man was his brother was a flagrant abuse of power.)", "word": "flagrant"}
+{"definition": "(adj.) flowery, ornate (The writer\u2019s florid prose belongs on a sentimental Hallmark card.)", "word": "florid"}
+{"definition": "(v.) to disregard or disobey openly (I flouted the school\u2019s dress code by wearing a tie-dyed tank top and a pair of cut-off jeans.)", "word": "flout"}
+{"definition": "(v.) to thwart, frustrate, defeat (Inspector Wilkens foiled the thieves by locking them in the bank along with their stolen money.)", "word": "foil"}
+{"definition": "(v.) to graze, rummage for food (When we got lost on our hiking trip, we foraged for berries and nuts in order to survive.)", "word": "forage"}
+{"definition": "(n.) patience, restraint, toleration (The doctor showed great forbearance in calming down the angry patient who shouted insults at him.)", "word": "forbearance"}
+{"definition": "(v.) to prevent, thwart, delay (I forestalled the cold I was getting by taking plenty of vitamin C pills and wearing a scarf.)", "word": "forestall"}
+{"definition": "(adj.) lonely, abandoned, hopeless (Even though I had the flu, my family decided to go skiing for the weekend and leave me home alone, feeling feverish and forlorn.)", "word": "forlorn"}
+{"definition": "(v.) to give up, renounce (My New Year\u2019s resolution is to forsake smoking and drinking.)", "word": "forsake"}
+{"definition": "(n.) strength, guts (Achilles\u2019 fortitude in battle is legendary.)", "word": "fortitude"}
+{"definition": "(adj.) happening by chance, often lucky or fortunate (After looking for Manuel and not finding him at home, Harriet had a fortuitous encounter with him at the post office.)", "word": "fortuitous"}
+{"definition": "(n.) a medium for lecture or discussion (Some radio talk-shows provide a good forum for political debate.)", "word": "forum"}
+{"definition": "(v.) to stimulate, promote, encourage (To foster good health in the city, the mayor started a \u201cGet out and exercise!\u201d campaign.)", "word": "foster"}
+{"definition": "(adj.) troublesome or irritable (Although the child insisted he wasn\u2019t tired, his fractious behavior\u2014especially his decision to crush his cheese and crackers all over the floor\u2014convinced everyone present that it was time to put him to bed.)", "word": "fractious"}
+{"definition": "(adj.) (usually used with \u201cwith\u201d) filled or accompanied with (Her glances in his direction were fraught with meaning, though precisely what meaning remained unclear.)", "word": "fraught"}
+{"definition": "(adj.) frenzied, hectic, frantic (In the hours between night and morning, the frenetic pace of city life slows to a lull.)", "word": "frenetic"}
+{"definition": "(adj.) of little importance, trifling (Someday, all that anxiety about whether your zit will disappear before the prom will seem totally frivolous.)", "word": "frivolous"}
+{"definition": "(adj.) thrifty, economical (Richard is so frugal that his diet consists almost exclusively of catfish and chicken liver\u2014the two most inexpensive foods in the store.)", "word": "frugal"}
+{"definition": "(adj.) secretive, sly (Jane\u2019s placement of her drugs in her sock drawer was not as furtive as she thought, as the sock drawer is the first place most parents look.)", "word": "furtive"}
+{"definition": "(adj.) gaudy, in bad taste (Mrs. Watson has poor taste and covers every object in her house with a garish gold lame\u0301.)", "word": "garish"}
+{"definition": "(adj.) talkative, wordy (Some talk show hosts are so garrulous that their guests can\u2019t get a word in edgewise.)", "word": "garrulous"}
+{"definition": "(adj.) friendly, affable (Although he\u2019s been known to behave like a real jerk, I would say that my brother is an overall genial guy.)", "word": "genial"}
+{"definition": "(n.) overindulgence in food or drink (Ada\u2019s fried chicken tastes so divine, I don\u2019t know how anyone can call gluttony a sin.)", "word": "gluttony"}
+{"definition": "(v.) to urge, spur, incite to action (Jim may think he\u2019s not going to fight Billy, but Billy will goad Jim on with insults until he throws a punch.)", "word": "goad"}
+{"definition": "(n.) someone fond of eating and drinking (My parents, who used to eat little more than crackers and salad, have become real gourmands in their old age.)", "word": "gourmand"}
+{"definition": "(n.) lofty, pompous language (The student thought her grandiloquence would make her sound smart, but neither the class nor the teacher bought it.)", "word": "grandiloquence"}
+{"definition": "(adj.) on a magnificent or exaggerated scale (Margaret planned a grandiose party, replete with elephants, trapeze artists, and clowns.)", "word": "grandiose"}
+{"definition": "(adj.) uncalled for, unwarranted (Every morning the guy at the donut shop gives me a gratuitous helping of ketchup packets.)", "word": "gratuitous"}
+{"definition": "(adj.) drawn to the company of others, sociable (Well, if you\u2019re not gregarious, I don\u2019t know why you would want to go to a singles party!)", "word": "gregarious"}
+{"definition": "(adj.) injurious, hurtful; serious or grave in nature (Electrocuting the inmate without being sure of his guilt would be a truly grievous mistake.)", "word": "grievous"}
+{"definition": "(n.) deceitful, cunning, sly behavior (Because of his great guile, the politician was able to survive scandal after scandal.)", "word": "guile"}
+{"definition": "(adj.) unoriginal, trite (A girl can only hear \u201cI love you\u201d so many times before it begins to sound hackneyed and meaningless.)", "word": "hackneyed"}
+{"definition": "(adj.) revered, consecrated (In the hallowed corridors of the cathedral, the disturbed professor felt himself to be at peace.)", "word": "hallowed"}
+{"definition": "(adj.) unlucky (My poor, hapless family never seems to pick a sunny week to go on vacation.)", "word": "hapless"}
+{"definition": "1. (n.) a ranting speech (Everyone had heard the teacher\u2019s harangue about gum chewing in class before.) 2. (v.) to give such a speech (But this time the teacher harangued the class about the importance of brushing your teeth after chewing gum.)", "word": "harangue"}
+{"definition": "(adj.) robust, capable of surviving through adverse conditions (I too would have expected the plants to be dead by mid-November, but apparently they\u2019re very hardy.)", "word": "hardy"}
+{"definition": "(adj.) greatly distressing, vexing (The car crash was a harrowing experience, but I have a feeling that the increase in my insurance premiums will be even more upsetting.)", "word": "harrowing"}
+{"definition": "(adj.) disdainfully proud (The superstar\u2019s haughty dismissal of her costars will backfire on her someday.)", "word": "haughty"}
+{"definition": "(n.) one who believes pleasure should be the primary pursuit of humans (Because he\u2019s such a hedonist, I knew Murray would appreciate the 11 cases of wine I bought him for his birthday.)", "word": "hedonist"}
+{"definition": "(n.) domination over others (Britain\u2019s hegemony over its colonies was threatened once nationalist sentiment began to spread around the world.)", "word": "hegemony"}
+{"definition": "(adj.) shockingly wicked, repugnant (The killings were made all the more heinous by the fact that the murderer first tortured his victims for three days.)", "word": "heinous"}
+{"definition": "(adj.) varied, diverse in character (I hate having only one flavor so I always buy the swirled, or should I say heterogeneous, type of ice cream.)", "word": "heterogeneous"}
+{"definition": "(n.) a break or gap in duration or continuity (The hiatus in service should last two or three months\u2014until the cable lines are repaired .)", "word": "hiatus"}
+{"definition": "(n.) a system with ranked groups, usually according to social, economic, or professional class (Women found it very difficult to break into the upper ranks of the department\u2019s hierarchy.)", "word": "hierarchy"}
+{"definition": "(n.) pretending to believe what one does not (Once the politician began passing legislation that contradicted his campaign promises, his hypocrisy became apparent.)", "word": "hypocrisy"}
+{"definition": "(adj.) supposed or assumed true, but unproven (Even though it has been celebrated by seven major newspapers, that the drug will be a success when tested in humans is still hypothetical.)", "word": "hypothetical"}
+{"definition": "(n.) one who attacks common beliefs or institutions (Jane goes to one protest after another, but she seems to be an iconoclast rather than an activist with a progressive agenda.)", "word": "iconoclast"}
+{"definition": "(adj.) peculiar to one person; highly individualized (I know you had trouble with the last test, but because your mistakes were highly idiosyncratic, I\u2019m going to deny your request that the class be given a new test.)", "word": "idiosyncratic"}
+{"definition": "(adj.) excessively worshipping one object or person (Xena\u2019s idolatrous fawning over the band\u2014following them on tour, starting their fan club, filming their documentary\u2014is really beginning to get on my nerves.)", "word": "idolatrous"}
+{"definition": "(adj.) humiliating, disgracing (It was really ignominious to be kicked out of the dorm for having an illegal gas stove in my room.)", "word": "ignominious"}
+{"definition": "(adj.) forbidden, not permitted (The fourth-grader learned many illicit words from a pamphlet that was being passed around school.)", "word": "illicit"}
+{"definition": "(v.) to absorb, deeply involve, engross (After breaking up with her boyfriend, Nancy decided to immerse herself in her work in order to avoid crying.)", "word": "immerse"}
+{"definition": "(adj.) not changeable (The laws of physics are immutable and constant.) impassive (adj.) stoic, not susceptible to suffering (Stop being so impassive; it\u2019s healthy to cry every now and then.)", "word": "immutable"}
+{"definition": "(adj.) exemplary, flawless (If your grades were as impeccable as your sister\u2019s, then you too would receive a car for a graduation present.)", "word": "impeccable"}
+{"definition": "(adj.) poor (\u201cI fear he\u2019s too impecunious to take me out tonight,\u201d the bratty girl whined.)", "word": "impecunious"}
+{"definition": "1. (adj.) necessary, pressing (It is imperative that you have these folders organized by midday.) 2. (n.) a rule, command, or order (Her imperative to have the folders organized by midday was perceived as ridiculous by the others.)", "word": "imperative"}
+{"definition": "(adj.) commanding, domineering (The imperious nature of your manner led me to dislike you at once.)", "word": "imperious"}
+{"definition": "(adj.) rude, insolent (Most of your comments are so impertinent that I don\u2019t wish to dignify them with an answer.)", "word": "impertinent"}
+{"definition": "(adj.) impenetrable, incapable of being affected (Because of their thick layer of fur, many seals are almost impervious to the cold.)", "word": "impervious"}
+{"definition": "(adj.) rash; hastily done (Hilda\u2019s hasty slaying of the king was an impetuous, thoughtless action.)", "word": "impetuous"}
+{"definition": "1. (v.) to impact, affect, make an impression (The hail impinged the roof, leaving large dents.) 2. (v.) to encroach, infringe (I apologize for impinging upon you like this, but I really need to use your bathroom. Now.)", "word": "impinge"}
+{"definition": "(adj.) incapable of being appeased or mitigated (Watch out: once you shun Grandma\u2019s cooking, she is totally implacable.)", "word": "implacable"}
+{"definition": "1. (n.) an instrument, utensil, tool (Do you have a knife or some other sort of implement that I could use to pry the lid off of this jar?) 2. (v.) to put into effect, to institute (After the first town curfew failed to stop the graffiti problem, the mayor implemented a new policy to use security cameras to catch perpetrators in the act.)", "word": "implement"}
+{"definition": "(v.) to involve in an incriminating way, incriminate (Even though Tom wasn\u2019t present at the time of the shooting, he was implicated by the evidence suggesting that he had supplied the shooters with guns.)", "word": "implicate"}
+{"definition": "(adj.) understood but not outwardly obvious, implied (I know Professor Smith didn\u2019t actually say not to write from personal experience, but I think such a message was implicit in her instruction to use scholarly sources.)", "word": "implicit"}
+{"definition": "(adj.) resistant to capture or penetration (Though the invaders used battering rams, catapults, and rain dances, the fortress proved impregnable and resisted all attacks.)", "word": "impregnable"}
+{"definition": "(adj.) casually rude, insolent, impertinent (The impudent young man looked the princess up and down and told her she was hot even though she hadn\u2019t asked him.)", "word": "impudent"}
+{"definition": "(v.) to ascribe, blame (The CEO imputed the many typos in the letter to his lazy secretary.)", "word": "impute"}
+{"definition": "(adj.) silly and meaningless (Some films are so inane that the psychology of the characters makes absolutely no sense.)", "word": "inane"}
+{"definition": "(adj.) incapable of expressing oneself clearly through speech (Though he spoke for over an hour, the lecturer was completely inarticulate and the students had no idea what he was talking about.)", "word": "inarticulate"}
+{"definition": "1. (adj.) existing in the flesh, embodied (In the church pageant, I play the role of greed incarnate.) 2. (v.) to give human form to (The alien evaded detection by incarnating himself in a human form.)", "word": "incarnate"}
+{"definition": "1. (n.) a person who agitates (If we catch the incendiary who screamed \u201cbomb\u201d in the middle of the soccer match, we\u2019re going to put him in jail.) 2. (adj.) inflammatory, causing combustion (Gas and lighter fluid are incendiary materials that should be kept out of hot storage areas.)", "word": "incendiary"}
+{"definition": "(adj.) unending (We wanted to go outside and play, but the incessant rain kept us indoors for two days.)", "word": "incessant"}
+{"definition": "(adj.) unformed or formless, in a beginning stage (The country\u2019s government is still inchoate and, because it has no great tradition, quite unstable.)", "word": "inchoate"}
+{"definition": "(adj.) clear, sharp, direct (The discussion wasn\u2019t going anywhere until her incisive comment allowed everyone to see what the true issues were.)", "word": "incisive"}
+{"definition": "(n.) a tendency, propensity (Sarah has an inclination to see every foreign film she hears about, even when she\u2019s sure that she won\u2019t like it.)", "word": "inclination"}
+{"definition": "(adj.) indisputable (Only stubborn Tina would attempt to disprove the incontrovertible laws of physics.)", "word": "incontrovertible"}
+{"definition": "(adj.) incapable of correction, delinquent (You can buy Grandma nicotine gum all you want, but I think that after sixty-five years of smoking she\u2019s incorrigible.)", "word": "incorrigible"}
+{"definition": "(n.) an enlargement; the process of increasing(The workmen made the wall longer, increment by increment.)", "word": "increment"}
+{"definition": "1. (n.) one who holds an office (The incumbent senator is already serving his fifth term.) 2. (adj.) obligatory (It is incumbent upon this organization to offer aid to all who seek it.)", "word": "incumbent"}
+{"definition": "(adj.) incapable of defeat, failure, decay (Even after traveling 62 miles, the indefatigable runner kept on moving.)", "word": "indefatigable"}
+{"definition": "(adj.) originating in a region (Some fear that these plants, which are not indigenous to the region, may choke out the vegetation that is native to the area.)", "word": "indigenous"}
+{"definition": "(adj.) very poor, impoverished (I would rather donate money to help the indigent population than to the park sculpture fund.)", "word": "indigent"}
+{"definition": "(n.) anger sparked by something unjust or unfair (I resigned from the sorority because of my indignation at its hazing of new members.)", "word": "indignation"}
+{"definition": "(adj.) lazy (Why should my indolent children, who can\u2019t even pick themselves up off the couch to pour their own juice, be rewarded with a trip to the mall?)", "word": "indolent"}
+{"definition": "(adj.) not capable of being conquered (To be honest, Jim, my indomitable nature means I could never take orders from anyone, and especially not from a jerk like you.)", "word": "indomitable"}
+{"definition": "(v.) to bring about, stimulate (Who knew that our decision to boycott school lunch would induce a huge riot?)", "word": "induce"}
+{"definition": "(adj.) unspeakable, incapable of being expressed through words (It is said that the experience of playing with a dolphin is ineffable and can only be understood through direct encounter.)", "word": "ineffable"}
+{"definition": "(adj.) not suitable or capable, unqualified (She proved how inept she was when she forgot three orders and spilled a beer in a customer\u2019s lap.)", "word": "inept"}
+{"definition": "(adj.) incapable of being persuaded or placated (Although I begged for hours, Mom was inexorable and refused to let me stay out all night after the prom.)", "word": "inexorable"}
+{"definition": "(adj.) hopelessly tangled or entangled (Unless I look at the solution manual, I have no way of solving this inextricable problem.)", "word": "inextricable"}
+{"definition": "(n.) notoriety, extreme ill repute (The infamy of his crime will not lessen as the decades pass.)", "word": "infamy"}
+{"definition": "(n.) an injection of one substance into another; the permeation of one substance by another (The infusion of Eastern religion into Western philosophy created interesting new schools of thought.)", "word": "infusion"}
+{"definition": "(adj.) clever, resourceful (Her ingenious use of walnuts instead of the peanuts called for by the recipe was lauded by the other garden club members who found her cake delicious.)", "word": "ingenious"}
+{"definition": "(adj.) not devious; innocent and candid (He must have writers, but his speeches seem so ingenuous it\u2019s hard to believe he\u2019s not speaking from his own heart.)", "word": "ingenuous"}
+{"definition": "(v.) to prevent, restrain, stop (When I told you I needed the car last night, I certainly never meant to inhibit you from going out.)", "word": "inhibit"}
+{"definition": "(adj.) hostile, enemylike (I don\u2019t see how I could ever work for a company that was so cold and inimical to me during my interviews.)", "word": "inimical"}
+{"definition": "(n.) wickedness or sin (\u201cYour iniquity,\u201d said the priest to the practical jokester, \u201cwill be forgiven.\u201d)", "word": "iniquity"}
+{"definition": "(n.) an order of official warning (After his house was toilet-papered for the fifth time, the mayor issued an injunction against anyone younger than 21 buying toilet paper.)", "word": "injunction"}
+{"definition": "(adj.) inborn, native, inherent (His incredible athletic talent is innate, he never trains, lifts weights, or practices.)", "word": "innate"}
+{"definition": "(adj.) harmless, inoffensive (In spite of their innocuous appearance, these mushrooms are actually quite poisonous.)", "word": "innocuous"}
+{"definition": "(v.) to do something in an unprecedented way (Because of the stiff competition, the company knew it needed to pour a lot of energy into innovating new and better products.)", "word": "innovate"}
+{"definition": "(n.) an insinuation (During the debate, the politician made several innuendos about the sexual activities of his opponent.)", "word": "innuendo"}
+{"definition": "(v.) to introduce a microorganism, serum, or vaccine into an organism in order to increase immunity to illness; to vaccinate (I\u2019ve feared needles ever since I was inoculated against 37 diseases at age one; but I have also never been sick.)", "word": "inoculate"}
+{"definition": "(n.) one who inquires, especially in a hostile manner (The inquisitor was instructed to knock on every door in town in order to find the fugitive.)", "word": "inquisitor"}
+{"definition": "(adj.) incapable of being satisfied (My insatiable appetite for melons can be a real problem in the winter.)", "word": "insatiable"}
+{"definition": "(adj.) appealing but imperceptibly harmful, seductive (Lisa\u2019s insidious chocolate cake tastes so good but makes you feel so sick later on!)", "word": "insidious"}
+{"definition": "(v.) to suggest indirectly or subtly (I wish Luke and Spencer would stop insinuating that my perfect report card is the result of anything other than my superior intelligence and good work habits.)", "word": "insinuate"}
+{"definition": "(adj.) dull, boring (The play was so insipid, I fell asleep halfway through.) insolent (adj.) rude, arrogant, overbearing (That celebrity is so insolent, making fun of his fans right to their faces.)", "word": "insipid"}
+{"definition": "(v.) to urge, goad (The demagogue instigated the crowd into a fury by telling them that they had been cheated by the federal government.)", "word": "instigate"}
+{"definition": "(adj.) separated and narrow-minded; tight-knit, closed off (Because of the sensitive nature of their jobs, those who work for the CIA must remain insular and generally only spend time with each other.)", "word": "insular"}
+{"definition": "(n.) one who rebels (The insurgent snuck into and defaced a different classroom each night until the administration agreed to meet his demands.)", "word": "insurgent"}
+{"definition": "(adj.) necessary for completeness (Without the integral ingredient of flour, you wouldn\u2019t be able to make bread.)", "word": "integral"}
+{"definition": "(v.) to insert between other things (During our conversation, the cab driver occasionally interjected his opinion.)", "word": "interject"}
+{"definition": "(n.) someone who participates in a dialogue or conversation (When the officials could not come to an agreement over the correct cover of the flags, the prime minister acted as an interlocutor.)", "word": "interlocutor"}
+{"definition": "(adj.) without possibility of end (The fact that biology lectures came just before lunch made them seem interminable.)", "word": "interminable"}
+{"definition": "(n.) an indirect suggestion (Mr. Brinford\u2019s intimation that he would soon pass away occurred when he began to discuss how to distribute his belongings among his children.)", "word": "intimation"}
+{"definition": "(adj.) difficult to manipulate, unmanageable (There was no end in sight to the intractable conflict between the warring countries.)", "word": "intractable"}
+{"definition": "(adj.) refusing to compromise, often on an extreme opinion (The intransigent child said he would have 12 scoops of ice cream, or he would bang his head against the wall until his mother fainted from fear.)", "word": "intransigent"}
+{"definition": "(adj.) brave in the face of danger (After scaling a live volcano prior to its eruption, the explorer was praised for his intrepid attitude.)", "word": "intrepid"}
+{"definition": "(v.) to flood with abundance (Because I am the star of a new sitcom, my fans are sure to inundate me with fan mail and praise.)", "word": "inundate"}
+{"definition": "(v.) to cause someone or something to become accustomed to a situation (Twenty years in the salt mines inured the man to the discomforts of dirt and grime.)", "word": "inure"}
+{"definition": "(n.) an angry verbal attack (My mother\u2019s irrational invective against the way I dress only made me decide to dye my hair green.)", "word": "invective"}
+{"definition": "(adj.) stubbornly established by habit (I\u2019m the first to admit that I\u2019m an inveterate coffee drinker\u2014I drink four cups a day.)", "word": "inveterate"}
+{"definition": "(adj.) secure from assault (Nobody was ever able to break into Batman\u2019s inviolable Batcave.)", "word": "inviolable"}
+{"definition": "(adj.) easily angered (At the smallest provocation, my irascible cat will begin scratching and clawing.)", "word": "irascible"}
+{"definition": "(adj.) showing rainbow colors (The bride\u2019s large diamond ring was iridescent in the afternoon sun.)", "word": "iridescent"}
+{"definition": "(n.) disrespect (The irreverence displayed by the band that marched through the chapel disturbed many churchgoers.)", "word": "irreverence"}
+{"definition": "(adj.) incapable of being taken back (The Bill of Rights is an irrevocable part of American law.)", "word": "irrevocable"}
+{"definition": "(adj.) extremely joyful, happy (The crowd was jubilant when the firefighter carried the woman from the flaming building.)", "word": "jubilant"}
+{"definition": "(adj.) having or exercising sound judgment (When the judicious king decided to compromise rather than send his army to its certain death, he was applauded.)", "word": "judicious"}
+{"definition": "(n.) the act of placing two things next to each other for implicit comparison (The interior designer admired my juxtaposition of the yellow couch and green table.)", "word": "juxtaposition"}
+{"definition": "(n.) the solemn sound of a bell, often indicating a death (Echoing throughout our village, the funeral knell made the stormy day even more grim.)", "word": "knell"}
+{"definition": "(n.) praise for an achievement (After the performance, the reviewers gave the opera singer kudos for a job well done.)", "word": "kudos"}
+{"definition": "(n.) a cut, tear (Because he fell off his bike into a rosebush, the paperboy\u2019s skin was covered with lacerations.)", "word": "laceration"}
+{"definition": "(adj.) terse in speech or writing (The author\u2019s laconic style has won him many followers who dislike wordiness.)", "word": "laconic"}
+{"definition": "(adj.) sluggish from fatigue or weakness (In the summer months, the great heat makes people languid and lazy.)", "word": "languid"}
+{"definition": "(n.) obtaining another\u2019s property by theft or trickery (When my car was not where I had left it, I realized that I was a victim of larceny.)", "word": "larceny"}
+{"definition": "(n.) the generous giving of lavish gifts (My boss demonstrated great largess by giving me a new car.)", "word": "largess"}
+{"definition": "(adj.) hidden, but capable of being exposed (Sigmund\u2019s dream represented his latent paranoid obsession with other people\u2019s shoes.)", "word": "latent"}
+{"definition": "(adj.) expressing admiration or praise (Such laudatory comments are unusual from someone who is usually so reserved in his opinions.)", "word": "laudatory"}
+{"definition": "1. (adj.) given without limits (Because they had worked very hard, the performers appreciated the critic\u2019s lavish praise.) 2. (v.) to give without limits (Because the performers had worked hard, they deserved the praise that the critic lavished on them.)", "word": "lavish"}
+{"definition": "(n.) deception, slight-of-hand (Smuggling the French plants through customs by claiming that they were fake was a remarkable bit of legerdemain.)", "word": "legerdemain"}
+{"definition": "(adj.) demonstrating tolerance or gentleness (Because Professor Oglethorpe allowed his students to choose their final grades, the other teachers believed that he was excessively lenient.)", "word": "lenient"}
+{"definition": "(adj.) in a state of sluggishness or apathy (When Jean Claude explained to his boss that he was lethargic and didn\u2019t feel like working that day, the boss fired him.)", "word": "lethargic"}
+{"definition": "1. (n.) something for which one is legally responsible, usually involving a disadvantage or risk (The bungee-jumping tower was a great liability for the owners of the carnival.) 2. (n.) a handicap, burden (Because she often lost her concentration and didn\u2019t play defense, Marcy was a liability to the team.)", "word": "liability"}
+{"definition": "(adj.) advocating principles of liberty and free will (The dissatisfied subjects overthrew the monarch and replaced him with a libertarian ruler who respected their democratic principles.)", "word": "libertarian"}
+{"definition": "(adj.) displaying a lack of moral or legal restraints (Marilee has always been fascinated by the licentious private lives of politicians.)", "word": "licentious"}
+{"definition": "(adj.) clear, transparent (Mr. Johnson\u2019s limpid writing style greatly pleased readers who disliked complicated novels.)", "word": "limpid"}
+{"definition": "(n.) something that holds separate parts together (The linchpin in the prosecution\u2019s case was the hair from the defendant\u2019s head, which was found at the scene of the crime.)", "word": "linchpin"}
+{"definition": "(adj.) graceful, flexible, supple (Although the dancers were all outstanding, Jae Sun\u2019s control of her lithe body was particularly impressive.)", "word": "lithe"}
+{"definition": "(n.) someone engaged in a lawsuit (When the litigants began screaming at each other, Judge Koch ordered them to be silent.)", "word": "litigant"}
+{"definition": "(adj.) clear, easily understandable (Because Guenevere\u2019s essay was so lucid, I only had to read it once to understand her reasoning.)", "word": "lucid"}
+{"definition": "(adj.) brightly shining (The light of the luminous moon graced the shoulders of the beautiful maiden.)", "word": "luminous"}
+{"definition": "(adj.) ghastly, sensational (Gideon\u2019s story, in which he described a character torturing his sister\u2019s dolls, was judged too lurid to be printed in the school\u2019s literary magazine.)", "word": "lurid"}
+{"definition": "(n.) a destructive whirlpool which rapidly sucks in objects (Little did the explorers know that as they turned the next bend of the calm river a vicious maelstrom would catch their boat.)", "word": "maelstrom"}
+{"definition": "(adj.) noble, generous (Although I had already broken most of her dishes, Jacqueline was magnanimous enough to continue letting me use them.)", "word": "magnanimous"}
+{"definition": "(n.) a curse (When I was arrested for speeding, I screamed maledictions against the policeman and the entire police department.)", "word": "malediction"}
+{"definition": "(adj.) wanting harm to befall others (The malevolent old man sat in the park all day, tripping unsuspecting passersby with his cane.)", "word": "malevolent"}
+{"definition": "(adj.) capable of being shaped or transformed (Maximillian\u2019s political opinions were so malleable that anyone he talked to was able to change his mind instantly.)", "word": "malleable"}
+{"definition": "(n.) an authoritative command (In the Old Testament, God mandates that no one should steal.)", "word": "mandate"}
+{"definition": "1. (adj.) easily understandable, obvious (When I wrote the wrong sum on the chalkboard, my mistake was so manifest that the entire class burst into laughter.) 2. (v.) to show plainly (His illness first manifested itself with particularly violent hiccups.)", "word": "manifest"}
+{"definition": "(adj.) diverse, varied (The popularity of Dante\u2019s Inferno is partly due to the fact that the work allows for manifold interpretations.)", "word": "manifold"}
+{"definition": "(adj.) weakly sentimental (Although many people enjoy romantic comedies, I usually find them maudlin and shallow.)", "word": "maudlin"}
+{"definition": "(n.) an independent, nonconformist person (Andreas is a real maverick and always does things his own way.)", "word": "maverick"}
+{"definition": "(adj.) characterized by sick sentimentality (Although some nineteenth- century critics viewed Dickens\u2019s writing as mawkish, contemporary readers have found great emotional depth in his works.)", "word": "mawkish"}
+{"definition": "(n.) a common saying expressing a principle of conduct (Miss Manners\u2019s etiquette maxims are both entertaining and instructional.)", "word": "maxim"}
+{"definition": "(adj.) deficient in size or quality (My meager portion of food did nothing to satisfy my appetite.)", "word": "meager"}
+{"definition": "(n.) a mixture of differing things (Susannah\u2019s wardrobe contained an astonishing medley of colors, from olive green to fluorescent pink.)", "word": "medley"}
+{"definition": "(adj.) having a lying, false character (The mendacious content of the tabloid magazines is at least entertaining.)", "word": "mendacious"}
+{"definition": "(adj.) characterized by rapid change or temperamentality (Though he was widely respected for his mathematical proofs, the mercurial genius was impossible to live with.)", "word": "mercurial"}
+{"definition": "(adj.) worthy of esteem or reward (Manfred was given the congressional medal of honor for his meritorious actions.)", "word": "meritorious"}
+{"definition": "(n.) the change of form, shape, substance (Winnifred went to the gym every day for a year and underwent a metamorphosis from a waiflike girl to an athletic woman.)", "word": "metamorphosis"}
+{"definition": "(adj.) extremely careful with details (The ornate needlework in the bride\u2019s gown was a product of meticulous handiwork.)", "word": "meticulous"}
+{"definition": "(v.) to make less violent, alleviate (When I had an awful sore throat, only warm tea would mitigate the pain.)", "word": "mitigate"}
+{"definition": "1. (adj.) not extreme (Luckily, the restaurant we chose had moderate prices; none of us have any money.) 2. (n.) one who expresses moderate opinions (Because he found both the liberal and conservative proposals too excessive, Mr. Park sided with the moderates.)", "word": "moderate"}
+{"definition": "(n.) a small amount of something (Refusing to display even a modicum of sensitivity, Henrietta announced her boss\u2019s affair in front of the entire office.)", "word": "modicum"}
+{"definition": "(v.) to pass from one state to another, especially in music (The composer wrote a piece that modulated between minor and major keys.)", "word": "modulate"}
+{"definition": "(v.) to soften in temper (The police officer mollified the angry woman by giving her a warning instead of a ticket.)", "word": "mollify"}
+{"definition": "(n.) a wet swampy bog; figuratively, something that traps and confuses (When Theresa lost her job, she could not get out of her financial morass.)", "word": "morass"}
+{"definition": "(n.) the moral attitudes and fixed customs of a group of people. (Mores change over time; many things that were tolerated in 1975 are no longer seen as being socially acceptable.)", "word": "mores"}
+{"definition": "(adj.) gloomy or sullen (Jason\u2019s morose nature made him very unpleasant to talk to.)", "word": "morose"}
+{"definition": "(adj.) having great diversity or variety (This Swiss Army knife has multifarious functions and capabilities. Among other things, it can act as a knife, a saw, a toothpick, and a slingshot.)", "word": "multifarious"}
+{"definition": "(adj.) concerned with the world rather than with heaven, commonplace (He is more concerned with the mundane issues of day-to-day life than with spiritual topics.)", "word": "mundane"}
+{"definition": "(n.) generosity in giving (The royal family\u2019s munificence made everyone else in their country rich.)", "word": "munificence"}
+{"definition": "(adj.) able to change (Because fashion is so mutable, what is trendy today will look outdated in five years.)", "word": "mutable"}
+{"definition": "(adj.) consisting of a very great number (It was difficult to decide what to do Friday night because the city presented us with myriad possibilities for fun.)", "word": "myriad"}
+{"definition": "(n.) the lowest point of something (My day was boring, but the nadir came when I accidentally spilled a bowl of spaghetti on my head.)", "word": "nadir"}
+{"definition": "(adj.) in the process of being born or coming into existence (Unfortunately, my brilliant paper was only in its nascent form on the morning that it was due.)", "word": "nascent"}
+{"definition": "(adj.) vaguely defined, cloudy (The transition between governments meant that who was actually in charge was a nebulous matter.)", "word": "nebulous"}
+{"definition": "(adj.) heinously villainous (Although Dr. Meanman\u2019s nefarious plot to melt the polar icecaps was terrifying, it was so impractical that nobody really worried about it.)", "word": "nefarious"}
+{"definition": "(adj.) habitually careless, neglectful (Jessie\u2019s grandfather called me a negligent fool after I left the door to his apartment unlocked even though there had been a recent string of robberies.)", "word": "negligent"}
+{"definition": "(n.) someone who is young or inexperienced (As a neophyte in the literary world, Malik had trouble finding a publisher for his first novel.)", "word": "neophyte"}
+{"definition": "(adj.) relating to or occurring during the night (Jackie was a nocturnal person; she would study until dawn and sleep until the evening.)", "word": "nocturnal"}
+{"definition": "(adj.) unpleasant, offensive, especially to the sense of smell (Nobody would enter the stalls until the horse\u2019s noisome leavings were taken away.)", "word": "noisome"}
+{"definition": "(adj.) wandering from place to place (In the first six months after college, Jose led a nomadic life, living in New York, California, and Idaho.)", "word": "nomadic"}
+{"definition": "(adj.) trifling, insignificant (Because he was moving the following week and needed to get rid of his furniture more than he needed money, Jordan sold everything for a nominal fee.)", "word": "nominal"}
+{"definition": "(adj.) having a lack of concern, indifference (Although deep down she was very angry, Marsha acted in a nonchalant manner when she found out that her best friend had used her clothing without asking.)", "word": "nonchalant"}
+{"definition": "(adj.) lacking a distinctive character (I was surprised when I saw the movie star in person because she looked nondescript.)", "word": "nondescript"}
+{"definition": "(adj.) widely and unfavorably known (Jacob was notorious for always arriving late at parties.)", "word": "notorious"}
+{"definition": "(n.) a beginner, someone without training or experience (Because we were all novices at yoga, our instructor decided to begin with the basics.)", "word": "novice"}
+{"definition": "(adj.) harmful, unwholesome (Environmentalists showed that the noxious weeds were destroying the insects\u2019 natural habitats.)", "word": "noxious"}
+{"definition": "(n.) a slight variation in meaning, tone, expression (The nuances of the poem were not obvious to the casual reader, but the professor was able to point them out.)", "word": "nuance"}
+{"definition": "(v.) to assist the development of (Although Serena had never watered the plant, which was about to die, Javier was able to nurture it back to life.)", "word": "nurture"}
+{"definition": "(adj.) unyielding to persuasion or moral influences (The obdurate old man refused to take pity on the kittens.)", "word": "obdurate"}
+{"definition": "(v.) to render incomprehensible (The detective did want to answer the newspaperman\u2019s questions, so he obfuscated the truth.)", "word": "obfuscate"}
+{"definition": "(adj.) diverging from a straight line or course, not straightforward (Martin\u2019s oblique language confused those who listened to him.)", "word": "oblique"}
+{"definition": "(adj.) lacking consciousness or awareness of something (Oblivious to the burning smell emanating from the kitchen, my father did not notice that the rolls in the oven were burned until much too late.)", "word": "oblivious"}
+{"definition": "(adj.) unclear, partially hidden (Because he was standing in the shadows, his features were obscure.)", "word": "obscure"}
+{"definition": "(adj.) excessively compliant or submissive (Mark acted like Janet\u2019s servant, obeying her every request in an obsequious manner.)", "word": "obsequious"}
+{"definition": "(adj.) no longer used, out of date (With the inventions of tape decks and CDs, which both have better sound and are easier to use, eight-track players are now entirely obsolete.)", "word": "obsolete"}
+{"definition": "(adj.) not yielding easily, stubborn (The obstinate child refused to leave the store until his mother bought him a candy bar.)", "word": "obstinate"}
+{"definition": "(adj.) noisy, unruly (Billy\u2019s obstreperous behavior prompted the librarian to ask him to leave the reading room.)", "word": "obstreperous"}
+{"definition": "(adj.) lacking quickness of sensibility or intellect (Political opponents warned that the prime minister\u2019s obtuse approach to foreign policy would embroil the nation in mindless war.)", "word": "obtuse"}
+{"definition": "(adj.) instilling hatred or intense displeasure (Mark was assigned the odious task of cleaning the cat\u2019s litter box.)", "word": "odious"}
+{"definition": "(adj.) offering one\u2019s services when they are neither wanted nor needed (Brenda resented Allan\u2019s officious behavior when he selected colors that might best improve her artwork.)", "word": "officious"}
+{"definition": "(adj.) foreboding or foreshadowing evil (The fortuneteller\u2019s ominous words flashed through my mind as the hooded figure approached me in the alley.)", "word": "ominous"}
+{"definition": "(adj.) burdensome (My parents lamented that the pleasures of living in a beautiful country estate no longer outweighed the onerous mortgage payments.)", "word": "onerous"}
+{"definition": "(adj.) characterized by rich abundance verging on ostentation (The opulent furnishings of the dictator\u2019s private compound contrasted harshly with the meager accommodations of her subjects.)", "word": "opulent"}
+{"definition": "(n.) a speech delivered in a formal or ceremonious manner (The prime minister was visibly shaken when the unruly parliament interrupted his oration about failed domestic policies.)", "word": "oration"}
+{"definition": "(adj.) highly elaborate, excessively decorated (The ornate styling of the new model of luxury car could not compensate for the poor quality of its motor.)", "word": "ornate"}
+{"definition": "(adj.) conventional, conforming to established protocol (The company\u2019s profits dwindled because the management pursued orthodox business policies that were incompatible with new industrial trends.)", "word": "orthodox"}
+{"definition": "(v.) to sway from one side to the other (My uncle oscillated between buying a station wagon to transport his family and buying a sports car to satisfy his boyhood fantasies.)", "word": "oscillate"}
+{"definition": "(adj.) appearing as such, seemingly (Jack\u2019s ostensible reason for driving was that airfare was too expensive, but in reality, he was afraid of flying.)", "word": "ostensible"}
+{"definition": "(adj.) excessively showy, glitzy (On the palace tour, the guide focused on the ostentatious decorations and spoke little of the royal family\u2019s history.)", "word": "ostentatious"}
+{"definition": "(n.) exclusion from a group (Beth risked ostracism if her roommates discovered her flatulence.)", "word": "ostracism"}
+{"definition": "(adj.) soothing (The chemistry professor\u2019s pacific demeanor helped the class remain calm after the experiment exploded.)", "word": "pacific"}
+{"definition": "(adj.) agreeable to the taste or sensibilities (Despite the unpleasant smell, the exotic cheese was quite palatable.)", "word": "palatable"}
+{"definition": "(adj.) a range of colors or qualities (The palette of colors utilized in the painting was equaled only by the range of intense emotions the piece evoked.)", "word": "palette"}
+{"definition": "(v.) to reduce the severity of (The doctor trusted that the new medication would palliate her patient\u2019s discomfort.)", "word": "palliate"}
+{"definition": "(adj.) lacking color (Dr. Van Helsing feared that Lucy\u2019s pallid complexion was due to an unexplained loss of blood.)", "word": "pallid"}
+{"definition": "(n.) a remedy for all ills or difficulties (Doctors wish there was a single panacea for every disease, but sadly there is not.)", "word": "panacea"}
+{"definition": "(n.) an example that is a perfect pattern or model (Because the new SUV was so popular, it became the paradigm upon which all others were modeled.)", "word": "paradigm"}
+{"definition": "(n.) an apparently contradictory statement that is perhaps true (The diplomat refused to acknowledge the paradox that negotiating a peace treaty would demand more resources than waging war.)", "word": "paradox"}
+{"definition": "(n.) a model of excellence or perfection (The mythical Helen of Troy was considered a paragon of female beauty.)", "word": "paragon"}
+{"definition": "(adj.) greatest in importance, rank, character (It was paramount that the bomb squad disconnect the blue wire before removing the fuse.)", "word": "paramount"}
+{"definition": "(n.) an outcast (Following the discovery of his plagiarism, Professor Hurley was made a pariah in all academic circles.)", "word": "pariah"}
+{"definition": "(n.) a satirical imitation (A hush fell over the classroom when the teacher returned to find Deborah acting out a parody of his teaching style.)", "word": "parody"}
+{"definition": "(n.) frugality, stinginess (Many relatives believed that my aunt\u2019s wealth resulted from her parsimony.)", "word": "parsimony"}
+{"definition": "(n.) a follower, adherent (The king did not believe that his rival could round up enough partisans to overthrow the monarchy.)", "word": "partisan"}
+{"definition": "(adj.) readily seen or understood, clear (The reason for Jim\u2019s abdominal pain was made patent after the doctor performed a sonogram.)", "word": "patent"}
+{"definition": "(n.) a deviation from the normal (Dr. Hastings had difficulty identifying the precise nature of Brian\u2019s pathology.)", "word": "pathology"}
+{"definition": "(n.) an emotion of sympathy (Martha filled with pathos upon discovering the scrawny, shivering kitten at her door.)", "word": "pathos"}
+{"definition": "(adj.) small in quantity (Gilbert lamented the paucity of twentieth century literature courses available at the college.)", "word": "paucity"}
+{"definition": "(adj.) derogatory, uncomplimentary (The evening\u2019s headline news covered an international scandal caused by a pejorative statement the famous senator had made in reference to a foreign leader.)", "word": "pejorative"}
+{"definition": "(adj.) easily intelligible, clear (Wishing his book to be pellucid to the common man, Albert Camus avoided using complicated grammar when composing The Stranger.)", "word": "pellucid"}
+{"definition": "(n.) a tendency, partiality, preference (Jill\u2019s dinner parties quickly became monotonous on account of her penchant for Mexican dishes.)", "word": "penchant"}
+{"definition": "(adj.) remorseful, regretful (The jury\u2019s verdict may have been more lenient if the criminal had appeared penitent for his gruesome crimes.)", "word": "penitent"}
+{"definition": "(adj.) next to last (Having smoked the penultimate cigarette remaining in the pack, Cybil discarded the last cigarette and resolved to quit smoking.)", "word": "penultimate"}
+{"definition": "(adj.) miserly, stingy (Stella complained that her husband\u2019s penurious ways made it impossible to live the lifestyle she felt she deserved.)", "word": "penurious"}
+{"definition": "(adj.) disloyal, unfaithful (After the official was caught selling government secrets to enemy agents, he was executed for his perfidious ways.)", "word": "perfidious"}
+{"definition": "(adj.) showing little interest or enthusiasm (The radio broadcaster announced the news of the massacre in a surprisingly perfunctory manner.)", "word": "perfunctory"}
+{"definition": "(v.) to spread throughout, saturate (Mrs. Huxtable was annoyed that the wet dog\u2019s odor had permeated the furniture\u2019s upholstery.)", "word": "permeate"}
+{"definition": "(adj.) extremely destructive or harmful (The new government feared that the Communist sympathizers would have a pernicious influence on the nation\u2019s stability.)", "word": "pernicious"}
+{"definition": "(v.) to confuse (Brad was perplexed by his girlfriend\u2019s suddenly distant manner.)", "word": "perplex"}
+{"definition": "(adj.) shrewdness, perceptiveness (The detective was too humble to acknowledge that his perspicacity was the reason for his professional success.)", "word": "perspicacity"}
+{"definition": "(adj.) flippant, bold (My parents forgave Sandra\u2019s pert humor at the dinner table because it had been so long since they had last seen her.)", "word": "pert"}
+{"definition": "(adj.) stubbornly persistent (Harry\u2019s parents were frustrated with his pertinacious insistence that a monster lived in his closet. Then they opened the closet door and were eaten.)", "word": "pertinacious"}
+{"definition": "(n.) a careful examination, review (The actor agreed to accept the role after a two-month perusal of the movie script.)", "word": "perusal"}
+{"definition": "(adj.) having the tendency to spread throughout (Stepping off the plane in Havana, I recognized the pervasive odor of sugar cane fields on fire.)", "word": "pervasive"}
+{"definition": "(n.) rudeness, irritability (The Nanny resigned after she could no longer tolerate the child\u2019s petulance.)", "word": "petulance"}
+{"definition": "(adj.) charitable, giving (Many people felt that the billionaire\u2019s decision to donate her fortune to house the homeless was the ultimate philanthropic act.)", "word": "philanthropic"}
+{"definition": "(adj.) uninterested, unresponsive (Monique feared her dog was ill after the animal\u2019s phlegmatic response to his favorite chew toy.)", "word": "phlegmatic"}
+{"definition": "(v.) to seize or plunder, especially in war (Invading enemy soldiers pillaged the homes scattered along the country\u2019s border.)", "word": "pillage"}
+{"definition": "(n.) the highest point (Book reviewers declared that the author\u2019s new novel was extraordinary and probably the pinnacle of Western literature.)", "word": "pinnacle"}
+{"definition": "(adj.) concisely meaningful (My father\u2019s long-winded explanation was a stark contrast to his usually pithy statements.)", "word": "pithy"}
+{"definition": "(n.) a very small amount, especially relating to money (Josh complained that he was paid a pittance for the great amount of work he did at the firm.)", "word": "pittance"}
+{"definition": "(v.) to ease the anger of, soothe (The man purchased a lollipop to placate his irritable son.)", "word": "placate"}
+{"definition": "(adj.) calm, peaceful (The placid lake surface was as smooth as glass.)", "word": "placid"}
+{"definition": "(n.) an uninspired remark, cliche\u0301 (After reading over her paper, Helene concluded that what she thought were profound insights were actually just platitudes.)", "word": "platitude"}
+{"definition": "(n.) enthusiastic approval, applause (The controversial new film received plaudits from even the harshest critics.)", "word": "plaudits"}
+{"definition": "(adj.) believable, reasonable (He studied all the data and then came up with a plausible theory that took all factors into account.)", "word": "plausible"}
+{"definition": "(n.) an abundance (My grandmother was overwhelmed by the plenitude of tomatoes her garden yielded this season.)", "word": "plenitude"}
+{"definition": "(n.) an abundance, excess (The wedding banquet included a plethora of oysters piled almost three feet high.)", "word": "plethora"}
+{"definition": "(adj.) flexible (Aircraft wings are designed to be somewhat pliable so they do not break in heavy turbulence.)", "word": "pliable"}
+{"definition": "(adj.) deeply affecting, moving (My teacher actually cried after reading to us the poignant final chapter of the novel.)", "word": "poignant"}
+{"definition": "(n.) an aggressive argument against a specific opinion (My brother launched into a polemic against my arguments that capitalism was an unjust economic system.)", "word": "polemic"}
+{"definition": "(n.) an omen (When a black cat crossed my sister\u2019s path while she was walking to school, she took it as a portent that she would do badly on her spelling test.)", "word": "portent"}
+{"definition": "(adj.) suitable for drinking (During sea voyages it is essential that ships carry a supply of potable water because salty ocean water makes anyone who drinks it sick.)", "word": "potable"}
+{"definition": "(n.) one who has great power, a ruler (All the villagers stood along the town\u2019s main road to observe as the potentate\u2019s procession headed towards the capital.)", "word": "potentate"}
+{"definition": "(adj.) practical (The politician argued that while increased security measures might not fit with the lofty ideals of the nation, they were a pragmatic necessity to ensure everyone\u2019s safety.)", "word": "pragmatic"}
+{"definition": "(n.) the face of a cliff, a steep or overhanging place (The mountain climber hung from a precipice before finding a handhold and pulling himself up.)", "word": "precipice"}
+{"definition": "(v.) to prevent (My grandfather\u2019s large and vicious guard dog precluded anyone from entering the yard.)", "word": "preclude"}
+{"definition": "(adj.) advanced, developing ahead of time (Derek was so academically precocious that by the time he was 10 years old, he was already in the ninth grade.)", "word": "precocious"}
+{"definition": "(n.) a preference or inclination for something (Francois has a predilection for eating scrambled eggs with ketchup, though I prefer to eat eggs without any condiments.)", "word": "predilection"}
+{"definition": "(adj.) superiority in importance or quantity (Britain\u2019s preponderance of naval might secured the nation\u2019s role as a military power.)", "word": "preponderance"}
+{"definition": "(adj.) occupying the mind to the exclusion of other thoughts or feelings (His prepossessing appearance made it impossible for me to think of anything else.)", "word": "prepossessing"}
+{"definition": "(n.) an omen (When my uncle\u2019s old war injury ached, he interpreted it as a presage of bad weather approaching.)", "word": "presage"}
+{"definition": "(adj.) to have foreknowledge of events (Questioning the fortune cookie\u2019s prediction, Ray went in search of the old hermit who was rumored to be prescient.)", "word": "prescient"}
+{"definition": "(v.) to lay down a rule (The duke prescribed that from this point further all of the peasants living on his lands would have to pay higher taxes.)", "word": "prescribe"}
+{"definition": "(adj.) disrespectfully bold (The princess grew angry after the presumptuous noble tried to kiss her, even though he was far below her in social status.)", "word": "presumptuous"}
+{"definition": "(n.)an appearance or action intended to deceive (Though he actually wanted to use his parents\u2019 car to go on a date, Nick borrowed his parents\u2019 car under the pretense of attending a group study session.)", "word": "pretense"}
+{"definition": "(adj.) original, ancient (The first primates to walk on two legs, called Australopithecus, were the primeval descendants of modern man.)", "word": "primeval"}
+{"definition": "(n.) lacking basic necessities (After decades of rule by an oppressive government that saw nothing wrong with stealing from its citizens, the recent drought only increased the people\u2019s privation.)", "word": "privation"}
+{"definition": "(n.) virtue, integrity (Because he was never viewed as a man of great probity, no one was surprised by Mr. Samson\u2019s immoral behavior.)", "word": "probity"}
+{"definition": "(n.) a strong inclination toward something (In a sick twist of fate, Harold\u2019s childhood proclivity for torturing small animals grew into a desire to become a surgeon.)", "word": "proclivity"}
+{"definition": "(v.) to obtain, acquire (The FBI was unable to procure sufficient evidence to charge the gangster with racketeering.)", "word": "procure"}
+{"definition": "(adj.) lewd, indecent (Jacob\u2019s profane act of dumping frogs in the holy water in the chapel at his boarding school resulted in his dismissal.)", "word": "profane"}
+{"definition": "(adj.) dissolute, extravagant (The profligate gambler loved to drink, spend money, steal, cheat, and hang out with prostitutes.)", "word": "profligate"}
+{"definition": "(adj.) plentiful, abundant (The fans were profuse in their cheers for the star basketball player.)", "word": "profuse"}
+{"definition": "(v.) to proclaim, make known (The film professor promulgated that both in terms of sex appeal and political intrigue, Sean Connery\u2019s James Bond was superior to Roger Moore\u2019s.)", "word": "promulgate"}
+{"definition": "(v.) to multiply, spread out (Rumors of Paul McCartney\u2019s demise propagated like wildfire throughout the world.)", "word": "propagate"}
+{"definition": "(n.) an inclination, preference (Dermit has a propensity for dangerous activities such as bungee jumping.)", "word": "propensity"}
+{"definition": "(adj.) favorable (The dark storm clouds visible on the horizon suggested that the weather would not be propitious for sailing.)", "word": "propitious"}
+{"definition": "(n.) the quality or state of being proper, decent (Erma\u2019s old-fashioned parents believed that her mini-skirt lacked the propriety expected of a \u201cnice\u201d girl.)", "word": "propriety"}
+{"definition": "(adj.) plain, lacking liveliness (Heather\u2019s prosaic recital of the poem bored the audience.)", "word": "prosaic"}
+{"definition": "(v.) to condemn, outlaw (The town council voted to proscribe the sale of alcohol on weekends.)", "word": "proscribe"}
+{"definition": "(adj.)able to change shape; displaying great variety (Among Nigel\u2019s protean talents was his ability to touch the tip of his nose with his tongue.)", "word": "protean"}
+{"definition": "(n.) extraordinary ability (The musician had never taken a guitar lesson in his life, making his prowess with the instrument even more incredible.)", "word": "prowess"}
+{"definition": "(n.) cautious, circumspect (After losing a fortune in a stock market crash, my father vowed to practice greater prudence in future investments.)", "word": "prudence"}
+{"definition": "(adj.) eliciting or possessing an extraordinary interest in sex (David\u2019s mother was shocked by the discovery of prurient reading material hidden beneath her son\u2019s mattress.)", "word": "prurient"}
+{"definition": "(adj.) juvenile, immature (The judge demanded order after the lawyer\u2019s puerile attempt to object by stomping his feet on the courtroom floor.)", "word": "puerile"}
+{"definition": "(adj.) quarrelsome, combative (Aaron\u2019s pugnacious nature led him to start several barroom brawls each month.)", "word": "pugnacious"}
+{"definition": "(n.) physical beauty (Several of Shakespeare\u2019s sonnets explore the pulchritude of a lovely young man.)", "word": "pulchritude"}
+{"definition": "(adj.) eager to follow rules or conventions (Punctilious Bobby, hall monitor extraordinaire, insisted that his peers follow the rules.)", "word": "punctilious"}
+{"definition": "(adj.) having a pointed, sharp quality\u2014often used to describe smells (The pungent odor in the classroom made Joseph lose his concentration during the test.)", "word": "pungent"}
+{"definition": "(adj.) involving punishment (If caught smoking in the boys\u2019 room, the punitive result is immediate expulsion from school.)", "word": "punitive"}
+{"definition": "(adj.) rotten, foul (Those rotten eggs smell putrid.) Q", "word": "putrid"}
+{"definition": "(n.) a difficult situation (We\u2019d all like to avoid the kind of military quagmire characterized by the Vietnam War.)", "word": "quagmire"}
+{"definition": "(adj.) charmingly old-fashioned (Hilda was delighted by the quaint bonnets she saw in Amish country.)", "word": "quaint"}
+{"definition": "(n.) a perplexed, unresolvable state (Carlos found himself in a quandary: should he choose mint chocolate chip or cookie dough?)", "word": "quandary"}
+{"definition": "(v.) to control or diffuse a potentially explosive situation (The skilled leader deftly quelled the rebellion.)", "word": "quell"}
+{"definition": "(adj.) whiny, complaining (If deprived of his pacifier, young Brendan becomes querulous.)", "word": "querulous"}
+{"definition": "(adj.) idealistic, impractical (Edward entertained a quixotic desire to fall in love at first sight in a laundromat.)", "word": "quixotic"}
+{"definition": "(adj.) daily (Ambika\u2019s quotidian routines include drinking two cups of coffee in the morning.)", "word": "quotidian"}
+{"definition": "(v.) to scold, protest (The professor railed against the injustice of the college\u2019s tenure policy.)", "word": "rail"}
+{"definition": "(adj.) having a terrible taste or smell (Rob was double-dog-dared to eat the rancid egg salad sandwich.)", "word": "rancid"}
+{"definition": "(n.) deep, bitter resentment (When Eileen challenged me to a fight, I could see the rancor in her eyes.)", "word": "rancor"}
+{"definition": "(n.) mutual understanding and harmony (When Margaret met her paramour, they felt an instant rapport.)", "word": "rapport"}
+{"definition": "(adj.) hasty, incautious (It\u2019s best to think things over calmly and thoroughly, rather than make rash decisions.)", "word": "rash"}
+{"definition": "(adj.) loud, boisterous (Sarah\u2019s neighbors called the cops when her house party got too raucous.)", "word": "raucous"}
+{"definition": "(v.) to demolish, level (The old tenement house was razed to make room for the large chain store.)", "word": "raze"}
+{"definition": "(v.) to scold, criticize (When the cops showed up at Sarah\u2019s party, they rebuked her for disturbing the peace.)", "word": "rebuke"}
+{"definition": "(adj.) defiant, unapologetic (Even when scolded, the recalcitrant young girl simply stomped her foot and refused to finish her lima beans.)", "word": "recalcitrant"}
+{"definition": "(v.) to sum up, repeat (Before the final exam, the teacher recapitulated the semester\u2019s material.)", "word": "recapitulate"}
+{"definition": "(v.) to give in return (When Steve gave Samantha a sweater for Christmas, she reciprocated by giving him a kiss.)", "word": "reciprocate"}
+{"definition": "(adj.) solitary, shunning society (Reclusive authors such as J.D. Salinger do not relish media attention and sometimes even enjoy holing up in remote cabins in the woods.)", "word": "reclusive"}
+{"definition": "1. (v.) to return to harmony (The feuding neighbors finally reconciled when one brought the other a delicious tuna noodle casserole.) 2. (v.) to make consistent with existing ideas (Alou had to reconcile his skepticism about the existence of aliens with the fact that he was looking at a flying saucer.)", "word": "reconcile"}
+{"definition": "(n.) uprightness, extreme morality (The priest\u2019s rectitude gave him the moral authority to counsel his parishioners.)", "word": "rectitude"}
+{"definition": "1. (adj.) formidable (The fortress looked redoubtable set against a stormy sky.) 2. (adj.) commanding respect (The audience greeted the redoubtable speaker with a standing ovation.)", "word": "redoubtable"}
+{"definition": "(v.) to distort, change (The light was refracted as it passed through the prism.) refurbish (v.) to restore, clean up (The dingy old chair, after being refurbished, commanded the handsome price of $200.)", "word": "refract"}
+{"definition": "(v.) to prove wrong (Maria refuted the president\u2019s argument as she yelled and gesticulated at the TV.)", "word": "refute"}
+{"definition": "1. (v.) to vomit (Feeling sick, Chuck regurgitated his dinner.) 2. (v.) to throw back exactly (Margaret rushed through the test, regurgitating all of the facts she\u2019d memorized an hour earlier.)", "word": "regurgitate"}
+{"definition": "1. (v.) to assign to the proper place (At the astrology conference, Simon was relegated to the Scorpio room.) 2. (v.) to assign to an inferior place (After spilling a drink on a customer\u2019s shirt, the waiter found himself relegated to the least lucrative shift.)", "word": "relegate"}
+{"definition": "(v.) to enjoy (Pete always relished his bedtime snack.)", "word": "relish"}
+{"definition": "(adj.) intended to repair gaps in students\u2019 basic knowledge (After his teacher discovered he couldn\u2019t read, Alex was forced to enroll in remedial English.)", "word": "remedial"}
+{"definition": "(adj.) negligent, failing to take care (The burglar gained entrance because the security guard, remiss in his duties, forgot to lock the door.)", "word": "remiss"}
+{"definition": "1. (v.) restore, return to original state (The renovated antique candelabra looked as good as new.) 2. (v.) to enlarge and make prettier, especially a house (After getting renovated, the house was twice as big and much more attractive.)", "word": "renovate"}
+{"definition": "(n.) honor, acclaim (The young writer earned international renown by winning the Pulitzer Prize.)", "word": "renown"}
+{"definition": "(n.) to reject (Fiona\u2019s renunciation of red meat resulted in weight loss, but confused those people who thought she\u2019d been a vegetarian for years.)", "word": "renunciation"}
+{"definition": "(adj.) penitent, sorry (The repentant Dennis apologized profusely for breaking his mother\u2019s vase.)", "word": "repentant"}
+{"definition": "(adj.) full, abundant (The unedited version was replete with naughty words.) repose (v.) to rest, lie down (The cat, after eating an entire can of tuna fish, reposed in the sun and took a long nap.)", "word": "replete"}
+{"definition": "(adj.) deserving rebuke (Jean\u2019s cruel and reprehensible attempt to dump her boyfriend on his birthday led to tears and recriminations.)", "word": "reprehensible"}
+{"definition": "(n.) a temporary delay of punishment (Because the governor woke up in a particularly good mood, he granted hundreds of reprieves to prisoners.)", "word": "reprieve"}
+{"definition": "(v.) to scold, disapprove (Brian reproached the customer for failing to rewind the video he had rented.)", "word": "reproach"}
+{"definition": "(adj.) evil, unprincipled (The reprobate criminal sat sneering in the cell.) reprove (v.) to scold, rebuke (Lara reproved her son for sticking each and every one of his fingers into the strawberry pie.)", "word": "reprobate"}
+{"definition": "(v.) to reject, refuse to accept (Kwame made a strong case for an extension of his curfew, but his mother repudiated it with a few biting words.)", "word": "repudiate"}
+{"definition": "1. (v.) to disgust (Antisocial Annie tried to repulse people by neglecting to brush her teeth.) 2. (v.) to push back (With a deft movement of her wrist and a punch to the stomach, Lacy repulsed Jack\u2019s attempt to kiss her.)", "word": "repulse"}
+{"definition": "(adj.) of good reputation (After the most reputable critic in the industry gave the novel a glowing review, sales took off.)", "word": "reputable"}
+{"definition": "(n.) a demand for goods, usually made by an authority (During the war, the government made a requisition of supplies.)", "word": "requisition"}
+{"definition": "(v.) to take back, repeal (The company rescinded its offer of employment after discovering that Jane\u2019s resume was full of lies.)", "word": "rescind"}
+{"definition": "1. (n.) reserves, large supply (Igor the Indomitable had quite a reservoir of strengh and could lift ten tons, even after running 700 miles, jumping over three mountains, and swimming across an ocean.) 2. (n.) a body of water used for storing water (After graduation, the more rebellious members of the senior class jumped into the town reservoir used for drinking water.)", "word": "reservoir"}
+{"definition": "(adj.) able to recover from misfortune; able to withstand adversity (The resilient ballplayer quickly recovered from his wrist injury.)", "word": "resilient"}
+{"definition": "(adj.) firm, determined (With a resolute glint in her eye, Catherine announced that she was set on going to college in New York City even though she was a little frightened of tall buildings.)", "word": "resolute"}
+{"definition": "1. (v.) to find a solution (Sarah and Emma resolved their differences and shook hands.) 2. (v.) to firmly decide (Lady Macbeth resolved to whip her husband into shape.)", "word": "resolve"}
+{"definition": "(n.) a break, rest (Justin left the pub to gain a brief respite from the smoke and noise.)", "word": "respite"}
+{"definition": "(adj.) shiny, glowing (The partygoers were resplendent in diamonds and fancy dress.)", "word": "resplendent"}
+{"definition": "(n.) restoration to the rightful owner (Many people feel that descendants of slaves should receive restitution for the sufferings of their ancestors.)", "word": "restitution"}
+{"definition": "(adj.) resistant, stubborn, impatient (The restive audience pelted the band with mud and yelled nasty comments.)", "word": "restive"}
+{"definition": "(v.) withdraw (As the media worked itself into a frenzy, the publicist hurriedly retracted his client\u2019s sexist statement.)", "word": "retract"}
+{"definition": "(v.) to enjoy intensely (Theodore reveled in his new status as Big Man on Campus.)", "word": "revel"}
+{"definition": "(v.) to esteem, show deference, venerate (The doctor saved countless lives with his combination of expertise and kindness and became universally revered.)", "word": "revere"}
+{"definition": "(v.) to take back (After missing the curfew set by the court for eight nights in a row, Marcel\u2019s freedom of movement was revoked.)", "word": "revoke"}
+{"definition": "(v.) to engage in excessive enthusiasm (The critic rhapsodized about the movie, calling it an instant classic.)", "word": "rhapsodize"}
+{"definition": "(adj.) coarsely, crudely humorous (While some giggled at the ribald joke involving a parson\u2019s daughter, most sighed and rolled their eyes.)", "word": "ribald"}
+{"definition": "(adj.) abundant (Surprisingly, the famous novelist\u2019s writing was rife with spelling errors.)", "word": "rife"}
+{"definition": "(v.) to contemplate, reflect (Terry liked to ruminate while sitting on the banks of the river, staring pensively into the water.)", "word": "ruminate"}
+{"definition": "(n.) a trick (Oliver concocted an elaborate ruse for sneaking out of the house to meet his girlfriend while simultaneously giving his mother the impression that he was asleep in bed.)", "word": "ruse"}
+{"definition": "(adj.) sickeningly sweet (Tom\u2019s saccharine manner, although intended to make him popular, actually repelled his classmates.)", "word": "saccharine"}
+{"definition": "(adj.) holy, something that should not be criticized (In the United States, the Constitution is often thought of as a sacrosanct document.)", "word": "sacrosanct"}
+{"definition": "(n.) shrewdness, soundness of perspective (With remarkable sagacity, the wise old man predicted and thwarted his children\u2019s plan to ship him off to a nursing home.)", "word": "sagacity"}
+{"definition": "(adj.) significant, conspicuous (One of the salient differences between Alison and Nancy is that Alison is a foot taller.)", "word": "salient"}
+{"definition": "(n.) a greeting (Andrew regularly began letters with the bizarre salutation \u201cAhoy ahoy.\u201d)", "word": "salutation"}
+{"definition": "(n.) a soothing balm (After Tony applied a salve to his brilliant red sunburn, he soon felt a little better.)", "word": "salve"}
+{"definition": "(adj.) giving a hypocritical appearance of piety (The sanctimonious Bertrand delivered stern lectures on the Ten Commandments to anyone who would listen, but thought nothing of stealing cars to make some cash on the side.)", "word": "sanctimonious"}
+{"definition": "(adj.) optimistic, cheery (Polly reacted to any bad news with a sanguine smile and the chirpy cry, \u201cWhen life hands you lemons, make lemonade!\u201d)", "word": "sanguine"}
+{"definition": "(v.) to satisfy excessively (Satiated after eating far too much turkey and stuffing, Liza lay on the couch watching football and suffering from stomach pains.)", "word": "satiate"}
+{"definition": "(adj.) sharp, critical, hurtful (Two hours after breaking up with Russell, Suzanne thought of the perfect scathing retort to his accusations.)", "word": "scathing"}
+{"definition": "(adj.) sparkling (The ice skater\u2019s scintillating rhinestone costume nearly blinded the judges.)", "word": "scintillating"}
+{"definition": "(adj.) painstaking, careful (With scrupulous care, Sam cut a snowflake out of white paper.)", "word": "scrupulous"}
+{"definition": "(adj.) vulgar, coarse (When Bruno heard the scurrilous accusation being made about him, he could not believe it because he always tried to be nice to everyone.)", "word": "scurrilous"}
+{"definition": "(adj.) sitting, settled (The sedentary cat did little but loll in the sun.) semaphore (n.) a visual signal (Anne and Diana communicated with a semaphore involving candles and window shades.)", "word": "sedentary"}
+{"definition": "(adj.) original, important, creating a field (Stephen Greenblatt\u2019s essays on Shakespeare proved to be seminal, because they initiated the critical school of New Historicism.)", "word": "seminal"}
+{"definition": "(adj.) involving sensory gratification, usually related to sex (With a coy smile, the guest on the blind-date show announced that he considered himself a very sensual person.)", "word": "sensual"}
+{"definition": "(adj.) involving sensory gratification (Paul found drinking Coke, with all the little bubbles bursting on his tongue, a very sensuous experience.)", "word": "sensuous"}
+{"definition": "(n.) luck, finding good things without looking for them (In an amazing bit of serendipity, penniless Paula found a $20 bill in the subway station.)", "word": "serendipity"}
+{"definition": "(adj.) calm, untroubled (Louise stood in front of the Mona Lisa, puzzling over the famous woman\u2019s serene smile.)", "word": "serene"}
+{"definition": "(adj.) subservient (The servile porter crept around the hotel lobby, bowing and quaking before the guests.)", "word": "servile"}
+{"definition": "(adj.) lithe, serpentine (With the sinuous movements of her arms, the dancer mimicked the motion of a snake.)", "word": "sinuous"}
+{"definition": "(n.) sedate, calm (Jason believed that maintaining his sobriety in times of crisis was the key to success in life.)", "word": "sobriety"}
+{"definition": "(adj.) concerned, attentive (Jim, laid up in bed with a nasty virus, enjoyed the solicitous attentions of his mother, who brought him soup and extra blankets.)", "word": "solicitous"}
+{"definition": "(adj.) believing that oneself is all that exists (Colette\u2019s solipsistic attitude completely ignored the plight of the homeless people on the street.)", "word": "solipsistic"}
+{"definition": "(adj.) able to dissolve (The plot of the spy film revolved around an untraceable and water-soluble poison.)", "word": "soluble"}
+{"definition": "1. (n.) a substance that can dissolve other substances (Water is sometimes called the universal solvent because almost all other substances can dissolve into it.) 2. (adj.) able to pay debts (Upon receiving an unexpected check from her aunt, Annabelle found herself suddenly solvent.)", "word": "solvent"}
+{"definition": "(adj.) sleepy, drowsy (The somnolent student kept falling asleep and waking up with a jerk.)", "word": "somnolent"}
+{"definition": "(adj.) immature, uninformed (The mature senior rolled her eyes at the sophomoric gross-out humor of the underclassman.)", "word": "sophomoric"}
+{"definition": "(adj.) having absolute authority in a certain realm (The sovereign queen, with steely resolve, ordered that the traitorous nobleman be killed.)", "word": "sovereign"}
+{"definition": "(adj.) not based in fact (Sadly, Tessa was convicted on merely speculative evidence.)", "word": "speculative"}
+{"definition": "(adj.) false but designed to seem plausible (Using a spurious argument, John convinced the others that he had won the board game on a technicality.)", "word": "spurious"}
+{"definition": "(v.) to become or remain inactive, not develop, not flow (With no room for advancement, the waiter\u2019s career stagnated.)", "word": "stagnate"}
+{"definition": "(adj.) sedate, serious, self-restrained (The staid butler never changed his expression no matter what happened.)", "word": "staid"}
+{"definition": "(adj.) not generous, not inclined to spend or give (Scrooge\u2019s stingy habits did not fit with the generous, giving spirit of Christmas.)", "word": "stingy"}
+{"definition": "(adj.) unaffected by passion or feeling (Penelope\u2019s faithfulness to Odysseus required that she be stoic and put off her many suitors.)", "word": "stoic"}
+{"definition": "(adj.) expressing little sensibility, unemotional (Charles\u2019s stolid reaction to his wife\u2019s funeral differed from the passion he showed at the time of her death.)", "word": "stolid"}
+{"definition": "(adj.) requiring tremendous energy or stamina (Running a marathon is quite a strenuous task. So is watching an entire Star Trek marathon.)", "word": "strenuous"}
+{"definition": "(adj.) harsh, loud (A strident man, Captain Von Trapp yelled at his daughter and made her cry.)", "word": "strident"}
+{"definition": "(v.) to astonish, make insensible (Veronica\u2019s audacity and ungratefulness stupefied her best friend, Heather.)", "word": "stupefy"}
+{"definition": "(v.) to bring under control, subdue (The invading force captured and subjugated the natives of that place.)", "word": "subjugate"}
+{"definition": "(adj.) lofty, grand, exalted (The homeless man sadly pondered his former wealth and once sublime existence.)", "word": "sublime"}
+{"definition": "(adj.) easily yielding to authority (In some cultures, wives are supposed to be submissive and support their husbands in all matters.)", "word": "submissive"}
+{"definition": "(adj.) marked by compact precision (The governor\u2019s succinct speech energized the crowd while the mayor\u2019s rambled on and on.)", "word": "succinct"}
+{"definition": "(adj.) exceeding what is necessary (Tracy had already won the campaign so her constant flattery of others was superfluous.)", "word": "superfluous"}
+{"definition": "(n.) an overabundant supply or indulgence (After partaking of the surfeit of tacos and tamales at the All-You-Can-Eat Taco Tamale Lunch Special, Beth felt rather sick.)", "word": "surfeit"}
+{"definition": "(v.) to infer with little evidence (After speaking to only one of the students, the teacher was able to surmise what had caused the fight.)", "word": "surmise"}
+{"definition": "(adj.) stealthy (The surreptitious CIA agents were able to get in and out of the house without anyone noticing.)", "word": "surreptitious"}
+{"definition": "(n.) one acting in place of another (The surrogate carried the child to term for its biological parents.)", "word": "surrogate"}
+{"definition": "(adj.) of dark color or complexion (When he got drunk, Robinson\u2019s white skin became rather swarthy.)", "word": "swarthy"}
+{"definition": "(n.) one who flatters for self-gain (Some see the people in the cabinet as the president\u2019s closest advisors, but others see them as sycophants.)", "word": "sycophant"}
+{"definition": "(adj.) expressed without words (I interpreted my parents\u2019 refusal to talk as a tacit acceptance of my request.)", "word": "tacit"}
+{"definition": "(adj.) not inclined to talk (Though Jane never seems to stop talking, her brother is quite taciturn.)", "word": "taciturn"}
+{"definition": "(adj.) incidental, peripheral, divergent (I tried to discuss my salary, but the boss kept veering off into tangential topics.)", "word": "tangential"}
+{"definition": "(adj.) equivalent in value or significance (When it comes to sports, fearing your opponent is tantamount to losing.)", "word": "tantamount"}
+{"definition": "(adj.) dull, boring (As time passed and the history professor continued to drone on and on, the lecture became increasingly tedious.)", "word": "tedious"}
+{"definition": "(n.) audacity, recklessness (Tom and Huck entered the scary cave armed with nothing but their own temerity.)", "word": "temerity"}
+{"definition": "(n.) moderation in action or thought (Maintaining temperance will ensure that you are able to think rationally and objectively.)", "word": "temperance"}
+{"definition": "(adj.) able to be defended or maintained (The department heads tore down the arguments in other people\u2019s theses, but Johari\u2019s work proved to be quite tenable.)", "word": "tenable"}
+{"definition": "(adj.) having little substance or strength (Your argument is very tenuous, since it relies so much on speculation and hearsay.)", "word": "tenuous"}
+{"definition": "(adj.) relating to the land (Elephants are terrestrial animals.)", "word": "terrestrial"}
+{"definition": "(adj.) timid, fearful (When dealing with the unknown, timorous Tallulah almost always broke into tears.)", "word": "timorous"}
+{"definition": "(n.) a long speech marked by harsh or biting language (Every time Jessica was late, her boyfriend went into a long tirade about punctuality.)", "word": "tirade"}
+{"definition": "(n.) one who flatters in the hope of gaining favors (The other kids referred to the teacher\u2019s pet as the Tenth Grade Toady.)", "word": "toady"}
+{"definition": "(n.) a large book (In college, I used to carry around an anatomy book that was the heaviest tome in my bag.)", "word": "tome"}
+{"definition": "(adj.) lethargic, dormant, lacking motion (The torpid whale floated, wallowing in the water for hours.)", "word": "torpid"}
+{"definition": "(adj.) giving off intense heat, passionate (I didn\u2019t want to witness the neighbor\u2019s torrid affair through the window.)", "word": "torrid"}
+{"definition": "(adj.) winding (The scary thing about driving in mountains are the narrow, tortuous roads.)", "word": "tortuous"}
+{"definition": "(adj.) easily controlled (The horse was so tractable, Myra didn\u2019t even need a bridle.)", "word": "tractable"}
+{"definition": "(adj.) calm (There is a time of night when nothing moves and everything is tranquil.)", "word": "tranquil"}
+{"definition": "(v.) to violate, go over a limit (The criminal\u2019s actions transgressed morality and human decency.)", "word": "transgress"}
+{"definition": "(adj.) passing through briefly; passing into and out of existence (Because virtually everyone in Palm Beach is a tourist, the population of the town is quite transient.)", "word": "transient"}
+{"definition": "(v.) to change or alter in form (Ancient alchemists believed that it was possible to transmute lead into gold.)", "word": "transmute"}
+{"definition": "(n.) a grossly inferior imitation (According to the school newspaper\u2019s merciless theater critic, Pacific Coast High\u2019s rendition of the musical Oklahoma was a travesty of the original.)", "word": "travesty"}
+{"definition": "(adj.) fearful (I always feel a trifle tremulous when walking through a graveyard.)", "word": "tremulous"}
+{"definition": "(adj.) effective, articulate, clear-cut (The directions that accompanied my new cell phone were trenchant and easy to follow.)", "word": "trenchant"}
+{"definition": "(n.) fear, apprehension (Feeling great trepidation, Anya refused to jump into the pool because she thought she saw a shark in it.)", "word": "trepidation"}
+{"definition": "(adj.) not original, overused (Keith thought of himself as being very learned, but everyone else thought he was trite because his observations about the world were always the same as David Letterman\u2019s.)", "word": "trite"}
+{"definition": "(adj.) ready to fight, cruel (This club doesn\u2019t really attract the dangerous types, so why was that bouncer being so truculent?)", "word": "truculent"}
+{"definition": "(v.) to shorten by cutting off (After winning the derby, the jockey truncated the long speech he had planned and thanked only his mom and his horse.)", "word": "truncate"}
+{"definition": "(adj.) swollen, excessively embellished in style or language (The haughty writer did not realize how we all really felt about his turgid prose.)", "word": "turgid"}
+{"definition": "(n.) depravity, moral corruption (Sir Marcus\u2019s chivalry often contrasted with the turpitude he exhibited with the ladies at the tavern.)", "word": "turpitude"}
+{"definition": "(adj.) existing everywhere, widespread (It seems that everyone in the United States has a television. The technology is ubiquitous here.)", "word": "ubiquitous"}
+{"definition": "(n.) resentment, offense (He called me a lily-livered coward, and I took umbrage at the insult.)", "word": "umbrage"}
+{"definition": "(adj.) of supernatural character or origin (Luka had an uncanny ability to know exactly what other people were thinking. She also had an uncanny ability to shoot fireballs from her hands.)", "word": "uncanny"}
+{"definition": "(adj.) smooth or greasy in texture, appearance, manner (The unctuous receptionist seemed untrustworthy, as if she was only being helpful because she thought we might give her a big tip.)", "word": "unctuous"}
+{"definition": "(v.) to move in waves (As the storm began to brew, the placid ocean began to undulate to an increasing degree.)", "word": "undulate"}
+{"definition": "(v.) to criticize or scold severely (The last thing Lindsay wanted was for Lisa to upbraid her again about missing the rent payment.)", "word": "upbraid"}
+{"definition": "(v.) to seize by force, take possession of without right (The rogue army general tried to usurp control of the government, but he failed because most of the army backed the legally elected president.)", "word": "usurp"}
+{"definition": "(adj.) relating to or aiming at usefulness (The beautiful, fragile vase couldn\u2019t hold flowers or serve any other utilitarian purpose.)", "word": "utilitarian"}
+{"definition": "(n.) an imaginary and remote place of perfection (Everyone in the world wants to live in a utopia, but no one can agree how to go about building one.)", "word": "utopia"}
+{"definition": "(v.) to fluctuate, hesitate (I prefer a definite answer, but my boss kept vacillating between the distinct options available to us.)", "word": "vacillate"}
+{"definition": "(adj.) lack of content or ideas, stupid (Beyonce realized that the lyrics she had just penned were completely vacuous and tried to add more substance.)", "word": "vacuous"}
+{"definition": "(v.) to confirm, support, corroborate (Yoko\u2019s chemistry lab partner was asleep during the experiment and could not validate the accuracy of her methods.)", "word": "validate"}
+{"definition": "(adj.) lacking liveliness, dull (The professor\u2019s comments about the poem were surprisingly vapid and dull.)", "word": "vapid"}
+{"definition": "(adj.) diversified, distinctly marked (Each wire in the engineering exam was variegated by color so that the students could figure out which one was which.)", "word": "variegated"}
+{"definition": "(adv.) marked by intense force or emotion (The candidate vehemently opposed cutting back on Social Security funding.)", "word": "vehemently"}
+{"definition": "(n.) a superficial or deceptively attractive appearance, fac\u0327ade (Thanks to her Chanel makeup, Shannen was able to maintain a veneer of perfection that hid the flaws underneath.)", "word": "veneer"}
+{"definition": "(adj.) deserving of respect because of age or achievement (The venerable Supreme Court justice had made several key rulings in landmark cases throughout the years.)", "word": "venerable"}
+{"definition": "(v.) to regard with respect or to honor (The tribute to John Lennon sought to venerate his music, his words, and his legend.)", "word": "venerate"}
+{"definition": "(n.) truthfulness, accuracy (With several agencies regulating the reports, it was difficult for Latifah to argue against its veracity.)", "word": "veracity"}
+{"definition": "(adj.) wordy, impaired by wordiness (It took the verbose teacher two hours to explain the topic, while it should have taken only fifteen minutes.)", "word": "verbose"}
+{"definition": "(adj.) green in tint or color (The verdant leaves on the trees made the world look emerald.)", "word": "verdant"}
+{"definition": "(n.) a mark or trace of something lost or vanished (Do you know if the Mexican tortilla is a vestige of some form of Aztec corn-based flat bread?)", "word": "vestige"}
+{"definition": "(v.) to confuse or annoy (My little brother vexes me by poking me in the ribs for hours on end.)", "word": "vex"}
+{"definition": "(adj.) experiencing through another (All of my lame friends learned to be social through vicarious involvement in my amazing experiences.)", "word": "vicarious"}
+{"definition": "(n.) event that occurs by chance (The vicissitudes of daily life prevent me from predicting what might happen from one day to the next.)", "word": "vicissitude"}
+{"definition": "(adj.) watchful, alert (The guards remained vigilant throughout the night, but the enemy never launched the expected attack.)", "word": "vigilant"}
+{"definition": "(v.) to lower in importance, defame (After the Watergate scandal, almost any story written about President Nixon sought to vilify him and criticize his behavior.)", "word": "vilify"}
+{"definition": "(v.) to avenge; to free from allegation; to set free (The attorney had no chance of vindicating the defendant with all of the strong evidence presented by the state.)", "word": "vindicate"}
+{"definition": "(adj.) vengeful (The vindictive madman seeks to exact vengeance for any insult that he perceives is directed at him, no matter how small.)", "word": "vindictive"}
+{"definition": "(n.) one who excels in an art; a highly skilled musical performer (Even though Lydia has studied piano for many years, she\u2019s only average at it. She\u2019s no virtuoso, that\u2019s for sure.)", "word": "virtuoso"}
+{"definition": "(adj.) not free flowing, syrupy (The viscous syrup took three minutes to pour out of the bottle.)", "word": "viscous"}
+{"definition": "(adj.) having a caustic quality (When angry, the woman would spew vitriolic insults.)", "word": "vitriolic"}
+{"definition": "(v.) to berate (Jack ran away as soon as his father found out, knowing he would be vituperated for his unseemly behavior.)", "word": "vituperate"}
+{"definition": "(adj.) lively, sprightly (The vivacious clown makes all of the children laugh and giggle with his friendly antics.)", "word": "vivacious"}
+{"definition": "(n.) the work in which someone is employed, profession (After growing tired of the superficial world of high-fashion, Edwina decided to devote herself to a new vocation: social work.)", "word": "vocation"}
+{"definition": "(adj.) loud, boisterous (I\u2019m tired of his vociferous whining so I\u2019m breaking up with him.)", "word": "vociferous"}
+{"definition": "(v.) to roll oneself indolently; to become or remain helpless (My roommate can\u2019t get over her breakup with her boyfriend and now just wallows in self-pity.)", "word": "wallow"}
+{"definition": "(v.) to decrease in size, dwindle (Don\u2019t be so afraid of his wrath because his influence with the president is already beginning to wane.)", "word": "wane"}
+{"definition": "(adj.) undisciplined, lewd, lustful (Vicky\u2019s wanton demeanor often made the frat guys next door very excited.)", "word": "wanton"}
+{"definition": "(adj.) fanciful, full of whims (The whimsical little girl liked to pretend that she was an elvin princess.)", "word": "whimsical"}
+{"definition": "(adj.) crafty, sly (Though they were not the strongest of the Thundercats, wily Kit and Kat were definitely the most clever and full of tricks.)", "word": "wily"}
+{"definition": "(adj.) charming, pleasing (After such a long, frustrating day, I was grateful for Chris\u2019s winsome attitude and childish naivete.)", "word": "winsome"}
+{"definition": "(adj.) full of yearning; musingly sad (Since her pet rabbit died, Edda missed it terribly and sat around wistful all day long.)", "word": "wistful"}
+{"definition": "(adj.) dry, shrunken, wrinkled (Agatha\u2019s grandmother, Stephanie, had the most wizened countenance, full of leathery wrinkles.)", "word": "wizened"}
+{"definition": "(n.) vengeful anger, punishment (Did you really want to incur her wrath when she is known for inflicting the worst punishments legally possible?)", "word": "wrath"}
+{"definition": "(v.) to join, link (We yoked together the logs by tying a string around them.) Z", "word": "yoke"}
+{"definition": "(adj.) fervent, filled with eagerness in pursuit of something (If he were any more zealous about getting his promotion, he\u2019d practically live at the office.)", "word": "zealous"}
+{"definition": "(n.) the highest point, culminating point (I was too nice to tell Nelly that she had reached the absolute zenith of her career with that one hit of hers.)", "word": "zenith"}
+{"definition": "(n.) a gentle breeze (If not for the zephyrs that were blowing and cooling us, our room would\u2019ve been unbearably hot.)", "word": "zephyr"}
