@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="viewport" content="width=device-width; initial-scale=1.0">
+
+  <link href='https://fonts.googleapis.com/css?family=Raleway:800' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Raleway:400' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Raleway:100' rel='stylesheet' type='text/css'>
+
+  <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+
+  <!-- icon awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">  
+<style> 
+
+.container {
+  display: flex;
+  flex-flow: row;
+  height: 100%;
+  width: 100%;
+  background-color: #c7ccd6;
+  margin: 0 -1em;
+  padding: 0 1em;  
+  
+}
+
+.main {
+  background-color: #c7ccd6;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  height: 600px;
+  padding: 0 1em; 
+  
+}
+
+.col {
+  margin: auto;
+}
+
+#word {
+  background-color: #f0f9e5;
+  max-height: 50px;
+  font-family: Raleway, sans-serif;
+  font-size: 1.5em;
+  font-weight: 400;
+  }
+
+#def {
+  background-color: #f0f9e5;
+  font-family: Raleway,sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+  max-height: 250px;
+  width: 100%;
+  margin: auto;
+  }
+
+#buttons {
+  font-family: Raleway,sans-serif;
+  font-size: 0.75em;
+  font-weight: 400;
+  max-height: 50px;
+  width: 100%;
+  display: inline-flex;
+  justify-content: space-around;
+
+  }
+
+#progress {
+  font-family: Raleway,sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+  max-height: 40px;
+  width: 100%;
+  margin: auto;
+  }
+
+.quiz {
+  flex:2;
+  background-color: #c7ccd6;
+  height: 340px;
+  max-width: 40%;
+  padding: 0 1em; 
+  margin: auto;
+}
+
+#wordToDef {
+  font-family: Raleway,sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+  /*background: yellow;*/
+  height: 100px;
+  display: flex;
+  justify-content: center;
+}
+
+#defToWord{
+  font-family: Raleway,sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+  /*background: yellow;*/
+  height: 100px;
+  display: flex;
+  justify-content: center;
+}
+
+header {
+  font-family: Raleway, sans-serif;
+  font-size: 2em ;
+  font-weight: 800;
+  margin: 20px;
+  }
+
+#icons{
+  display: flex;
+  justify-content: center;
+  }
+
+#icons:hover{
+  opacity: 0.5;
+}
+
+#iconR{
+  display: flex;
+  justify-content: center;
+  }
+
+#iconR:hover{
+  opacity: 0.5;
+}
+
+@media screen and (max-width:768px) {
+  .container {
+   -webkit-flex-flow: column wrap;
+    flex-flow: column wrap;
+  }
+
+  .quiz {
+    margin: 0 2em;
+    padding: 0 1em;
+    max-width: 100%;
+    max-height: 100px;
+  }
+
+  #wordToDef {
+    height: 30px;
+    font-size: 0.75em;
+    font-weight: 400;
+  }
+
+  #defToWord{
+    height: 30px;
+    font-size: 0.75em;
+    font-weight: 400;
+  }
+
+  #icons{
+    display: inline-block;
+    padding:0px 10px;
+    }
+
+  #iconR{
+    padding:0px 10px 0px 10px;
+    }
+
+}
+
+
+</style>
+
+</head>
+
+<body>
+
+<!-- navigation bar -->
+
+  <nav class="navbar navbar-toggleable-sm navbar-fixed-top navbar-light bg-faded">
+    <button class="navbar-toggler" 
+            type="button" 
+            data-toggle="collapse" 
+            data-target="#navbarNav" 
+            aria-controls="navbarNav" 
+            aria-expanded="false" 
+            aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse nav-fill" id="navbarNav">
+      <ul class="nav nav-pills">
+        <li class="nav-item"> <a class="nav-link active" href="#">SAT Home</a></li>
+        <!-- <li class="nav-item"><a class="nav-link" href="#">Self-test</a></li> -->
+        <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" 
+                                         data-toggle="dropdown" 
+                                         href="#" 
+                                         role="button" 
+                                         aria-haspopup="true" 
+                                         aria-expanded="false">Self-test</a>
+            <div class="dropdown-menu">
+              <a class="dropdown-item" href="#">Word >> Definition</a>
+              <a class="dropdown-item" href="#">Definition >> Word</a>
+            </div>
+        </li>
+        <li class="nav-item"><a class="nav-link" href="#">Lene's Projects</a></li>
+      </ul>
+    </div>
+  </nav>
+
+
+<header class="header">SAT Vocab</header>
+
+<div class="container">
+
+  <section class="main">
+    <div class="col" id="word">word</div>
+    <div class="col" id="def">def</div>
+    <div class="col" id="buttons">
+      
+        <i class="fa fa-angle-left" id="icons" style="font-size:36px; color:#1672ce"></i>
+        <i class="fa fa-angle-right" id="icons" style="font-size:36px; color:#1672ce"></i>
+        <i class="fa fa-check-square-o" aria-hidden="true" id="iconR" style="font-size:36px; color:#1672ce"></i>
+      
+    </div>
+    <div class="col" id="progress">
+      <div class="progress">
+      <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:70%">70%</div>
+    </div>
+  </section>
+  <section class="quiz">
+    <div class="col" id="wordToDef">Match word to definition</div>
+    <div class="col" id="defToWord">Match definition to word</div>
+  </section>
+
+</div>
+
+
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+</body>
+</html>

@@ -2,7 +2,7 @@
 import json
 
 
-with open("SATvocabMini.txt", "r") as f:
+with open("inputSATvocab.txt", "r") as f:
 	# for line in f:
 	# 	print line
 	out = {}
@@ -19,13 +19,10 @@ with open("SATvocabMini.txt", "r") as f:
 
 f.close()
 
-for k in out:
-	print k
-
-print json.dumps(out, indent=1)
-
 
 with open('SATvocab.json', 'w') as fj:
     json.dump(out, fj)
+
+    
 
 fj.close()

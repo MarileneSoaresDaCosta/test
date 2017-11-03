@@ -6,9 +6,8 @@ outputFilename = 'SATvocab.txt'
 bad_rows = "SAT Vocabulary"
 
 
-
-with open(outputFilename, 'w') as fj:
-	fj.write("")
+# delete previous contents
+open(outputFilename, 'w').close()
 
 
 with open(inputFilename) as f:
