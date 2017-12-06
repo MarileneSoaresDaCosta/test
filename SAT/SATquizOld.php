@@ -12,8 +12,8 @@ if( !isset($_SESSION['fingerprint'])){
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>SAT Vocab </title>
-    <link rel="stylesheet" type="text/css" href="SAT.css?<?php echo date('l jS \of F Y h:i:s A'); ?>">
+    <title>SAT Vocab Self-Test </title>
+    <link rel="stylesheet" type="text/css" href="SATquiz.css">
     <link rel="icon" href="catIcon.png">
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -21,8 +21,6 @@ if( !isset($_SESSION['fingerprint'])){
 
    <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
-
-   
 
     <!-- Google Fonts -->
     <link href='https://fonts.googleapis.com/css?family=Raleway:800' rel='stylesheet' type='text/css'>
@@ -35,85 +33,80 @@ if( !isset($_SESSION['fingerprint'])){
     <!-- jQuery dialog box -->
     <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 
+
+
 </head>
 
   <body>
   <!-- navigation bar navbar-expand-lg-->
-
   <nav class="navbar  navbar-expand-sm navbar-light bg-light">
-  <a class="navbar-brand" href="#"><img src="catIcon.png" width="30" height="30" class="d-inline-block align-top" alt=""></a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
+    <a class="navbar-brand" href="#"><img src="catIcon.png" width="30" height="30" class="d-inline-block align-top" alt=""></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
-  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav mr-auto">
-      <li class="nav-item active">
-        <a class="nav-link" href="#">SAT Home <span class="sr-only">(current)</span></a>
-      </li>
-      
-      <li class="nav-item">
-        <a class="nav-link" href="SATquiz.php">Test Your Vocab</a>
-      </li>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="#">SAT Home </a>
+        </li>
+        
+        <li class="nav-item active">
+          <a class="nav-link" href="SATquiz.php">Test Your Vocab <span class="sr-only">(current)</span></a>
+        </li>
 
+        <li class="nav-item">
+          <a class="nav-link" href="https://lene626.com/">Lene's Projects</a>
+        </li>
+       
+      </ul>
+      <div class="navbar-nav navbar-right" id="welcome">  
+      	<?php echo '<p>Hello '.$_SESSION['alias'].'!</p>';?>  
+      	<p id="signout"><a href="logout.php"> Sign out</a> </p> </div>
+        
+    </div>
+  </nav>
 
-
-
-      <li class="nav-item">
-        <a class="nav-link" href="https://lene626.com/">Lene's Projects</a>
-      </li>
-     
-    </ul>
-    <div class="navbar-nav navbar-right" id="welcome">  
-    	<!-- <i class="fa fa-user" id="icons" style="font-size:24px; color:#1672ce" ></i>  -->
-    	<?php echo '<p>Hello '.$_SESSION['alias'].'!</p>';?>  
-    	<p id="signout"><a href="logout.php"> Sign out</a> </p> </div>
-      
-    
-  </div>
-</nav>
-
+<header class="header">SAT Vocab Self-Test</header>
 
 <div class="container">
-  <div class="col">
-    <div class="item" id="header">SAT Vocab</div>
+  <div class="item" id="question"> 
+    <span id="questionNum"></span><span id="prompt"></span> 
+  </div>
 
-    <div class="item" id="word">press next to start</div>
-
-    <div class="item" id="def"></div>
-    <div class="item" id="buttons">
-        <i class="fa fa-angle-left icons iconR" id="back" title="Previous word" style="font-size:36px; color:#1672ce"></i>
-        <i class="fa fa-angle-right icons" id="nextWord"  title="Next word" style="font-size:36px; color:#1672ce"></i>
-        <!-- <i class="fa fa-file-text-o icons" id="flip"  title= "Show definition" style="font-size:30px; color:#1672ce"></i> -->
-        <img class= "icons" src="flipCard.png" id="flip" alt="Show definition" title= "Show definition" height="36" width="36">
-        <i class="fa fa-archive icons"  id="mem" title="Save as Memorized!" style="font-size:36px; color:#1672ce"></i>
-    </div>
-    <div class="item" id="progress">
-      <!-- .progress is a wrapper to indicate the max value of the progress bar -->
-      <div class="progress"> 
-        <!-- inner .progress-bar indicate the progress so far -->
-        <div class="progress-bar" role="progressbar"  title= "progress" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+  <div class="item" id="choices"> 
+    <div class="col">
+      <div class='radiosDiv'>
+        <div class="radio radio-info radio-inline">
+          <input type="radio" name="a" value="" checked />
+          <label  id="a" for="a">right def</label>
+        </div>
+        <div class="radio radio-info radio-inline">
+          <input  type="radio" name="b" value="" />
+          <label id="b" for="b">wrong def</label>
+        </div>
+        <div class="radio radio-info radio-inline">
+          <input  type="radio" name="c" value="" />
+          <label id="c" for="c">wrong def</label>
+        </div>
+        <div class="radio radio-info radio-inline">
+          <input  type="radio" name="d" value="" />
+          <label id="d" for="d">wrong def</label>
+        </div>
       </div>
     </div>
+    <div class="item" id="buttons"> buttons</div>
+    <div class="item" id="progress"> progress</div>
+  </div>
+
+  
+
 </div>
-</div>
-
-<div id="dialog-confirm" title="Save to Memorized list?" style="visibility: hidden;">  
-    <!-- <span class="ui-icon ui-icon-alert" style="float:left; margin:12px 12px 20px 0;"></span> -->
-  Save to memorized-words list?
-
-</div>
- 
- 
- </body>
+</body>
 
 
 
 
-
-<!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <!-- <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
- -->
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     
@@ -135,49 +128,27 @@ if( !isset($_SESSION['fingerprint'])){
 
 var username = "<?php echo $_SESSION['username']; ?>";
 var dynamicUrl = "getOneWord.php?user=" + username;
-console.log('dynamicURL',dynamicUrl);
 var wordsArray = [];
-var currentWordIndex = wordsArray.length -1;
-var memUrl = "updateMem.php?user=" + username;
-var hash="";
-// var seenWords = [];
-var numMemWordsUrl = "checkProgress.php?user=" +username;
-var totalWords = 988;
+var questions = {}; // {word: ... , answer: ..., choices: {... ... ...}}
+var currentQuestion = 1;
+
+// var memUrl = "updateMem.php?user=" + username;
+// var hash="";
+
+
 
 
 $(document).ready(function(){
 
-  updateProgress();
+  createQuestion();
 
-  $("#nextWord").click(function(){
-    console.log("nextword pressed");
-    nextWord();
-  });
-    
-  $("#flip").click(function(){
-    flipCard();
-  });
-
-	 $("#mem").click(function(memUrl){
-    console.log("memorize pressed");
-    memorizeWord();
-  });
-
-  $("#back").click(function(){
-    console.log("back pressed: current i", window.currentWordIndex);
-    back();
-    });
-
-  $("#progress-bar").click(function(){
-    console.log("update Progress bar");
-    updateProgress();
-    });
 
 }); // end of document ready
 
 
 function getWord(url){
   console.log("getWord fn", url);
+
   $.get(url, function(data, status){ 
     console.log("getWord, data.length", url, data.length);
       try {
@@ -188,15 +159,42 @@ function getWord(url){
         console.log("error parsing json", data);
       }
     window.wordsArray.push(js);
-    var i = window.currentWordIndex;
-    $("#word").html(window.wordsArray[i]['word']);
-    $("#def").html(window.wordsArray[i]['definition']);
-    $("#def").css("visibility", "hidden");
-    window.hash=window.wordsArray[i]['hash'];
-    // console.log('currentWordIndex', i);
+    var currentWordIndex = window.wordsArray.length - 1;
+    console.log("index ", currentWordIndex);
+    
+    var i = currentWordIndex;
+    console.log("i ", i);
+    $("#questionNum").html(i+1);
+    $("#prompt").html(window.wordsArray[i]['word']);
+    var correctAnswer = modifyDef(window.wordsArray[i]['word'], window.wordsArray[i]['definition'] );
+    console.log('correctAnswer', correctAnswer);
+     $("#a").html(correctAnswer);
+    
+     
+     for (var n = 1; n < 4; n++){
+      console.log(n);
+      $.get(url, function(data, status){ 
+
+        try {var js = JSON.parse(data);} 
+        catch(err) {console.log("error parsing json multiple choices", data);}
+        var multChoice = modifyDef(js['word'], js['definition'] );
+        console.log("n ", n, "multChoice", multChoice);
+        if(n === 1){$("#b").html(multChoice);}
+        if(n === 2){$("#c").html(multChoice);}
+        if(n === 3){$("#d").html(multChoice);}
+      });
+
+     } 
+
   });
+ 
 }
 
+
+
+function modifyDef(word, def){
+  return def.replace(new RegExp(word, "i"), "*****");
+}
 
 
 
@@ -252,7 +250,6 @@ function updateProgress(){
     $(".progress-bar").css("width", progressWidth +'%');
     $(".progress-bar").attr("aria-valuenow", progress);
     $(".progress-bar").html(progress +'%'); 
-
   });
 }
 
@@ -271,13 +268,12 @@ function memorizeWord(){
   var memUrl = "updateMem.php?user=" +username +"&hash="+window.hash;
   $.get(memUrl, function(data, status) {
     js =  JSON.parse(data);
-    // alert(js['message']+"  Total words memorized: "+js['count']);
-    $(".progress-bar").attr("title", js['message']+"  Total words memorized: "+js['count'] ); 
+    alert(js['message']+"  Total words memorized: "+js['count']);
     console.log('memorizeWord js', js);
   });
   
   updateProgress();
-  // nextWord();
+  nextWord();
 }
 
 
@@ -289,7 +285,7 @@ function confirmMem() {
       modal: true,
       visibility: "visible",
       buttons: {
-        "Save word": function() {
+        "function... ": function() {
           $( this ).dialog( "close" );
         },
         Cancel: function() {

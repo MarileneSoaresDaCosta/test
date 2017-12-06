@@ -1,0 +1,174 @@
+.navbar-nav{
+	width: 100%;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: column wrap;
+  justify-content: space-around;
+  align-items: flex-start;
+  max-height: 100%;
+  width:50%;
+}
+
+
+.item{
+  width: 60%;
+  margin-top: 1em;
+  font-family: Raleway, sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+  padding-right: 2em;
+ }
+
+
+#word {
+  /*background-color: #f0f9e5;*/
+  max-height: 50px;
+  font-family: Raleway, sans-serif;
+  font-size: 1.5em;
+  font-weight: 400;
+  }
+
+
+
+#def {
+  /*background-color: #f0f9e5;*/
+  font-family: Raleway,sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+  min-height: 250px;
+  width: 100%;
+  margin-top: 1em;
+  display:block;
+  }
+
+
+}
+body{
+  font-family: Raleway, sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+}
+
+
+
+#buttons {
+  font-family: Raleway,sans-serif;
+  font-size: 0.75em;
+  font-weight: 400;
+  max-height: 50px;
+  width: 100%;
+  display: inline-flex;
+  justify-content: space-around;
+  margin-top: 0.5em;
+
+  }
+
+#progress {
+  font-family: Raleway,sans-serif;
+  font-weight: 400;
+  max-height: 40px;
+  width: 100%;
+  margin-top: 0.5em;
+
+  }
+
+.progress {
+  font-family: Raleway,sans-serif;
+  font-weight: 400;
+  max-height: 40px;
+  width: 100%;
+  margin-top: 0.5em;
+  background-color: #f0f9e5;
+  }
+
+.progress-bar {
+  width: 25%; 
+  font-size: 1.2em; 
+  text-align: right; 
+}
+
+
+
+header {
+  font-family: Raleway, sans-serif;
+  font-size: 2em ;
+  font-weight: 800;
+  margin: 20px;
+  }
+
+h3 {
+  font-family: Raleway, sans-serif;
+  font-size: 1em ;
+  font-weight: 800;
+  margin: 10px 0px 0px 20px;
+}
+
+h6 {
+  font-family: Raleway, sans-serif;
+  font-size: 0.7em ;
+  font-weight: 400;
+  margin: 10px 0px 0px 20px;
+}
+
+.icons{
+  display: flex;
+  justify-content: center;
+  }
+
+.icons:hover{
+  opacity: 0.5;
+}
+
+
+.iconR{
+  display: flex;
+  justify-content: center;
+  }
+
+.iconR:hover{
+	opacity: 0.5;
+}
+
+
+#welcome{
+	margin-top: 20px;
+	/*margin-right:200px;*/
+}
+
+#signout {
+	padding-left: 20px;
+}
+
+
+@media screen and (max-width:768px) {
+
+  .container {
+   -webkit-flex-flow: column wrap;
+    flex-flow: column wrap;
+    font-size: 0.8em;
+  }
+
+
+  #icons{
+    display: inline-block;
+    padding:0px 10px;
+    }
+
+  #iconR{
+    padding:0px 10px 0px 10px;
+    }
+  
+  .progress-bar {
+  font-size: 0.8em; 
+  text-align: right; 
+}
+
+

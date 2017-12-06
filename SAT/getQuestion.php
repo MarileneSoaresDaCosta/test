@@ -1,19 +1,17 @@
 <?php
-$user = "";
-// if-else statement in 'ternary logic' => if statement ? true : false
-$debug = isset($_GET["debug"])? 1 : 0 ;
 
-// echo $debug;
+$user = isset($_GET["user"]) ? $_GET["user"] : "" ;
 
-if (isset($_GET["user"])){
-	$user = $_GET["user"];
+  
+if(strlen($user) < 1  ){
+ // echo "user not set"."<br>";
+  die(); 
 }
-
-// echo $user."<br>";
 
 $fileName = "users/".$user."/memList.txt";
 
 $inputStr = file_get_contents('SATvocabHashed.txt');
+
 
 if(file_exists($fileName)){
 	$memList = file_get_contents($fileName);
@@ -24,12 +22,12 @@ else{
 	$memList = "";
 	fwrite($newMemFile, $memList);
 }
+
 $memArray = explode("\n",$memList);
 
-if($debug>0) {
-	// echo $fileName."<br>";
-	echo json_encode($memArray)."<br>";
-}
+
+// echo json_encode($memArray)."<br>";
+
 
 // echo $inputStr;
 
@@ -49,9 +47,11 @@ foreach ($vocabArray as $key => $value) {
 	$row = json_decode($value, true);
 	// echo $row["hash"]." ".$row["word"]."<br>";
 	$r = rand(0, 10);
+	// echo $r."<br>";
 	if($r > 1){
 		continue;
 	}
+	// echo $r."<br>";
 	if($row != ""){
 		array_push($outArray, $row);
 	}
@@ -60,18 +60,8 @@ foreach ($vocabArray as $key => $value) {
 	// $n++;
 }
 
-foreach ($outArray as $key => $value) {
-	// echo $key."<br>";
+// print_r($outArray);
 
-	if(wordInMemList($memArray,$value['hash'])){ continue; }	
-	if($debug == 0)	echo json_encode($value)."\n";
-
-
-	foreach ($value as $k => $v) {
-	if($debug == 1)	 echo $k." : ". $v. "<br>";
-	
-	}
-}
 // checks if a word has been 'memorized'
 function wordInMemList($memArray,$hash){
 	foreach ($memArray as $key => $value) { 
@@ -81,5 +71,37 @@ function wordInMemList($memArray,$hash){
 	}
 	return false;
 }
+
+
+$nonMemWords = array();
+// generates array with words that have not been memorized - input for SATmain.php
+foreach ($outArray as $key => $value) {
+	// echo $key."<br>";
+	if(wordInMemList($memArray,$value['hash'])){ continue; }	
+		array_push($nonMemWords, $value);
+}
+
+// picks 4 random entries from nonMemWords
+
+$questionWords = array();
+$wordKeys= array_rand($nonMemWords, 4); 
+foreach ($wordKeys as $key => $value) {
+	array_push($questionWords, $nonMemWords[$value]);
+}
+// print_r($questionWords);
+
+// foreach ($questionWords as $key => $value) {
+	// echo json_encode($value);
+// echo json_encode($questionWords);
+// }
+
+// foreach ($questionWords as $key => $value) {
+// 	foreach ($value as $k => $v) {
+// 		echo $k." : ". $v. "<br>";
+// 	}
+// }
+
+echo json_encode($questionWords);
+
 
 ?>

@@ -13,7 +13,7 @@ if( !isset($_SESSION['fingerprint'])){
 <html lang="en">
   <head>
     <title>SAT Vocab </title>
-    <link rel="stylesheet" type="text/css" href="SAT.css?<?php echo date('l jS \of F Y h:i:s A'); ?>">
+    <link rel="stylesheet" type="text/css" href="SATmain.css">
     <link rel="icon" href="catIcon.png">
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -34,6 +34,8 @@ if( !isset($_SESSION['fingerprint'])){
 
     <!-- jQuery dialog box -->
     <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+
+
 
 </head>
 
@@ -74,34 +76,45 @@ if( !isset($_SESSION['fingerprint'])){
 </nav>
 
 
+<header class="header">SAT Vocab</header>
+
 <div class="container">
-  <div class="col">
-    <div class="item" id="header">SAT Vocab</div>
 
-    <div class="item" id="word">press next to start</div>
-
-    <div class="item" id="def"></div>
-    <div class="item" id="buttons">
+  <section class="main">
+    <div class="col" id="word">word</div>
+    <div class="col" id="def">def</div>
+    <div class="col" id="buttons">
+        
         <i class="fa fa-angle-left icons iconR" id="back" title="Previous word" style="font-size:36px; color:#1672ce"></i>
         <i class="fa fa-angle-right icons" id="nextWord"  title="Next word" style="font-size:36px; color:#1672ce"></i>
-        <!-- <i class="fa fa-file-text-o icons" id="flip"  title= "Show definition" style="font-size:30px; color:#1672ce"></i> -->
-        <img class= "icons" src="flipCard.png" id="flip" alt="Show definition" title= "Show definition" height="36" width="36">
-        <i class="fa fa-archive icons"  id="mem" title="Save as Memorized!" style="font-size:36px; color:#1672ce"></i>
+        <i class="fa fa-file-text-o icons" id="flip"  title= "Show definition" style="font-size:30px; color:#1672ce"></i>
+        <i class="fa fa-check-square-o icons"  id="mem" title="Memorized!" style="font-size:36px; color:#1672ce">
+        	
+        </i>
+        
+      
     </div>
-    <div class="item" id="progress">
+    <div class="col" id="progress">
       <!-- .progress is a wrapper to indicate the max value of the progress bar -->
       <div class="progress"> 
         <!-- inner .progress-bar indicate the progress so far -->
-        <div class="progress-bar" role="progressbar"  title= "progress" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+        <div class="progress-bar" role="progressbar"  aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
       </div>
     </div>
-</div>
+      
+  </section>
+
+  <section class="quiz">
+    <div class="col" > 
+   </div>
+  </section>
+
 </div>
 
-<div id="dialog-confirm" title="Save to Memorized list?" style="visibility: hidden;">  
+<div id="dialog-confirm" title="Save to Memorized list?" style="visibility: hidden;">
+  
     <!-- <span class="ui-icon ui-icon-alert" style="float:left; margin:12px 12px 20px 0;"></span> -->
-  Save to memorized-words list?
-
+  Save to Memorized word list?
 </div>
  
  
@@ -142,7 +155,7 @@ var memUrl = "updateMem.php?user=" + username;
 var hash="";
 // var seenWords = [];
 var numMemWordsUrl = "checkProgress.php?user=" +username;
-var totalWords = 988;
+var totalWords = 970;
 
 
 $(document).ready(function(){
@@ -252,7 +265,6 @@ function updateProgress(){
     $(".progress-bar").css("width", progressWidth +'%');
     $(".progress-bar").attr("aria-valuenow", progress);
     $(".progress-bar").html(progress +'%'); 
-
   });
 }
 
@@ -271,13 +283,12 @@ function memorizeWord(){
   var memUrl = "updateMem.php?user=" +username +"&hash="+window.hash;
   $.get(memUrl, function(data, status) {
     js =  JSON.parse(data);
-    // alert(js['message']+"  Total words memorized: "+js['count']);
-    $(".progress-bar").attr("title", js['message']+"  Total words memorized: "+js['count'] ); 
+    alert(js['message']+"  Total words memorized: "+js['count']);
     console.log('memorizeWord js', js);
   });
   
   updateProgress();
-  // nextWord();
+  nextWord();
 }
 
 
@@ -289,7 +300,7 @@ function confirmMem() {
       modal: true,
       visibility: "visible",
       buttons: {
-        "Save word": function() {
+        "function... ": function() {
           $( this ).dialog( "close" );
         },
         Cancel: function() {

@@ -1,0 +1,286 @@
+.navbar-nav{
+  width: 100%;
+  font-family: Raleway, sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+}
+
+
+#welcome{
+	margin-top: 20px;
+	/*margin-right:200px;*/
+}
+
+#signout {
+	padding-left: 20px;
+}
+
+
+.container {
+  display: flex;
+  flex-direction: row;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: column wrap;
+  justify-content: space-around;
+  align-items: flex-start;
+  max-height: 100%;
+  
+}
+
+
+.item{
+  width: 60%;
+  margin-top: 1em;
+  font-family: Raleway, sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+  padding-right: 2em;
+
+ }
+
+ #header {
+  font-family: Raleway, sans-serif;
+  font-size: 2em ;
+  font-weight: 800;
+  }
+
+p {
+  font-family: Raleway, sans-serif;
+  font-size: 1.2em;
+  font-weight: 400;
+}
+
+.form-group{
+  font-family: Raleway, sans-serif;
+  font-size: 1em;
+  font-weight: 100;
+}
+
+ #word {
+  /*background-color: #f0f9e5;*/
+  max-height: 50px;
+  font-family: Raleway, sans-serif;
+  font-size: 1.5em;
+  font-weight: 400;
+  }
+
+
+
+#def {
+  /*background-color: #f0f9e5;*/
+  font-family: Raleway,sans-serif;
+  font-size: 1.5em;
+  font-weight: 400;
+  min-height: 250px;
+  width: 100%;
+  margin-top: 1em;
+  display:block;
+  }
+
+#question {
+  order: 1;
+  max-height: 50px;
+  width: 100%;
+  margin-top: 0px;
+}
+
+#choices {
+  order: 2;
+  max-height: 400px;
+  width: 100%;
+  font-size: 1em;
+}
+
+
+input[type="radio"] { 
+    position: absolute;
+}
+
+input[type="radio"] ~ label { 
+    padding-left:1.4em;
+    display:inline-block;
+}
+#questionNum{
+	padding-right:1em;
+	/*padding-left:1.2em;*/
+	font-size: 1.5em;
+}
+
+#prompt{
+	font-size: 1.5em;
+}
+
+#buttons {
+  font-family: Raleway,sans-serif;
+  font-size: 0.75em;
+  font-weight: 400;
+  max-height: 50px;
+  width: 100%;
+  display: inline-flex;
+  justify-content: space-around;
+  margin-top: 0.5em;
+  }
+
+#buttonsQ {
+  order: 3;
+  margin-top:2em;
+  width: 90%;
+  }
+
+.button {
+    background-color: #1672ce;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.button:hover {
+    background-color: #4CAF50;;
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+
+#grading {
+  order: 4;
+  font-family: Raleway,sans-serif;
+  font-weight: 800;
+  max-height: 40px;
+  width: 100%;
+  margin-top: 0.5em;
+  color: #1672ce;
+  font-size: 1.2em;
+  text-align: center;
+  }
+
+#progress {
+  font-family: Raleway,sans-serif;
+  font-weight: 400;
+  max-height: 40px;
+  width: 100%;
+  margin-top: 0.5em;
+  }
+
+.progress {
+  font-family: Raleway,sans-serif;
+  font-weight: 400;
+  max-height: 40px;
+  width: 100%;
+  margin-top: 0.5em;
+  background-color: #f0f9e5;
+  }
+
+.progress-bar {
+  width: 25%; 
+  font-size: 1.2em; 
+  text-align: right; 
+}
+
+.icons{
+  display: flex;
+  justify-content: center;
+  }
+
+.icons:hover{
+  opacity: 0.5;
+}
+
+
+.iconR{
+  display: flex;
+  justify-content: center;
+  }
+
+.iconR:hover{
+	opacity: 0.5;
+}
+
+
+
+@media screen and (max-width:575px) {
+
+  #header {
+  font-family: Raleway, sans-serif;
+  font-size: 1.2em ;
+  font-weight: 800;
+  }
+
+
+  .container {
+   -webkit-flex-flow: column wrap;
+    flex-flow: column wrap;
+    font-size: 0.85em;
+  }
+
+
+  #icons{
+    display: inline-block;
+    padding:0px 10px;
+    }
+
+  #iconR{
+    padding:0px 10px 0px 10px;
+    }
+  
+  .progress-bar {
+  font-size: 0.85em; 
+  text-align: right; 
+  }
+
+  #question {
+    order: 1;
+    font-size: 0.85em; 
+    max-height: 30px;
+    width: 100%;
+  }
+
+  #choices {
+    order: 2;
+    font-size: 0.85em; 
+    max-height: 400px;
+    width: 100%;
+  }
+
+  #questionNum{
+    font-size: 1em;
+  }
+
+  .button{
+    padding: 10px 15px;
+    font-size: 0.85em;
+  }
+
+  #check{
+    z-index:1;
+  }
+
+
+  #word {
+    font-size: 1.25em;
+    font-weight: 400;
+  }
+
+
+
+  #def {
+    font-size: 1.25em;
+    font-weight: 400; 
+  }
+
+
+
+}
+
+
+

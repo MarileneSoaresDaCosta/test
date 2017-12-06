@@ -75,49 +75,68 @@ else{
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" type="text/css" href="SAT.css">
   <link href='https://fonts.googleapis.com/css?family=Raleway:800' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Raleway:400' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Raleway:100' rel='stylesheet' type='text/css'>
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+     <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+
      <!-- Custom styles for this template -->
     <link href="narrow-jumbotron.css" rel="stylesheet">
+
+      <!-- Google Fonts -->
+    <link href='https://fonts.googleapis.com/css?family=Raleway:800' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Raleway:100' rel='stylesheet' type='text/css'>
+    
+    <!-- icon awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
+
+    <!-- jQuery dialog box -->
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+
 <style>
-* {
-  font-family: Raleway, sans-serif;
-  /*font-size: 0.75em;*/
-  font-weight: 800;
-  }
 
 </style>
 
   </head>
   <body>
-    <div class="container">
-      <header class="header clearfix">
-        <nav>
-          <ul class="nav nav-pills float-right">
-            <li class="nav-item">
-              <a class="nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">About this project</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Project Portfolio</a>
-            </li>
-          </ul>
-        </nav>
+  <!-- navigation bar navbar-expand-lg-->
 
-    <div class="container">
-      <div class="jumbotron">
-        <h1 class="display-3">SAT Vocabulary</h1>
-        <p class="lead">Practice with a vocabulary of nearly 1000 words. Save the words you memorized and see your progress.</p>
+<nav class="navbar  navbar-expand-sm navbar-light bg-light">
+  <a class="navbar-brand" href="#"><img src="catIcon.png" width="30" height="30" class="d-inline-block align-top" alt=""></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="SATmain.php">SAT Home <span class="sr-only">(current)</span></a> </li>
+      <li class="nav-item">
+        <a class="nav-link disabled" href="SATquiz.php">Test Your Vocab</a> </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://lene626.com/">Lene's Projects</a></li>  
+    </ul>
+      <!-- <div class="navbar-nav navbar-right" id="welcome">   -->
+      <!-- <i class="fa fa-user" id="icons" style="font-size:24px; color:#1672ce" ></i>  -->
+  </div>
+</nav>
+
+  <header>SAT Vocabulary</header>
+
+<div class="container"> 
+
+      <div class="item">
+        <p>Practice with a vocabulary of nearly 1000 words. </p>
+        <p>Sign in to get started!</p>
       </div>
-    <br>
-      <h3 class="display-4">Log in to begin!</h1>
-    <br>
+</div>
+<div class="container">
     <?php 
      // echo "<p> post:";
      // echo "<p> ".json_encode($_POST); 
@@ -151,7 +170,8 @@ else{
       </div>
 
     </form>
-    </div>
+</div>
+
 
 
     <!-- Optional JavaScript - jQuery first, then Popper.js, then Bootstrap JS -->

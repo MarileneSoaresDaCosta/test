@@ -1,0 +1,108 @@
+/*SATquiz.css*/
+
+
+header {
+  font-family: Raleway, sans-serif;
+  font-size: 2em ;
+  font-weight: 800;
+  margin: 20px;
+  }
+
+body{
+  font-family: Raleway, sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: column wrap;
+  justify-content: space-around;
+  align-items: flex-start;
+  flex: 1;
+  max-height: 100%;
+  background-color: white;
+}
+
+
+
+.item{
+  flex: 0 1 auto; 
+  height: 300px;
+  width: 100%;
+  margin-top: 1em;
+  font-family: Raleway, sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+ }
+
+
+
+#question {
+  order: 1;
+  max-height: 50px;
+}
+
+#choices {
+  order: 2;
+  max-height: 250px;
+}
+
+
+input[type="radio"] { 
+    position: absolute;
+}
+
+input[type="radio"] ~ label { 
+    padding-left:1.4em;
+    display:inline-block;
+}
+#questionNum{
+	padding-right:1em;
+	padding-left:1.2em;
+	font-size: 1.5em;
+}
+
+#prompt{
+	font-size: 1.5em;
+}
+
+#buttons {
+  order: 3;
+  max-height: 50px;
+  padding-left:1.4em;
+  text-align: right;
+}
+
+#progress{
+  order: 4;
+  max-height: 50px;
+  padding-left:1.4em;
+}
+
+
+#welcome{
+  margin-top: 20px;
+  /*margin-right:200px;*/
+}
+
+#signout {
+  padding-left: 20px;
+}
+
+
+@media screen and (max-width:768px) {
+  .container {
+   -webkit-flex-flow: column wrap;
+    flex-flow: column wrap;
+    font-size: 0.8em;
+  }
+
+
+}
