@@ -1,0 +1,444 @@
+/* CSS styling for WVMuslim Association mock site - version with carousel */
+
+body,h1,h2,h3,h4,h5,h6 {
+	font-family: "Roboto", sans-serif;
+}
+
+body, html {
+    height: 100%;
+    color: #777;
+    line-height: 1.8;
+}
+
+a {
+    text-decoration: none;
+}
+
+.comment {
+  font-style: italic;
+  text-align: center;
+  color: #a8e0df;
+
+}
+
+.navbar {
+  background-color: white;
+  width: 100%;
+}
+/* top bar */
+
+.logo {
+  width: 24px;
+  height: 24px; 
+  margin-right: 3px;
+  margin-bottom: 3px;
+}
+
+.navbar-toggler {
+  border-color: #9e9c9c !important;
+  border-width: 1px;
+}
+
+
+
+.search {
+  color: grey;
+  padding-top: 14px;
+}
+
+.navbar-brand {
+  font-weight: 500;
+  color: grey !important;
+  max-width: 800px;
+
+}
+
+.nav-item{
+  padding-top: 2px;
+}
+
+.nav-item:hover, .navbar-toggler:focus{
+  background-color: #d5d6d1;
+  border: none;
+}
+
+.nav-link {
+  font-size: 0.8em;
+}
+
+#navbarSupportedContent {
+  float: right !important;
+}
+
+
+
+/* prayer times - top */
+
+.prayerTimesContainer {
+  padding-top: 3em;
+}
+
+.prayer_times {
+  padding-top: 3em;
+  text-align: center;
+  width: 100%;
+  color: white;
+  font-weight: 400;
+}
+
+.prayer_timesTable {
+
+  width: 80%;
+  background-color: rgba(135, 135, 128, 0.8);
+  -webkit-box-shadow:0px 4px 4px rgba(135, 135, 128, 1);
+  -moz-box-shadow:0px 4px 4px rgba(135, 135, 128, 1);
+  box-shadow:1px 4px 4px rgba(135, 135, 128, 1);
+  margin: auto;
+}
+
+
+.prayer {
+  text-align: center;
+  text-shadow:2px 2px 2px black;
+  font-size: 2em;
+
+}
+
+
+.jtime {
+  text-align: center;
+  text-shadow:2px 2px 2px black;
+  font-size: 1.5em;
+}
+
+.btime {
+  text-align: center;
+  font-size: 1em;
+  text-shadow:2px 2px 5px black;
+}
+
+
+/* content: includes parallax images and other areas  */
+
+.bism {
+  width: 150px;
+  margin: auto;
+  padding-bottom: 0.1em;
+  display: block;
+}
+
+#home, #news, #about, #donate, #events, #media, .contact, .social_feed {
+  padding-bottom:  10em;
+}
+
+#home > p, #about > p, #donate > p, #events > p, #media > p {
+  text-align: justify;
+}
+
+.logo_intro {
+  display: block;
+  margin: auto;
+  width: 100%;
+  line-height: 150px;
+  width: 150px;
+  height: 150px;
+  background-color: #23bfc4;
+  border-radius: 100%;
+  margin-bottom: 2em;
+  padding: 10px;
+}
+
+
+
+.q_quote{
+  display: block;
+  width: 500px;
+  margin: auto;
+  padding-bottom: 2em;
+}
+
+.q_quote > img {
+  width: 500px;
+  margin: auto;
+  padding-bottom: 1em;
+  text-align: center;
+}
+
+.q_quote > p {
+  text-align: justify;
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+
+}
+
+.q_quote > p > .translation {
+  font-weight: bold;
+  font-family: 'Playfair Display', serif;
+  font-style: normal;
+}
+
+.intro_text {
+  text-align: justify;
+  padding: 1em 2em 1em 2em;
+}
+
+.section_title {
+  font-weight: 100;
+  font-size: 2em;
+  color: teal;
+  padding-bottom: 1em;
+  text-align: center;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+/* news section */
+
+.news_img {
+  display: block;
+  /*text-align: center;*/
+  margin: auto;
+  width: 100%;
+  line-height: 150px;
+  width: 150px;
+  height: 150px;
+  background-color: white;
+  border-radius: 100%;
+  margin-bottom: 2em;
+  padding: 10px;
+}
+
+.col-sm-6 > p {
+  padding: 1em 1em 1em 1em;
+  text-align: justify;
+}
+
+/* Facebook posts - Social Feed */
+
+.fb_posts {
+  display: block;
+  padding-left: 5em;
+}
+
+/* board */
+.board_img {
+  display: block;
+  margin: auto;
+  width: 100%;
+  line-height: 100px;
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  border-radius: 100%;
+  margin-bottom: 0.5em;
+  padding: 10px;
+}
+
+.col-sm-3 > p {
+  padding: 0;
+  text-align: justify;
+}
+
+.imam > img {
+  display: block;
+  margin: auto;
+  width: 100%;
+  line-height: 250px;
+  width: 250px;
+  height: 250px;
+  background-color: white;
+  border-radius: 100%;
+  margin-bottom: 0.5em;
+  padding: 10px;
+}
+
+/*title and text within parallax pictures- large screens*/
+
+.parallax_title {
+  font-size: 4em;
+  display: block;
+  text-shadow:2px 2px 2px white;
+  /*padding: 2em 2em 2em 2em;*/
+  width:400px;
+  margin: auto;
+  padding-top:3em;
+  text-align: center;
+  color: #39a09d;
+  
+}
+.parallax_text{
+  font-size: 1em;
+  display: block;
+  color: black;
+  /*text-shadow:2px 2px 2px black;*/
+  padding: 0.1em 2em 0.1em 2em;
+  width:400px;
+  margin: auto;
+  text-align: justify;
+  background-color: rgba(202, 247, 246,0.8);
+  -webkit-box-shadow:0px 4px 4px #2b2b2d;
+  -moz-box-shadow:0px 4px 4px #2b2b2d;
+  box-shadow:1px 4px 4px #2b2b2d;
+
+}
+
+
+
+/* footer icons */
+.icons {
+  display: inline-block;
+  text-align: center;
+  margin: auto;
+  width: 100%;
+  color: grey;
+}
+.icons > i{
+  line-height: 40px;
+  width: 40px;
+  height: 40px;
+}
+
+.icon {
+  background-color: #d5d6d1;
+  border-radius: 100%;
+}
+
+.frame_center{
+  display: block;
+  margin: auto;
+}
+
+@media only screen and (max-width: 736px) { 
+
+  .navbar-brand, .title, .menuButton {
+    font-size: 0.8em;
+  }
+
+
+  /* prayer times */
+
+  .prayerTimesContainer {
+    margin-top: 1em;
+  }
+
+  .prayer_times {
+    color: white;
+    font-weight: 400;
+  }
+
+  .prayer_timesTable {
+    width: 90%
+   /* background-color: #5b5c60;*/
+    -webkit-box-shadow:0px 4px 4px #2b2b2d;
+    -moz-box-shadow:0px 4px 4px #2b2b2d;
+    box-shadow:1px 4px 4px #2b2b2d;
+    margin: auto;
+  }
+
+  .prayer, .jtime, .btime {
+    font-size: 0.8em;
+    color: black;
+    text-shadow: none;
+  }
+
+
+  /*title and text within parallax pictures - mobile */
+  .parallax_title {
+    width:250px; 
+    font-size: 2.5em;
+  }
+
+  .parallax_text{
+    font-size: 0.8em;
+    display: block;
+    color: black;
+    /*text-shadow:0px 0px 0px black;*/
+    padding: 1em 1em 1em 1em;
+    width:250px;
+    margin: auto;
+    text-align: justify;
+  }
+
+  #about, #donate, #events, #media {
+    padding: 1em 0.5em 1em 0.5em;
+  }
+
+
+  .bism {
+    width: 100px;
+  }
+
+  .q_quote{
+    width: 290px;
+    font-size: 0.8em;
+  }
+
+
+  .q_quote > img {
+    width: 300px;
+  }
+
+
+  .section_title {
+    font-weight: 100;
+    font-size: 1.5em;
+    color: teal;
+  }
+
+
+  .fb_posts {
+    display: block;
+    padding-left: 1em;
+  }
+
+
+  .col-sm-6 > p {
+    padding: 1em 2em 1em 2.2em;
+    
+  }
+
+  .intro_text {
+    padding: 0;
+  }
+
+  .intro_text > p {
+    padding: 0 2.5em 1em 3em;
+  }
+
+  .col-sm-3 > p {
+    padding: 1em 2em 1em 2.2em;
+    
+  }
+
+p, li {
+  font-size: 0.8em;
+}
+
+h3 {
+  font-size: 1em;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
